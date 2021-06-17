@@ -8576,6 +8576,91 @@ nav {
 	}
 }
 
+@media (max-width:1366px) and (max-height:657px) {
+	.bg-text.calendar {
+    width: 24%;
+    font-size: x-large;
+    margin-top: -22px;
+	}
+
+	.asideLeft {
+    margin-top: 215px;
+	}
+
+	.sectionRight {
+    margin-top: 65px;
+	}
+
+	.sectionRight.about h2 {
+		width: 100%;
+		margin-left: 0px;
+		margin-top: -10px;
+		padding-bottom: 5px;
+		padding-top: 5px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: 199px;
+	}
+
+	.sectionRight.about {
+    margin-top: 20px;
+    width: 29%;
+    padding-top: 30px;
+    padding-bottom: 10px;
+	}
+
+	.sectionRight.about .twitter {
+    margin-top: -40px;
+    width: 82%;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: -60px;
+		margin-left: 15px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: 30px;
+		width: 35%;
+		margin-right: 15px;
+	}
+.post .asideLeft.twitter {
+    margin-top: -133px;
+}
+
+.post .sectionRight.contact {
+    margin-top: -133px;
+}
+
+
+
+	.kiki-gallery .četerdesetsedma.film1600.film1680.film1920.uzorak {
+		margin-top: 1985px;
+	}
+
+	.kiki-gallery.bts .dvadesetdeveta.bts.b1600.b1680.b1920 {
+		margin-top: 2295px;
+	}
+
+	.kiki-gallery.world .tridesetdeveta.world.desktop1600.desktop1680.desktop1920 {
+		margin-top: 5081px;
+	}
+
+	.kiki-gallery.reallity {
+		height: 90px;
+		margin-top: 403px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+    margin-top: -30px;
+	}
+
+	.glitcoo {
+		margin-top: 257px;
+	}
+}
+
 @media (max-width:1360px) and (max-height:768px) {
 	.bg-text.calendar {
 		margin-top: -77px;
