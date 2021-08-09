@@ -1,13 +1,14 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<META HTTP-EQUIV="refresh" content="0;URL=thankyou.html">
-<title>Email Form</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<META HTTP-EQUIV="refresh" content="0;URL=thankyou.html">
+	<title>Email Form</title>
 </head>
 
 <body>
-<?php
+	<?php
   $name=addslashes($_POST['name']);
   $email=addslashes($_POST['email']);
   $comments=addslashes($_POST['comments']);
@@ -15,7 +16,7 @@
  // you can specify which email you want your contact form to be emailed to here
 
   $toemail = "kristijan.bancic@gmail.com";
-  $subject = "from ";
+  $subject = "from https://kristijanbancic.github.io/Still-Photographer";
 
   $headers = "MIME-Version: 1.0\n"
             ."From: \"".$name."\" <".$email.">\n"
@@ -37,4 +38,5 @@
     echo "Thanks for submitting your comments";
 ?>
 </body>
+
 </html>
