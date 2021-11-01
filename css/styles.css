@@ -143,6 +143,73 @@ nav {
 }
 
 @media (max-width:2560px) {
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+		transition-duration: 1.5s;
+		transition-property: transform, opacity;
+	}
+
+	.flip > .front {
+		transform: rotateY(0deg);
+	}
+
+	.flip > .back {
+		position: absolute;
+		opacity: 0;
+		top: 0px;
+		left: 0px;
+		width: 100%;
+		height: 100%;
+		transform: rotateY(-180deg);
+	}
+
+	.flip:hover > .front {
+		transform: rotateY(180deg);
+	}
+
+	.flip:hover > .back {
+		opacity: 1;
+		transform: rotateY(0deg);
+	}
+
+	.flip.flip-vertical > .back {
+		transform: rotateX(-180deg);
+	}
+
+	.flip.flip-vertical:hover > .front {
+		transform: rotateX(180deg);
+	}
+
+	.flip.flip-vertical:hover > .back {
+		transform: rotateX(0deg);
+	}
+
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin: 0 auto;
+		cursor: pointer;
+		margin-right: 15px;
+		margin-bottom: 1em;
+
+	}
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		color: white;
+		background-size: cover !important;
+		background-position: center !important;
+		width: 330px;
+		height: 243px;
+		padding: 1em 1em;
+		background: #313131;
+		border-radius: 10px;
+	}
+
 	.asideLeft.about {
 		margin-top: 538px;
 	}
@@ -8578,17 +8645,17 @@ nav {
 
 @media (max-width:1366px) and (max-height:657px) {
 	.bg-text.calendar {
-    width: 24%;
-    font-size: x-large;
-    margin-top: -22px;
+		width: 24%;
+		font-size: x-large;
+		margin-top: -22px;
 	}
 
 	.asideLeft {
-    margin-top: 215px;
+		margin-top: 215px;
 	}
 
 	.sectionRight {
-    margin-top: 65px;
+		margin-top: 65px;
 	}
 
 	.sectionRight.about h2 {
@@ -8600,19 +8667,19 @@ nav {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 199px;
+		margin-top: 199px;
 	}
 
 	.sectionRight.about {
-    margin-top: 20px;
-    width: 29%;
-    padding-top: 30px;
-    padding-bottom: 10px;
+		margin-top: 20px;
+		width: 29%;
+		padding-top: 30px;
+		padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
-    margin-top: -40px;
-    width: 82%;
+		margin-top: -40px;
+		width: 82%;
 	}
 
 	.asideLeft.thankyou {
@@ -8625,13 +8692,14 @@ nav {
 		width: 35%;
 		margin-right: 15px;
 	}
-.post .asideLeft.twitter {
-    margin-top: -133px;
-}
 
-.post .sectionRight.contact {
-    margin-top: -133px;
-}
+	.post .asideLeft.twitter {
+		margin-top: -133px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: -133px;
+	}
 
 
 
@@ -8653,7 +8721,7 @@ nav {
 	}
 
 	.kiki-gallery.reallity .Reallity {
-    margin-top: -30px;
+		margin-top: -30px;
 	}
 
 	.glitcoo {
@@ -51847,10 +51915,10 @@ nav {
 	}
 
 	.asideLeft {
-		margin-top: 35px;
-		width: 28%;
-		font-size: x-small;
-		margin-left: 38px;
+    margin-top: 15px;
+    width: 28%;
+    font-size: x-small;
+    margin-left: 38px;
 	}
 
 	.sectionRight {
