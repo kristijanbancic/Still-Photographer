@@ -142,13 +142,30 @@ nav {
 	box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
 }
 
-
-
-
-
-
-
 @media (max-width:2560px) {
+	.container-fluid .navbar-header .navbar-brand {
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 1.7em;
+		color: #000000;
+	}
+
+	.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
+		float: right;
+		clear: right;
+		margin-top: 0px;
+		padding-bottom: 0px;
+		padding-top: 13px;
+		padding-left: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1100px;
+	}
 
 	.flip > .front,
 	.flip > .back {
@@ -196,11 +213,11 @@ nav {
 	.flip {
 		position: relative;
 		display: inline-block;
-		margin: 0 auto;
-		cursor: pointer;
+		margin-top: 35px;
 		margin-right: 15px;
-		margin-bottom: 1em;
-
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
 	}
 
 	.flip > .front,
@@ -238,74 +255,6 @@ nav {
 		width: 27%;
 		margin-right: 75px;
 		text-align: justify;
-	}
-
-	.container-fluid .navbar-header .navbar-brand {
-		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-		font-size: 1.7em;
-		color: #000000;
-	}
-
-	.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
-		float: right;
-		clear: right;
-		margin-top: 0px;
-		padding-bottom: 0px;
-		padding-top: 13px;
-		padding-left: 0px;
-		margin-left: 0px;
-		margin-right: 0px;
-	}
-
-
-
-
-	.elements-gride {
-		width: 100%;
-		margin-top: 70px;
-
-	}
-	
-	.elements-gride a .element-item.persent-size {
-	transition: 0.2s ease-in-out;
-}
-	
-.elements-gride a .element-item.persent-size:hover {
-		transform: scale(1.03);
-}
-
-
-	.persent-size {
-		width: 25%;
-	}
-
-	.element-item {
-		padding: 8px;
-	}
-
-	.kiki-gallery.film.stills {
-    max-width: 1920px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-bottom: 6440px;
-	}
-
-	.kiki-gallery.bts {
-    max-width: 1920px;
-    margin-left: auto;
-    margin-right: auto;
-}
-.kiki-gallery.world {
-    max-width: 1920px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
 	}
 
 	.kiki-gallery {
@@ -579,8 +528,31 @@ nav {
 }
 
 @media (max-width:1920px) {
+	.container-fluid .navbar-header .navbar-brand {
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 1.7em;
+		color: #000000;
+		font-style: normal;
+		font-weight: 400;
+	}
 
+	.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
+		float: right;
+		clear: right;
+		margin-top: 0px;
+		padding-bottom: 0px;
+		padding-top: 15px;
+		padding-left: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
 
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 700px;
+	}
 
 	.flip > .front,
 	.flip > .back {
@@ -628,11 +600,11 @@ nav {
 	.flip {
 		position: relative;
 		display: inline-block;
-		margin: 0 auto;
-		cursor: pointer;
+		margin-top: 35px;
 		margin-right: 15px;
-		margin-bottom: 1em;
-
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
 	}
 
 	.flip > .front,
@@ -647,10 +619,6 @@ nav {
 		background: #313131;
 		border-radius: 10px;
 	}
-
-
-
-
 
 	.asideLeft.about {
 		margin-top: 390px;
@@ -672,50 +640,6 @@ nav {
 		width: 30%;
 		margin-right: 38px;
 		text-align: justify;
-	}
-
-	.container-fluid .navbar-header .navbar-brand {
-		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-		font-size: 1.7em;
-		color: #000000;
-		font-style: normal;
-		font-weight: 400;
-	}
-
-	.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
-		float: right;
-		clear: right;
-		margin-top: 0px;
-		padding-bottom: 0px;
-		padding-top: 15px;
-		padding-left: 0px;
-		margin-left: 0px;
-		margin-right: 0px;
-	}
-
-
-	.navbar.navbar-default.navbar-fixed-top .container-fluid {}
-
-	.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6067px;
-	}
-
-	.kiki-gallery.bts {
-    margin-left: 10px;
-    margin-right: 10px;
-}
-.kiki-gallery.world {
-    max-width: 1920px;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
 	}
 
 	.kiki-gallery {
@@ -774,8 +698,6 @@ nav {
 		height: 800px;
 	}
 
-
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: 0px;
 		margin-left: 548px;
@@ -816,7 +738,6 @@ nav {
 		text-align: center;
 		margin-top: 50px;
 	}
-
 
 	.comingsoonh1 {
 		font-family: alfa-slab-one;
@@ -926,7 +847,6 @@ nav {
 		padding-top: 30px;
 	}
 
-
 	.glitchh1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -991,14 +911,19 @@ nav {
 	.bg-image.img12 .decemberlink {
 		margin-left: 15px;
 	}
-
-
-
-
 }
 
 @media (max-width:1920px) and (max-height:1200px) {
+	.container-fluid .navbar-header .navbar-brand {
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 1.7em;
+	}
 
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+	}
 
 	.asideLeft.about {
 		margin-top: 390px;
@@ -1020,11 +945,6 @@ nav {
 		width: 30%;
 		margin-right: 38px;
 		text-align: justify;
-	}
-
-	.container-fluid .navbar-header .navbar-brand {
-		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-		font-size: 1.7em;
 	}
 
 	.imbd {
@@ -1085,6 +1005,17 @@ nav {
 }
 
 @media (max-width:1920px) and (max-height:1080px) {
+	.container-fluid .navbar-header .navbar-brand {
+		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+		font-size: 1.7em;
+	}
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+	}
+
 	.asideLeft.about {
 		margin-top: 385px;
 	}
@@ -1105,11 +1036,6 @@ nav {
 		width: 30%;
 		margin-right: 38px;
 		text-align: justify;
-	}
-
-	.container-fluid .navbar-header .navbar-brand {
-		font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
-		font-size: 1.7em;
 	}
 
 	.kiki-gallery {
@@ -1166,10 +1092,10 @@ nav {
 }
 
 @media (max-width:1680px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5325px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
 	}
 
 	.asideLeft {
@@ -1237,10 +1163,18 @@ nav {
 		margin-top: 455px;
 	}
 
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin-top: 35px;
+		margin-right: 15px;
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
+	}
 }
 
 @media (max-width:1600px) {
-
 	.asideLeft {
 		margin-top: 440px;
 		margin-left: 15px;
@@ -1290,13 +1224,23 @@ nav {
 	.glitcoo {
 		margin-top: 415px;
 	}
+
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin-top: 35px;
+		margin-right: 15px;
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
+	}
 }
 
 @media (max-width:1600px) and (max-height:1200px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5075px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
 	}
 
 	.asideLeft {
@@ -1353,14 +1297,13 @@ nav {
 	.glitcoo {
 		margin-top: 415px;
 	}
-
 }
 
 @media (max-width:1600px) and (max-height:1024px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5050px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
 	}
 
 	.asideLeft {
@@ -1423,14 +1366,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 0px;
 	}
-
 }
 
 @media (max-width:1600px) and (max-height:900px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5050px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 630px;
 	}
 
 	.asideLeft {
@@ -1467,10 +1410,12 @@ nav {
 
 	.post .asideLeft.twitter {
 		width: 25%;
+		margin-top: 50px;
 	}
 
 	.post .sectionRight.contact {
 		width: 25%;
+		margin-top: 50px;
 	}
 
 	.asideLeft.thankyou {
@@ -1493,14 +1438,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 0px;
 	}
-
 }
 
 @media (max-width:1440px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4600px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 620px;
 	}
 
 	.asideLeft {
@@ -1588,11 +1533,9 @@ nav {
 	.glitcoo {
 		margin-top: 295px;
 	}
-
 }
 
 @media (max-width:1366px) {
-
 	.asideLeft .prva {
 		margin-top: -28px;
 	}
@@ -1659,11 +1602,13 @@ nav {
 }
 
 @media (max-width:1366px) and (max-height:1024px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4525px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -205px;
 		width: 24%;
@@ -1721,15 +1666,16 @@ nav {
 	.glitcoo {
 		margin-top: 340px;
 	}
-
 }
 
 @media (max-width:1366px) and (max-height:768px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4305px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 625px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -77px;
 		width: 24%;
@@ -1791,15 +1737,16 @@ nav {
 	.glitcoo {
 		margin-top: 257px;
 	}
-
 }
 
 @media (max-width:1366px) and (max-height:657px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4335px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 625px;
 	}
+
 	.bg-text.calendar {
 		width: 24%;
 		font-size: x-large;
@@ -1869,15 +1816,16 @@ nav {
 	.glitcoo {
 		margin-top: 257px;
 	}
-
 }
 
 @media (max-width:1360px) and (max-height:768px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4305px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 625px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -77px;
 		width: 24%;
@@ -1935,11 +1883,9 @@ nav {
 	.glitcoo {
 		margin-top: 257px;
 	}
-
 }
 
 @media (max-width: 1280px) {
-
 	.sectionRight.about {
 		margin-top: 10px;
 		padding-top: 15px;
@@ -1988,11 +1934,13 @@ nav {
 }
 
 @media (max-width:1280px) and (max-height:1024px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4030px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -205px;
 		width: 25%;
@@ -2061,15 +2009,16 @@ nav {
 	.glitcoo {
 		margin-top: 320px;
 	}
-
 }
 
 @media (max-width:1280px) and (max-height:960px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4030px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -173px;
 		width: 25%;
@@ -2138,15 +2087,16 @@ nav {
 	.glitcoo {
 		margin-top: 270px;
 	}
-
 }
 
 @media (max-width:1280px) and (max-height:950px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4030px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -168px;
 		width: 27%;
@@ -2197,15 +2147,16 @@ nav {
 	.glitcoo {
 		margin-top: 265px;
 	}
-
 }
 
 @media (max-width:1280px) and (max-height:800px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4030px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 640px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -93px;
 		width: 25%;
@@ -2263,14 +2214,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -145px;
 	}
-
 }
 
 @media (max-width:1280px) and (max-height:768px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4040px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 700px;
 	}
 
 	.bg-text.calendar {
@@ -2347,14 +2298,14 @@ nav {
 	.glitcoo {
 		margin-top: 205px;
 	}
-
 }
 
 @media (max-width:1280px) and (max-height:720px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4030px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 670px;
 	}
 
 	.bg-text.calendar {
@@ -2431,11 +2382,9 @@ nav {
 	.glitcoo {
 		margin-top: 205px;
 	}
-
 }
 
 @media (max-width: 1200px) {
-
 	.sectionRight.about {
 		margin-top: 10px;
 		padding-top: 15px;
@@ -2487,11 +2436,13 @@ nav {
 }
 
 @media (max-width:1200px) and (max-height:920px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3980px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -153px;
 		width: 27%;
@@ -2543,15 +2494,16 @@ nav {
 	.glitcoo {
 		margin-top: 230px;
 	}
-
 }
 
 @media (max-width:1200px) and (max-height:720px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3781px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 650px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -53px;
 		width: 27%;
@@ -2615,11 +2567,9 @@ nav {
 	.glitcoo {
 		margin-top: 155px;
 	}
-
 }
 
 @media (max-width: 1199px) {
-
 	.sectionRight.about {
 		margin-top: 10px;
 		padding-top: 15px;
@@ -2652,11 +2602,13 @@ nav {
 }
 
 @media (max-width:1199px) and (max-height:920px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3980px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.asideLeft {
 		width: 23%;
 		margin-top: 325px;
@@ -2695,15 +2647,16 @@ nav {
 	.glitcoo {
 		margin-top: 230px;
 	}
-
 }
 
 @media (max-width:1199px) and (max-height:720px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3781px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.asideLeft {
 		margin-top: 240px;
 	}
@@ -2744,14 +2697,14 @@ nav {
 	.glitcoo {
 		margin-top: 155px;
 	}
-
 }
 
 @media (max-width:1152px) and (max-height:864px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3620px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 705px;
 	}
 
 	.bg-text.calendar {
@@ -2844,14 +2797,14 @@ nav {
 	.glitcoo {
 		margin-top: 175px;
 	}
-
 }
 
 @media (max-width:1114px) and (max-height:720px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3551px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 660px;
 	}
 
 	.asideLeft.about h1 {
@@ -2936,14 +2889,14 @@ nav {
 	.glitcoo {
 		margin-top: 115px;
 	}
-
 }
 
 @media (max-width:1112px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 680px;
 	}
 
 	.asideLeft.about h1 {
@@ -3028,22 +2981,9 @@ nav {
 	.glitcoo {
 		margin-top: 140px;
 	}
-
 }
 
 @media (max-width: 1024px) {
-
-	.persent-size {
-		width: 33.33%;
-	}
-
-	.element-item {
-    padding-top: 8px;
-    padding-right: 8px;
-    padding-left: 8px;
-    padding-bottom: 8px;
-	}
-
 	.asideLeft .prva {
 		margin-top: -27px;
 	}
@@ -3076,11 +3016,13 @@ nav {
 }
 
 @media (max-width:1024px) and (max-height:1366px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5735px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -376px;
 		width: 32%;
@@ -3141,15 +3083,16 @@ nav {
 		width: 44%;
 		margin-right: 15px;
 	}
-
 }
 
 @media (max-width:1024px) and (max-height:1280px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5735px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 590px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -333px;
 		width: 32%;
@@ -3207,15 +3150,16 @@ nav {
 		width: 44%;
 		margin-right: 15px;
 	}
-
 }
 
 @media (max-width:1024px) and (max-height:768px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5635px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1000px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -99px;
 		width: 32%;
@@ -3285,15 +3229,16 @@ nav {
 	.glitcoo {
 		margin-top: 80px;
 	}
-
 }
 
 @media (max-width:1024px) and (max-height:600px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5635px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1080px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -15px;
 		width: 32%;
@@ -3371,24 +3316,44 @@ nav {
 		margin-top: 52px;
 	}
 
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin-top: 30px;
+		margin-right: 15px;
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
+	}
 }
 
 @media (max-width:1000px) {
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: 0px;
 		margin-left: 172px;
 		max-width: 647px;
 		max-height: 430px;
 	}
+
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin-top: 35px;
+		margin-right: 15px;
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
+	}
 }
 
 @media (max-width:1000px) and (max-height:1000px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5635px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 950px;
 	}
+
 	.asideLeft.about.popravi {
 		margin-top: 138px;
 		margin-bottom: 1600px;
@@ -3456,15 +3421,16 @@ nav {
 	.glitcoo {
 		margin-top: 95px;
 	}
-
 }
 
 @media (max-width:1000px) and (max-height:992px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5510px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 950px;
 	}
+
 	.asideLeft {
 		margin-top: 180px;
 	}
@@ -3528,15 +3494,9 @@ nav {
 		padding-top: 0px;
 		padding-bottom: 5px;
 	}
-
 }
 
 @media (max-width:1000px) and (max-height:991px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5510px;
-	}
 	.asideLeft.about.popravi {
 		margin-top: 125px;
 		margin-bottom: 1600px;
@@ -3564,13 +3524,20 @@ nav {
 		padding-bottom: 5px;
 	}
 
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 950px;
+	}
 }
 
 @media (max-width: 992px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5480px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 950px;
 	}
 
 	.asideLeft.about {
@@ -3642,14 +3609,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 80px;
 	}
-
 }
 
 @media (max-width: 991px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5480px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 950px;
 	}
 
 	.asideLeft.about {
@@ -3721,14 +3688,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 80px;
 	}
-
 }
 
 @media (max-width:966px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5315px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1095px;
 	}
 
 	.sectionRight.about {
@@ -3840,14 +3807,14 @@ nav {
 	.glitcoo {
 		margin-top: 20px;
 	}
-
 }
 
 @media (max-width:962px) and (max-height:455px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5290px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 950px;
 	}
 
 	.asideLeft {
@@ -3943,14 +3910,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -150px;
 	}
-
 }
 
 @media (max-width:962px) and (max-height:433px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5290px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 930px;
 	}
 
 	.asideLeft {
@@ -4046,11 +4013,9 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -150px;
 	}
-
 }
 
 @media (max-width:960px) {
-
 	.asideLeft {
 		margin-top: 180px;
 	}
@@ -4147,10 +4112,11 @@ nav {
 }
 
 @media (max-width:960px) and (max-height:1280px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5380px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 930px;
 	}
 
 	.asideLeft {
@@ -4247,14 +4213,14 @@ nav {
 		width: 48%;
 		margin-right: 245px;
 	}
-
 }
 
 @media (max-width:960px) and (max-height:600px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5280px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1080px;
 	}
 
 	.asideLeft {
@@ -4351,10 +4317,18 @@ nav {
 		margin-right: 245px;
 	}
 
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin-top: 30px;
+		margin-right: 15px;
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
+	}
 }
 
 @media (max-width:950px) {
-
 	.sectionRight.about {
 		margin-top: 15px;
 		width: 97%;
@@ -4407,14 +4381,26 @@ nav {
 		max-width: 531px;
 		max-height: 353px;
 	}
+
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin-top: 35px;
+		margin-right: 15px;
+		margin-left: auto;
+		margin-bottom: -15px;
+		cursor: pointer;
+	}
 }
 
 @media (max-width:950px) and (max-height:1280px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5315px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 970px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -354px;
 		width: 34%;
@@ -4453,14 +4439,14 @@ nav {
 		width: 48%;
 		margin-right: 15px;
 	}
-
 }
 
 @media (max-width:920px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5177px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 885px;
 	}
 
 	.asideLeft.about.popravi {
@@ -4553,7 +4539,6 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 70px;
 	}
-
 }
 
 @media (max-width:900px) {
@@ -4562,10 +4547,12 @@ nav {
 		margin-left: 0px;
 		margin-right: 0px;
 	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5035px;
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 885px;
 	}
 
 	.asideLeft.about.popravi {
@@ -4654,10 +4641,15 @@ nav {
 		width: 50%;
 		margin-right: 15px;
 	}
-
 }
 
 @media (max-width:896px) {
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 905px;
+	}
 
 	.asideLeft {
 		margin-top: 95px;
@@ -4665,11 +4657,6 @@ nav {
 		font-size: x-small;
 		width: 22%;
 		margin-left: 8%;
-	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5215px;
 	}
 
 	.sectionRight {
@@ -4775,15 +4762,16 @@ nav {
 	.glitcoo {
 		margin-top: -20px;
 	}
-
 }
 
 @media (max-width:864px) and (max-height:1152px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4825px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 905px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -299px;
 		width: 27%;
@@ -4894,15 +4882,16 @@ nav {
 	.glitcoo {
 		margin-top: -10px;
 	}
-
 }
 
 @media (max-width:854px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5050px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 970px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 37px;
 		width: 27%;
@@ -5013,15 +5002,16 @@ nav {
 	.glitcoo {
 		margin-top: -10px;
 	}
-
 }
 
 @media (max-width:846px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5050px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 905px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 71px;
 		width: 27%;
@@ -5120,14 +5110,14 @@ nav {
 	.glitcoo {
 		margin-top: -43px;
 	}
-
 }
 
 @media (max-width:834px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4665px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 955px;
 	}
 
 	.sectionRight.about {
@@ -5220,14 +5210,14 @@ nav {
 	.glitcoo {
 		margin-top: 15px;
 	}
-
 }
 
 @media (max-width:823px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4800px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 905px;
 	}
 
 	.sectionRight.about {
@@ -5323,14 +5313,14 @@ nav {
 	.glitcoo {
 		margin-top: -54px;
 	}
-
 }
 
 @media (max-width:812px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4800px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 870px;
 	}
 
 	.kiki-gallery.reallity {}
@@ -5431,11 +5421,9 @@ nav {
 	.glitcoo {
 		margin-top: -62px;
 	}
-
 }
 
 @media (max-width:800px) {
-
 	.sectionRight.about {
 		margin-top: 550px;
 		width: 70%;
@@ -5458,11 +5446,13 @@ nav {
 }
 
 @media (max-width:800px) and (max-height:1280px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4505px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 870px;
 	}
+
 	.asideLeft {
 		margin-top: 280px;
 		font-size: x-small;
@@ -5533,15 +5523,16 @@ nav {
 	.glitcoo {
 		margin-top: -25px;
 	}
-
 }
 
 @media (max-width:800px) and (max-height:600px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4380px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1090px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -23px;
 		width: 30%;
@@ -5622,15 +5613,16 @@ nav {
 	.glitcoo {
 		margin-top: -20px;
 	}
-
 }
 
 @media (max-width:800px) and (max-height:480px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4750px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 975px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 37px;
 		width: 30%;
@@ -5708,14 +5700,14 @@ nav {
 	.glitcoo {
 		margin-top: -70px;
 	}
-
 }
 
 @media (max-width:786px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4750px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 885px;
 	}
 
 	.asideLeft.about.popravi {
@@ -5818,21 +5810,9 @@ nav {
 	.glitcoo {
 		margin-top: -75px;
 	}
-
 }
 
 @media (max-width:768px) {
-	.persent-size {
-		width: 50%;
-	}
-
-	.element-item {
-    padding-top: 8px;
-    padding-right: 8px;
-    padding-left: 8px;
-    padding-bottom: 8px;
-	}
-
 	.sectionRight.about {
 		margin-top: 550px;
 		width: 98%;
@@ -5858,11 +5838,13 @@ nav {
 }
 
 @media (max-width:768px) and (max-height:1360px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9480px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 885px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -395px;
 		width: 38%;
@@ -5913,15 +5895,16 @@ nav {
 		max-width: 531px;
 		max-height: 353px;
 	}
-
 }
 
 @media (max-width:768px) and (max-height:1280px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9480px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 885px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -356px;
 		width: 38%;
@@ -5973,15 +5956,16 @@ nav {
 		max-width: 531px;
 		max-height: 353px;
 	}
-
 }
 
 @media (max-width:768px) and (max-height:1024px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9235px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 950px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -227px;
 		width: 38%;
@@ -6032,15 +6016,16 @@ nav {
 		max-width: 531px;
 		max-height: 353px;
 	}
-
 }
 
 @media (max-width:768px) and (max-height:432px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 925px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 64px;
 		width: 32%;
@@ -6119,7 +6104,6 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -170px;
 	}
-
 }
 
 @media (max-width: 767px) {
@@ -6128,10 +6112,12 @@ nav {
 		margin-left: 0px;
 		margin-right: 0px;
 	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 855px;
 	}
 
 	.sectionRight.about .twitter {
@@ -6258,9 +6244,10 @@ nav {
 		margin-top: 30px;
 		margin-bottom: 13px;
 	}
-.cameraobscuraheader {
-    text-align: center;
-    margin-top: 30px;
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 30px;
 	}
 
 	.fiapheader {
@@ -6283,16 +6270,14 @@ nav {
 		text-align: center;
 		margin-top: 30px;
 	}
-
-
-
 }
 
 @media (max-width:760px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 855px;
 	}
 
 	.asideLeft.about.popravi {
@@ -6385,14 +6370,14 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-
 }
 
 @media (max-width:748px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 855px;
 	}
 
 	.asideLeft.about.popravi {
@@ -6479,14 +6464,14 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-
 }
 
 @media (max-width:747px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 855px;
 	}
 
 	.asideLeft {
@@ -6573,14 +6558,14 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-
 }
 
 @media (max-width:740px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 855px;
 	}
 
 	.asideLeft.about.popravi {
@@ -6667,11 +6652,9 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-
 }
 
 @media (max-width:738px) {
-
 	.asideLeft.about.popravi {
 		margin-left: 498px;
 	}
@@ -6688,11 +6671,13 @@ nav {
 }
 
 @media (max-width:738px) and (max-height:412px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 905px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 16px;
 		width: 33%;
@@ -6782,15 +6767,16 @@ nav {
 		margin-bottom: 0px;
 		margin-right: 0px;
 	}
-
 }
 
 @media (max-width:738px) and (max-height:360px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 860px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 42px;
 		width: 33%;
@@ -6864,14 +6850,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -215px;
 	}
-
 }
 
 @media (max-width:736px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 905px;
 	}
 
 	.asideLeft.about {
@@ -6973,14 +6959,14 @@ nav {
 	.glitcoo {
 		margin-top: -125px;
 	}
-
 }
 
 @media (max-width:732px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 903px;
 	}
 
 	.bg-text.calendar {
@@ -7074,14 +7060,14 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-
 }
 
 @media (max-width:731px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 903px;
 	}
 
 	.bg-text.calendar {
@@ -7170,11 +7156,9 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-
 }
 
 @media (max-width:720px) {
-
 	.asideLeft.about.popravi {
 		margin-top: 220px;
 		margin-left: 475px;
@@ -7254,10 +7238,11 @@ nav {
 }
 
 @media (max-width:720px) and (max-height:1280px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 8903px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 903px;
 	}
 
 	.asideLeft.about.popravi {
@@ -7338,14 +7323,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 50px;
 	}
-
 }
 
 @media (max-width:720px) and (max-height:1200px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 8825px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 903px;
 	}
 
 	.asideLeft.about.popravi {
@@ -7424,14 +7409,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 50px;
 	}
-
 }
 
 @media (max-width:720px) and (max-height:1114px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 8805px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 955px;
 	}
 
 	.asideLeft.about.popravi {
@@ -7510,14 +7495,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 50px;
 	}
-
 }
 
 @media (max-width:720px) and (max-height:540px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1560px;
 	}
 
 	.asideLeft.about.popravi {
@@ -7611,14 +7596,14 @@ nav {
 	.glitcoo {
 		margin-top: -110px;
 	}
-
 }
 
 @media (max-width:720px) and (max-height:480px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1500px;
 	}
 
 	.asideLeft.about.popravi {
@@ -7706,11 +7691,9 @@ nav {
 	.glitcoo {
 		margin-top: -135px;
 	}
-
 }
 
 @media (max-width:718px) {
-
 	.asideLeft.about {
 		margin-left: 514px;
 		margin-top: -15px;
@@ -7728,11 +7711,13 @@ nav {
 }
 
 @media (max-width:718px) and (max-height:360px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1377px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 37px;
 		padding-top: 3px;
@@ -7814,14 +7799,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -230px;
 	}
-
 }
 
 @media (max-width:717px) and (max-height:512px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1528px;
 	}
 
 	.bg-text.calendar {
@@ -7897,14 +7882,14 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-
 }
 
 @media (max-width:712px) and (max-height:277px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1560px;
 	}
 
 	.bg-text.calendar {
@@ -7967,10 +7952,11 @@ nav {
 		max-height: 75px;
 		padding-top: 0px;
 	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+
+	.kiki-gallery.film.stills {
+		margin-left: 10px;
+		margin-right: 10px;
+		padding-bottom: 9105px;
 	}
 
 	.filmheader {
@@ -7994,6 +7980,12 @@ nav {
 	.calendarheader {
 		text-align: center;
 		margin-top: 0px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 0px;
+		margin-bottom: -10px;
 	}
 
 	.fiapheader {
@@ -8078,6 +8070,20 @@ nav {
 		font-size: 2em;
 	}
 
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
 	.fiaph1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -8106,15 +8112,14 @@ nav {
 		padding-top: 30px;
 		margin-bottom: 100px;
 	}
-
-
 }
 
 @media (max-width:695px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1410px;
 	}
 
 	.asideLeft.about.popravi {
@@ -8209,14 +8214,14 @@ nav {
 	.glitcoo {
 		margin-top: -148px;
 	}
-
 }
 
 @media (max-width:667px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1395px;
 	}
 
 	.asideLeft.about.popravi {
@@ -8315,7 +8320,6 @@ nav {
 	.glitcoo {
 		margin-top: -165px;
 	}
-
 }
 
 @media (max-width:653px) {
@@ -8412,10 +8416,11 @@ nav {
 		text-align: center;
 		margin-top: 0px;
 	}
-.cameraobscuraheader {
-    text-align: center;
-    margin-top: 0px;
-    margin-bottom: -10px;
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 0px;
+		margin-bottom: -10px;
 	}
 
 	.comingsoonh1 {
@@ -8523,29 +8528,30 @@ nav {
 		margin-top: 0px;
 		padding-top: 30px;
 	}
-.cameraobscurah1 {
-    font-family: alfa-slab-one;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 2em;
-    text-align: center;
-    line-height: 1em;
-    height: 1em;
-    color: #FFFFFF;
-    text-shadow: 4px 5px 17px #000000;
-    margin-top: 0px;
-    padding-top: 30px;
+
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
 	}
-
-
 }
 
 @media (max-width:653px) and (max-height:280px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1575px;
 	}
+
 	.bg-text.calendar {
 		margin-top: 46px;
 		padding-top: 4px;
@@ -8627,14 +8633,14 @@ nav {
 	.glitcoo {
 		margin-top: -215px;
 	}
-
 }
 
 @media (max-width: 650px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1380px;
 	}
 
 	.asideLeft.about.popravi {
@@ -8759,11 +8765,9 @@ nav {
 	.glitcoo {
 		margin-top: -219px;
 	}
-
 }
 
 @media (max-width:640px) {
-
 	.indexheader {
 		text-align: center;
 		margin-top: 30px;
@@ -8791,6 +8795,12 @@ nav {
 		text-align: center;
 		margin-top: 30px;
 		margin-bottom: 10px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 30px;
+		margin-bottom: 0px;
 	}
 
 	.comingsoonh1 {
@@ -8866,6 +8876,20 @@ nav {
 		font-size: 2em;
 	}
 
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
 	.fiaph1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -8896,11 +8920,13 @@ nav {
 }
 
 @media (max-width:640px) and (max-height:412px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1430px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -9009,15 +9035,16 @@ nav {
 	.glitcoo {
 		margin-top: -175px;
 	}
-
 }
 
 @media (max-width:640px) and (max-height:384px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1410px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -9119,15 +9146,16 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -227px;
 	}
-
 }
 
 @media (max-width:640px) and (max-height:360px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 9105px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1385px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -9226,14 +9254,14 @@ nav {
 	.sectionRight.thankyou p {
 		text-align: center;
 	}
-
 }
 
 @media (max-width:604px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7140px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1457px;
 	}
 
 	.asideLeft.about.popravi {
@@ -9347,14 +9375,14 @@ nav {
 	.glitcoo {
 		margin-top: 140px;
 	}
-
 }
 
 @media (max-width:602px) and (max-height:806px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7155px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1565px;
 	}
 
 	.asideLeft.about.popravi {
@@ -9468,14 +9496,14 @@ nav {
 	.glitcoo {
 		margin-top: 140px;
 	}
-
 }
 
 @media (max-width:601px) and (max-height:793px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7130px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1550px;
 	}
 
 	.asideLeft.about.popravi {
@@ -9593,18 +9621,18 @@ nav {
 	.glichheader a img {
 		margin-top: 0px;
 	}
-
 }
 
-@media (max-width:600px) {
-}
+@media (max-width:600px) {}
 
 @media (max-width:600px) and (max-height:1024px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7155px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1515px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -9704,15 +9732,16 @@ nav {
 		margin-top: 30px;
 		margin-bottom: 0px;
 	}
-
 }
 
 @media (max-width:600px) and (min-height:960px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7090px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1455px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -9797,15 +9826,16 @@ nav {
 	.glitcoo {
 		margin-top: 120px;
 	}
-
 }
 
 @media (max-width:600px) and (max-height:800px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7125px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1553px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -9904,15 +9934,16 @@ nav {
 		margin-top: 30px;
 		margin-bottom: 70px;
 	}
-
 }
 
 @media (max-width:600px) and (max-height:450px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7430px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1467px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -10002,15 +10033,16 @@ nav {
 	.glitcoo {
 		margin-top: -200px;
 	}
-
 }
 
 @media (max-width:600px) and (max-height:360px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7430px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1380px;
 	}
+
 	.asideLeft {
 		width: 90%;
 		float: none;
@@ -10119,14 +10151,14 @@ nav {
 		margin-top: 30px;
 		margin-bottom: 10px;
 	}
-
 }
 
 @media (max-width:570px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7430px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1600px;
 	}
 
 	.asideLeft.about.popravi {
@@ -10254,14 +10286,14 @@ nav {
 	.glitcoo {
 		margin-top: -227px;
 	}
-
 }
 
 @media (max-width:568px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 7430px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1600px;
 	}
 
 	.bg-text.calendar {
@@ -10319,14 +10351,14 @@ nav {
 		margin-left: 0px;
 		padding-top: 3px;
 	}
-
 }
 
 @media (max-width:540px) and (max-height:720px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6370px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1475px;
 	}
 
 	.bg-text.calendar {
@@ -10403,14 +10435,14 @@ nav {
 	.glitcoo {
 		margin-top: -120px;
 	}
-
 }
 
 @media (max-width:533px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6500px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1600px;
 	}
 
 	.asideLeft {}
@@ -10487,14 +10519,14 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -275px;
 	}
-
 }
 
 @media (max-width:512px) and (max-height:717px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6055px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1470px;
 	}
 
 	.asideLeft {}
@@ -10571,11 +10603,9 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -120px;
 	}
-
 }
 
 @media (max-width:504px) {
-
 	.asideLeft {}
 
 	.sectionRight {
@@ -10596,11 +10626,13 @@ nav {
 }
 
 @media (max-width:504px) and (max-height:504px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6315px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1525px;
 	}
+
 	.asideLeft.about.popravi {
 		margin-top: 45px;
 		margin-left: 370px;
@@ -10670,11 +10702,9 @@ nav {
 	.glitcoo {
 		margin-top: -205px;
 	}
-
 }
 
 @media (max-width:480px) {
-
 	.worldh1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -10692,11 +10722,13 @@ nav {
 }
 
 @media (max-width:480px) and (max-height:854px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5863px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1610px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -205px;
 		width: 38%;
@@ -10765,15 +10797,16 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -170px;
 	}
-
 }
 
 @media (max-width:480px) and (max-height:800px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5810px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1555px;
 	}
+
 	.sectionRight.about {
 		margin-top: 0px;
 		margin-bottom: 200px;
@@ -10842,15 +10875,16 @@ nav {
 		max-width: 450px;
 		max-height: 299px;
 	}
-
 }
 
 @media (max-width:480px) and (max-height:720px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5880px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1475px;
 	}
+
 	.sectionRight.about {
 		margin-top: 0px;
 		margin-bottom: 170px;
@@ -10921,7 +10955,6 @@ nav {
 		max-width: 450px;
 		max-height: 299px;
 	}
-
 }
 
 @media (max-width:480px) and (max-height:360px) {
@@ -10929,12 +10962,14 @@ nav {
 		margin-top: -20px;
 	}
 
-	.asideLeft {}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6025px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1377px;
 	}
+
+	.asideLeft {}
 
 	.sectionRight {
 		margin-top: 110px;
@@ -11037,17 +11072,18 @@ nav {
 	.glitcoo {
 		margin-top: -265px;
 	}
-
 }
 
 @media (max-width:480px) and (max-height:320px) {
 	.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
 		margin-top: -20px;
 	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6025px;
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1355px;
 	}
 
 	.asideLeft {}
@@ -11129,7 +11165,6 @@ nav {
 	.glitcoo {
 		margin-top: -270px;
 	}
-
 }
 
 @media (max-width:450px) {
@@ -11186,10 +11221,12 @@ nav {
 		margin-top: 0px;
 		margin-left: -3px;
 	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 6025px;
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1567px;
 	}
 
 	.bg-text.calendar {
@@ -11274,6 +11311,12 @@ nav {
 		text-align: center;
 		margin-top: 50px;
 		margin-bottom: 10px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: 0px;
 	}
 
 	.comingsoonh1 {
@@ -11371,7 +11414,7 @@ nav {
 		padding-top: 30px;
 	}
 
-	.glitchh1 {
+	.cameraobscurah1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
 		font-weight: 400;
@@ -11385,10 +11428,22 @@ nav {
 		padding-top: 30px;
 	}
 
+	.glitchh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
 }
 
 @media (max-width:432px) {
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: 0px;
 		margin-left: 0px;
@@ -11450,6 +11505,12 @@ nav {
 	.calendarheader {
 		text-align: center;
 		margin-top: 70px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 70px;
+		margin-bottom: 0px;
 	}
 
 	.comingsoonh1 {
@@ -11547,6 +11608,20 @@ nav {
 		padding-top: 30px;
 	}
 
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
 	.glitchh1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -11563,11 +11638,13 @@ nav {
 }
 
 @media (max-width:432px) and (max-height:768px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5205px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1475px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -122px;
 		width: 40%;
@@ -11614,18 +11691,11 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
-@media (max-width: 414px) {
-}
+@media (max-width: 414px) {}
 
 @media (max-width:414px) and (max-height:896px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4985px;
-	}
 	.bg-text.calendar {
 		margin-top: -186px;
 		width: 42%;
@@ -11715,15 +11785,16 @@ nav {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -200px;
 	}
-
 }
 
 @media (max-width:414px) and (max-height:736px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4985px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1440px;
 	}
+
 	.asideLeft {}
 
 	.sectionRight {
@@ -11815,18 +11886,18 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
-@media (max-width:412px) {
-}
+@media (max-width:412px) {}
 
 @media (max-width:412px) and (max-height:846px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5055px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1550px;
 	}
+
 	.sectionRight.about {
 		margin-top: 0px;
 		margin-bottom: 160px;
@@ -11904,15 +11975,16 @@ nav {
 	.bg-text.calendar {
 		margin-top: -161px;
 	}
-
 }
 
 @media (max-width:412px) and (max-height:823px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5040px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1527px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -150px;
 		width: 40%;
@@ -11973,15 +12045,16 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width:412px) and (max-height:738px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4955px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1441px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -107px;
 		width: 40%;
@@ -12048,15 +12121,16 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width:412px) and (max-height:640px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4990px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1606px;
 	}
+
 	.asideLeft {}
 
 	.sectionRight {
@@ -12131,18 +12205,11 @@ nav {
 	.glitcoo {
 		margin-top: -220px;
 	}
-
 }
 
-@media (max-width:411px) {
-}
+@media (max-width:411px) {}
 
 @media (max-width:411px) and (max-height:823px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5040px;
-	}
 	.sectionRight.about {
 		margin-top: 0px;
 		margin-bottom: 160px;
@@ -12203,15 +12270,16 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width:411px) and (max-height:732px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5075px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1435px;
 	}
+
 	.asideLeft {}
 
 	.sectionRight {
@@ -12296,15 +12364,16 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width:411px) and (max-height:731px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 5075px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1435px;
 	}
+
 	.bg-text.calendar {
 		margin-top: -104px;
 		width: 40%;
@@ -12333,8 +12402,6 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
-
 }
 
 @media (max-width:393px) {
@@ -12372,10 +12439,12 @@ nav {
 	.container-fluid .navbar-header .navbar-brand {
 		margin-top: -63px;
 	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4850px;
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1540px;
 	}
 
 	.bg-text.calendar {
@@ -12486,6 +12555,12 @@ nav {
 		margin-bottom: 30px;
 	}
 
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
 	.fiapheader {
 		text-align: center;
 		margin-top: 0px;
@@ -12553,6 +12628,20 @@ nav {
 		font-size: 1.8em;
 	}
 
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
 	.fiaph1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -12580,17 +12669,18 @@ nav {
 		margin-top: 0px;
 		padding-top: 30px;
 	}
-
 }
 
 @media (max-width:390px) and (max-height:695px) {
 	.container-fluid .navbar-header .navbar-brand {
 		margin-top: -63px;
 	}
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4720px;
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1540px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -12667,6 +12757,12 @@ nav {
 		text-align: center;
 		margin-top: 10px;
 		margin-bottom: 10px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 10px;
+		margin-bottom: 0px;
 	}
 
 	.glichheader a img {
@@ -12764,7 +12860,7 @@ nav {
 		padding-top: 30px;
 	}
 
-	.glitchh1 {
+	.cameraobscurah1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
 		font-weight: 400;
@@ -12778,14 +12874,29 @@ nav {
 		padding-top: 30px;
 	}
 
+	.glitchh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
 }
 
 @media (max-width:384px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 4725px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1400px;
 	}
+
 	.asideLeft {
 		width: 100%;
 		text-align: center;
@@ -12882,21 +12993,9 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width: 375px) {
-	.persent-size {
-		width: 100%;
-	}
-
-	.element-item {
-    padding-top: 8px;
-    padding-right: 8px;
-    padding-left: 8px;
-    padding-bottom: 8px;
-	}
-
 	.container-fluid .navbar-header .navbar-brand {
 		margin-top: -63px;
 	}
@@ -12933,6 +13032,12 @@ nav {
 		text-align: center;
 		margin-top: 10px;
 		margin-bottom: 10px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 10px;
+		margin-bottom: 0px;
 	}
 
 	.comingsoonh1 {
@@ -13032,6 +13137,20 @@ nav {
 		padding-top: 30px;
 	}
 
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
 	.glitchh1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -13045,14 +13164,26 @@ nav {
 		margin-top: 0px;
 		padding-top: 30px;
 	}
+
+	.flip {
+		position: relative;
+		display: inline-block;
+		margin-top: 35px;
+		margin-right: 15px;
+		margin-left: auto;
+		margin-bottom: -5px;
+		cursor: pointer;
+	}
 }
 
 @media (max-width:375px) and (max-height:812px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 17637px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1585px;
 	}
+
 	.asideLeft {
 		width: 100%;
 		text-align: center;
@@ -13143,15 +13274,16 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width:375px) and (max-height:667px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 17637px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1440px;
 	}
+
 	.asideLeft {
 		width: 100%;
 		text-align: center;
@@ -13228,11 +13360,9 @@ nav {
 	.glitcoo {
 		margin-top: -185px;
 	}
-
 }
 
 @media (max-width:360px) {
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: -50px;
 		margin-left: -15px;
@@ -13242,11 +13372,13 @@ nav {
 }
 
 @media (max-width:360px) and (max-height:760px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1540px;
 	}
+
 	.asideLeft {
 		width: 58%;
 		text-align: center;
@@ -13341,15 +13473,16 @@ nav {
 		margin-top: -174px;
 		width: 29%;
 	}
-
 }
 
 @media (max-width:360px) and (max-height:748px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1525px;
 	}
+
 	.sectionRight.about {
 		margin-top: 660px;
 		width: 100%;
@@ -13433,15 +13566,16 @@ nav {
 	.sectionRight.about .twitter {
 		margin-top: 0px;
 	}
-
 }
 
 @media (max-width:360px) and (max-height:747px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1525px;
 	}
+
 	.sectionRight.about {
 		margin-top: 660px;
 		width: 100%;
@@ -13507,15 +13641,16 @@ nav {
 		margin-top: -168px;
 		width: 29%;
 	}
-
 }
 
 @media (max-width:360px) and (max-height:740px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1515px;
 	}
+
 	.sectionRight.about {
 		margin-top: 660px;
 		width: 100%;
@@ -13581,15 +13716,16 @@ nav {
 		margin-top: -164px;
 		width: 29%;
 	}
-
 }
 
 @media (max-width:360px) and (max-height:718px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1491px;
 	}
+
 	.sectionRight.about {
 		margin-top: 660px;
 		width: 100%;
@@ -13673,15 +13809,16 @@ nav {
 		margin-top: -153px;
 		width: 29%;
 	}
-
 }
 
 @media (max-width:360px) and (max-height:655px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1428px;
 	}
+
 	.asideLeft {
 		width: 58%;
 		text-align: center;
@@ -13780,15 +13917,16 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width:360px) and (max-height:640px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1415px;
 	}
+
 	.asideLeft {
 		width: 58%;
 		text-align: center;
@@ -13887,15 +14025,16 @@ nav {
 		height: 225px;
 		margin-bottom: 4px;
 	}
-
 }
 
 @media (max-width:360px) and (max-height:600px) {
-.kiki-gallery.film.stills {
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 16975px;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1646px;
 	}
+
 	.asideLeft {
 		width: 58%;
 		text-align: center;
@@ -13984,11 +14123,9 @@ nav {
 	.glitcoo {
 		margin-top: -255px;
 	}
-
 }
 
 @media (max-width:346px) {
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: -59px;
 		margin-left: -15px;
@@ -13998,6 +14135,14 @@ nav {
 }
 
 @media (max-width:346px) and (max-height:346px) {
+	.kiki-gallery.camera.obscura {
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1400px;
+    margin-left: 8px;
+	}
+
 	.asideLeft {
 		width: 58%;
 		text-align: center;
@@ -14106,10 +14251,18 @@ nav {
 	}
 }
 
-@media (max-width:320px) {
-}
+@media (max-width:320px) {}
 
 @media (max-width:320px) and (max-height:570px) {
+	.kiki-gallery.camera.obscura {
+    margin-top: 70px;
+    text-align: center;
+    max-height: 1616px;
+    padding-top: 0px;
+    margin-left: -5px;
+    margin-right: auto;
+	}
+
 	.asideLeft {
 		width: 63%;
 		text-align: center;
@@ -14250,7 +14403,6 @@ nav {
 		text-align: center;
 	}
 
-
 	.asideLeft.thankyou {
 		margin-top: 180px;
 		margin-left: 0px;
@@ -14271,6 +14423,15 @@ nav {
 }
 
 @media (max-width:320px) and (max-height:568px) {
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1615px;
+		margin-left: -5px;
+		padding-top: 0px;
+	}
+
 	.sectionRight.about {
 		margin-top: 555px;
 		width: 100%;
@@ -14348,6 +14509,15 @@ nav {
 }
 
 @media (max-width:320px) and (max-height:533px) {
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1580px;
+		margin-left: -5px;
+		padding-top: 0px;
+	}
+
 	.asideLeft {
 		width: 63%;
 		text-align: center;
@@ -14446,6 +14616,15 @@ nav {
 }
 
 @media (max-width:320px) and (max-height:480px) {
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1527px;
+		margin-left: -5px;
+		padding-top: 0px;
+	}
+
 	.asideLeft {
 		width: 63%;
 		text-align: center;
@@ -14544,6 +14723,15 @@ nav {
 @media (max-width:320px) and (max-height:240px) {
 	.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
 		margin-top: -22px;
+	}
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1560px;
+		margin-left: -5px;
+		padding-top: 0px;
 	}
 
 	.asideLeft {
@@ -14667,6 +14855,12 @@ nav {
 		margin-bottom: 105px;
 	}
 
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: -15px;
+		margin-bottom: -15px;
+	}
+
 	.comingsoonh1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -14767,6 +14961,20 @@ nav {
 		padding-top: 30px;
 	}
 
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
 	.glitchh1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
@@ -14815,7 +15023,6 @@ nav {
 }
 
 @media (max-width:300px) {
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: 0px;
 		margin-left: -15px;
@@ -14829,6 +15036,15 @@ h4 {
 }
 
 @media (max-width:300px) and (max-height:300px) {
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1113px;
+		margin-left: 15px;
+		padding-top: 0px;
+	}
+
 	.bg-text.calendar {
 		margin-top: 55px;
 		margin-bottom: 0px;
@@ -15056,10 +15272,82 @@ h4 {
 	.asideLeft.thankyou {
 		margin-top: 275px;
 	}
+
+	.flip .front .prvafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .prvaback {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .front .drugafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .drugaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .trecafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .trecaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .cetvrtafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .cetvrtaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .petafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .petaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		color: white;
+		background-size: cover !important;
+		background-position: center !important;
+		width: 250px;
+		height: 182px;
+		padding: 0.6em 3.4em;
+		background: #313131;
+		border-radius: 10px;
+	}
 }
 
 @media (max-width:280px) {
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: -5px;
 		margin-left: -15px;
@@ -15083,16 +15371,13 @@ p {
 	}
 
 	.container-fluid .navbar-header .navbar-brand.obscura {
-    margin-top: 0px;
-    margin-bottom: 15px;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    font-size: xx-large;
-    vertical-align: baseline;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		font-size: x-large;
+		vertical-align: baseline;
 	}
-
-
-
 
 	.sectionRight.about {
 		margin-top: 670px;
@@ -15219,30 +15504,24 @@ p {
 	}
 
 	.glichheader {
-		text-align: center;
-		margin-top: 50px;
-		max-width: 80px;
-		max-height: 80px;
+    text-align: center;
+    margin-top: 50px;
+    max-width: 80px;
+    max-height: 80px;
+    margin-left: 100px;
 	}
 
 	.cameraobscuraheader {
 		text-align: center;
 		margin-top: 50px;
 		margin-right: 0px;
-		width: 100%;
-		height: 100%;
+		width: 80%;
+		height: 80%;
+		margin-left: 30px;
 	}
-
-	.cameraobscuraheader a img {
-		margin-left: 100px;
-		margin-top: 18px;
-		width: 35%;
-		height: 35%;
-	}
-
 
 	.glichheader a img {
-		margin-top: 18px;
+    margin-top: 20px;
 	}
 
 	.post .contactheader {
@@ -15326,22 +15605,20 @@ p {
 		text-shadow: 4px 5px 17px #000000;
 		margin-top: 0px;
 		padding-top: 30px;
-		margin-left: 30%;
 	}
 
 	.glitchh1 {
-		font-family: alfa-slab-one;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 1.8em;
-		text-align: center;
-		line-height: 1em;
-		height: 1em;
-		color: #FFFFFF;
-		text-shadow: 4px 5px 17px #000000;
-		margin-top: 0px;
-		padding-top: 30px;
-		margin-bottom: 65px;
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: 20px;
+    padding-top: 30px;
 	}
 
 	.sectionRight.thankyou {
@@ -15354,13 +15631,457 @@ p {
 		margin-top: 170px;
 	}
 
+	.flip .front .prvafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .prvaback {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .front .drugafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .drugaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .trecafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .trecaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .cetvrtafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .cetvrtaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .petafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .petaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		color: white;
+		background-size: cover !important;
+		background-position: center !important;
+		width: 250px;
+		height: 182px;
+		padding: 0.6em 3.4em;
+		background: #313131;
+		border-radius: 10px;
+	}
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1195px;
+		margin-left: 15px;
+		padding-top: 0px;
+	}
+}
+
+@media (max-width:277px) and (max-height:712px){
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: -5px;
+		margin-left: -15px;
+		max-width: 280px;
+		max-height: 186px;
+	}
+	
+	.container-fluid .navbar-header .navbar-brand {
+		margin-top: -15px;
+		margin-bottom: 15px;
+	}
+
+	.container-fluid .navbar-header .navbar-brand.obscura {
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		font-size: x-large;
+		vertical-align: baseline;
+	}
+
+	.kiki-gallery.camera.obscura {
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1260px;
+    margin-left: 13.9px;
+    padding-top: 0px;
+	}
+
+	.sectionRight.about {
+		margin-top: 670px;
+		width: 100%;
+		margin-bottom: 80px;
+		margin-left: 0px;
+		margin-right: 0px;
+		font-size: small;
+	}
+
+	.sectionRight.about p {
+		font-size: small;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: -80px;
+	}
+
+	.asideLeft.about {
+		margin-left: 27px;
+		margin-top: 160px;
+		text-align: center;
+		padding-right: 0px;
+		padding-left: 321px;
+		font-size: medium;
+	}
+
+	.asideLeft.about.popravi {
+    margin-left: -65px;
+    margin-top: 110px;
+    margin-bottom: 0px;
+	}
+
+	.asideLeft.about h1 {
+		font-size: medium;
+		margin-top: -30px;
+	}
+
+	.post .asideLeft.twitter {
+    margin-top: 27px;
+    margin-bottom: 45px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+    margin-top: 60px;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -80px;
+		padding-left: 0px;
+		width: 100%;
+	}
+
+	.asideLeft {
+		width: 72%;
+		text-align: center;
+		margin-top: 0px;
+		margin-left: 13.3%;
+		font-size: x-small;
+		margin-right: 13.3%;
+	}
+
+	.sectionRight {
+    margin-bottom: 115px;
+    margin-top: 70px;
+    width: 100%;
+    margin-left: 0px;
+	}
+
+	.indexheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.filmheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.btsheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.worldheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.calendarheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: 74px;
+	}
+
+	.comingsoonh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 50px;
+		padding-top: 30px;
+	}
+
+	.fiapheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: -15px;
+	}
+
+	.glichheader {
+    text-align: center;
+    margin-top: 50px;
+    max-width: 80px;
+    max-height: 80px;
+    margin-left: 99px;
+	}
+
+	.cameraobscuraheader {
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 0px;
+    width: 80%;
+    height: 80%;
+    margin-left: 28px;
+	}
+
+	.glichheader a img {
+    margin-top: 20px;
+	}
+
+	.post .contactheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.thankyouheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.filmh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.btsh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.worldh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: -8px;
+		padding-top: 30px;
+		margin-left: 17%;
+		width: 65%;
+		margin-right: 17%;
+	}
+
+	.fiaph1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.glitchh1 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: 20px;
+    padding-top: 30px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -725px;
+		padding-top: 1px;
+		padding-bottom: 100px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 170px;
+	}
+
+	.flip .front .prvafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .prvaback {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .front .drugafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .drugaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .trecafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .trecaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .cetvrtafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .cetvrtaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .petafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .petaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		color: white;
+		background-size: cover !important;
+		background-position: center !important;
+		width: 250px;
+		height: 182px;
+		padding: 0.6em 3.4em;
+		background: #313131;
+		border-radius: 10px;
+	}
+}
 
 
 
+h4 {
+	margin: 20px 10px 10px;
+}
+
+p {
+	margin: 10px;
 }
 
 @media (max-width:240px) {
-
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: -10px;
 		margin-left: -15px;
@@ -15380,6 +16101,15 @@ p {
 @media (max-width:240px) and (max-height:320px) {
 	.container-fluid .navbar-header .navbar-brand {
 		margin-top: -20px;
+	}
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1040px;
+		margin-left: 15px;
+		padding-top: 0px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -15542,7 +16272,7 @@ p {
 		padding-top: 30px;
 	}
 
-	.glitchh1 {
+	.cameraobscurah1 {
 		font-family: alfa-slab-one;
 		font-style: normal;
 		font-weight: 400;
@@ -15552,9 +16282,23 @@ p {
 		height: 1em;
 		color: #FFFFFF;
 		text-shadow: 4px 5px 17px #000000;
-		margin-top: -10px;
+		margin-top: 0px;
 		padding-top: 30px;
-		margin-bottom: 100px;
+	}
+
+	.glitchh1 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: 10px;
+    padding-top: 30px;
+    margin-bottom: 0px;
 	}
 
 	.calendarheader {
@@ -15563,10 +16307,29 @@ p {
 		margin-bottom: 120px;
 	}
 
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-right: 0px;
+		width: 80%;
+		height: 80%;
+		margin-left: 25px;
+	}
+
 	.fiapheader {
 		text-align: center;
 		margin-top: 50px;
 		margin-bottom: -10px;
+	}
+.glichheader {
+    text-align: center;
+    margin-top: 50px;
+    max-width: 80px;
+    max-height: 80px;
+    margin-left: 80px;
+	}
+.glichheader a img {
+    margin-top: 20px;
 	}
 
 	.thankyouheader {
@@ -15574,6 +16337,82 @@ p {
 		margin-top: 50px;
 		margin-bottom: 255px;
 	}
+
+	.flip .front .prvafront {
+		max-width: 215px;
+		max-height: 154px;
+		margin-left: -50px;
+	}
+
+	.flip .back .prvaback {
+		max-width: 215px;
+		max-height: 154px;
+		margin-left: -50px;
+	}
+
+	.flip .front .drugafront {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .back .drugaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .front .trecafront {
+		max-width: 215px;
+		max-height: 154px;
+		margin-left: -50px;
+	}
+
+	.flip .back .trecaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .front .cetvrtafront {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .back .cetvrtaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .front .petafront {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .back .petaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		color: white;
+		background-size: cover !important;
+		background-position: center !important;
+		width: 233px;
+		height: 170px;
+		padding: 0.6em 4.2em;
+		background: #313131;
+		border-radius: 10px;
+		margin-left: -12px;
+	}
+
+
 }
 
 @media (max-width:240px) and (max-height:240px) {
@@ -15596,6 +16435,24 @@ p {
 		padding-top: 63px;
 		font-size: small;
 		padding-bottom: 0px;
+	}
+
+	.container-fluid .navbar-header .navbar-brand.obscura {
+		margin-top: -7px;
+		margin-bottom: -45px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		font-size: small;
+		vertical-align: baseline;
+	}
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1250px;
+		margin-left: 15px;
+		padding-top: 0px;
 	}
 
 	.sectionRight.about {
@@ -15664,20 +16521,6 @@ p {
 		width: 100%;
 	}
 
-	.kiki-gallery .četerdesetsedma.film1600.film1680.film1920.uzorak {
-		margin-top: 6490px;
-	}
-
-	.kiki-gallery.bts .dvadesetdeveta.bts.b1600.b1680.b1920 {
-		margin-top: 5270px;
-	}
-
-	.kiki-gallery.world .tridesetdeveta.world.desktop1600.desktop1680.desktop1920 {
-		margin-top: 8496px;
-		margin-right: 0px;
-		margin-left: 150px;
-	}
-
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -390px;
 	}
@@ -15726,6 +16569,15 @@ p {
 		text-align: center;
 		margin-top: -75px;
 		margin-bottom: 170px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: -75px;
+		margin-right: 0px;
+		width: 80%;
+		height: 80%;
+		margin-left: 25px;
 	}
 
 	.comingsoonh1 {
@@ -15825,6 +16677,20 @@ p {
 		color: #FFFFFF;
 		text-shadow: 4px 5px 17px #000000;
 		margin-top: 38px;
+		padding-top: 30px;
+	}
+
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.5em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 33px;
 		padding-top: 30px;
 	}
 

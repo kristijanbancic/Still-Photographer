@@ -12,7 +12,7 @@
 <link rel="mask-icon" href="favicon/safari-pinned-tab.svg" color="#5bbad5">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+<link rel="stylesheet" href="css/baguetteBox.css">
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -33,7 +33,7 @@ body {
 
 <body style="padding-top: 70px">
 <nav class="navbar navbar-default navbar-fixed-top">
-  <div class="container-fluid"> 
+  <div class="container-fluid obscura"> 
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topFixedNavbar1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
@@ -49,7 +49,6 @@ body {
             <li><a href="behindthescenes.html">Behind the Scenes</a></li>
             <li><a href="diffrentviewontheworld.html">Diffrent View on the World</a></li>
             <li role="separator" class="divider"></li>
-            <li><a href="calendar.html">365 Days of Running</a></li>
 			<li><a href="cameraobscura.html">Camera Obscura</a></li>  
             <li role="separator" class="divider"></li>
             <li><a href="fiap.html">FIAP</a></li>
@@ -89,49 +88,51 @@ body {
 
 
 <div class="flip">
-    <div class="front" style=><img src="images/Camera Obscura/negativ/1.jpg" width="300px" height="215px" alt=""/>
+    <div class="front" style=><img src="images/Camera Obscura/negativ/1.jpg" alt="" width="300px" height="215px" class="prvafront"/>
       
     </div>
-    <div class="back" style=><img src="images/Camera Obscura/pozitiv/1.jpg" width="300px" height="215px" alt=""/>
-      
-    </div>
-</div>
-	
-<div class="flip">
-    <div class="front" style=><img src="images/Camera Obscura/negativ/2.jpg" width="300px" height="215px" alt=""/>
-      
-    </div>
-    <div class="back" style=><img src="images/Camera Obscura/pozitiv/2.jpg" width="300px" height="215px" alt=""/>
+    <div class="back" style=><img src="images/Camera Obscura/pozitiv/1.jpg" alt="" width="300px" height="215px" class="prvaback"/>
       
     </div>
 </div>
 	
 <div class="flip">
-    <div class="front" style=><img src="images/Camera Obscura/negativ/3.jpg" width="300px" height="215px" alt=""/>
+    <div class="front" style=><img src="images/Camera Obscura/negativ/2.jpg" width="300px" height="215px" alt="" class="drugafront"/>
       
     </div>
-    <div class="back" style=><img src="images/Camera Obscura/pozitiv/3.jpg" width="300px" height="215px" alt=""/>
-      
-    </div>
-</div>
-	
-<div class="flip">
-    <div class="front" style=><img src="images/Camera Obscura/negativ/4.jpg" width="300px" height="215px" alt=""/>
-      
-    </div>
-    <div class="back" style=><img src="images/Camera Obscura/pozitiv/4.jpg" width="300px" height="215px" alt=""/>
+    <div class="back" style=><img src="images/Camera Obscura/pozitiv/2.jpg" width="300px" height="215px" alt="" class="drugaback"/>
       
     </div>
 </div>
 	
 <div class="flip">
-    <div class="front" style=><img src="images/Camera Obscura/negativ/5.jpg" width="300px" height="215px" alt=""/>
+    <div class="front" style=><img src="images/Camera Obscura/negativ/3.jpg" width="300px" height="215px" alt="" class="trecafront"/>
       
     </div>
-    <div class="back" style=><img src="images/Camera Obscura/pozitiv/5.jpg" width="300px" height="215px" alt=""/>
+    <div class="back" style=><img src="images/Camera Obscura/pozitiv/3.jpg" width="300px" height="215px" alt="" class="trecaback"/>
       
     </div>
-</div>		
+</div>
+	
+<div class="flip">
+    <div class="front" style=><img src="images/Camera Obscura/negativ/4.jpg" width="300px" height="215px" alt="" class="cetvrtafront"/>
+      
+    </div>
+    <div class="back" style=><img src="images/Camera Obscura/pozitiv/4.jpg" width="300px" height="215px" alt="" class="cetvrtaback"/>
+      
+    </div>
+</div>
+	
+<div class="flip">
+    <div class="front" style=><img src="images/Camera Obscura/negativ/5.jpg" width="300px" height="215px" alt="" class="petafront"/>
+      
+    </div>
+    <div class="back" style=><img src="images/Camera Obscura/pozitiv/5.jpg" width="300px" height="215px" alt="" class="petaback"/>
+      
+    </div>
+</div>	
+	
+	
 	
 	
 	
@@ -147,16 +148,14 @@ body {
   
 	
 	</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script src="js/baguetteBox.js"></script>
 <footer>© 2020 - Kristijan Bančić</footer>
 <script src="js/jquery-1.11.3.min.js"></script> 
 <script src="js/bootstrap.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-<script src="https://npmcdn.com/masonry-layout@4.0/dist/masonry.pkgd.min.js"></script>	
-<script  src="js/script.js"></script>	
-<script>
-    baguetteBox.run('.elements-gride');
-					</script>
+
+	
+
+
 	
 </body>
 </html>
