@@ -4196,6 +4196,119 @@ nav {
 
 }
 
+@media (max-width:962px) and (max-height:445px){
+	.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 164px;
+
+
+
+}
+	.kiki-gallery.camera.obscura {
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 940px;
+	}
+
+	.asideLeft {
+		margin-top: 110px;
+		width: 27%;
+		margin-left: 50px;
+	}
+
+	.sectionRight {
+    width: 35%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 115px;
+    text-align: justify;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 0px;
+		margin-bottom: 0px;
+	}
+
+	.bg-text.calendar {
+		margin-top: 56px;
+		width: 34%;
+		font-size: x-large;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 0px;
+		margin-left: 193px;
+		max-width: 531px;
+		max-height: 353px;
+	}
+
+	.sectionRight.about {
+		margin-top: 0px;
+		width: 100%;
+		margin-bottom: 77px;
+		margin-left: 0px;
+		margin-right: 0px;
+		padding-top: 30px;
+		padding-bottom: 5px;
+		border-top-left-radius: 25px;
+		border-bottom-left-radius: 25px;
+		border-bottom-right-radius: 25px;
+	}
+
+	.asideLeft.about.popravi {
+		margin-top: 0px;
+		margin-bottom: 580px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: -20px;
+		margin-bottom: 38px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 470px;
+		width: 100%;
+		margin-bottom: 45px;
+		margin-right: 0px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 400px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 38px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -739px;
+		width: 48%;
+		margin-right: 245px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -150px;
+	}
+
+
+}
+
+
+
 @media (max-width:962px) and (max-height:433px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 152px;
@@ -8446,7 +8559,7 @@ nav {
 
 @media (max-width:712px) and (max-height:277px) {
 .content .baguetteBoxOne.gallery.film {
-    padding-bottom: 200px;
+    padding-bottom: 238px;
 
 
 
@@ -10078,10 +10191,10 @@ nav {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -10px;
-		margin-left: -3px;
-		max-width: 563px;
-		max-height: 374px;
+    margin-top: -10px;
+    margin-left: 5px;
+    max-width: 563px;
+    max-height: 374px;
 	}
 
 	.post .asideLeft.twitter {
@@ -10278,7 +10391,7 @@ nav {
 
 @media (max-width:600px) and (max-height:1024px) {
 .content .baguetteBoxOne.gallery.film {
-    padding-bottom: 162px;
+    padding-bottom: auto;
 
 
 
@@ -12930,12 +13043,12 @@ nav {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: 33px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 3px;
+    margin-top: 30px;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
 	}
 
 	.asideLeft {}
@@ -12950,6 +13063,91 @@ nav {
 	}
 
 }
+
+@media (max-width:412px) and (max-height:732px){
+	.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 208px;
+
+
+
+
+}
+	.kiki-gallery.camera.obscura {
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1438px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -107px;
+		width: 40%;
+	}
+
+	.sectionRight.about {
+		margin-top: 0px;
+		margin-bottom: 120px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.asideLeft.about {
+		margin-left: 27px;
+		margin-top: 160px;
+		text-align: center;
+		padding-right: 0px;
+		padding-left: 321px;
+		font-size: medium;
+	}
+
+	.asideLeft.about.popravi {
+		margin-left: 20px;
+		margin-top: 120px;
+		margin-bottom: 700px;
+	}
+
+	.asideLeft.about h1 {
+		font-size: large;
+		margin-top: -30px;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 0px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+    margin-top: 23px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
+	}
+
+	.asideLeft {}
+
+	.sectionRight {
+		margin-bottom: 180px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
+}
+
+
 
 @media (max-width:412px) and (max-height:640px) {
 .content .baguetteBoxOne.gallery.film {
