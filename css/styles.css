@@ -14476,6 +14476,7 @@ nav {
 
 
 
+
 }
 	.kiki-gallery.camera.obscura {
 		margin-top: 70px;
@@ -14588,6 +14589,7 @@ nav {
 
 
 
+
 }
 	.kiki-gallery.camera.obscura {
 		margin-top: 70px;
@@ -14684,6 +14686,7 @@ nav {
 
 @media (max-width:360px) and (max-height:747px) {
 .content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
 
 
 
@@ -14767,6 +14770,7 @@ nav {
 
 @media (max-width:360px) and (max-height:740px) {
 .content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
 
 
 
@@ -14850,6 +14854,7 @@ nav {
 
 @media (max-width:360px) and (max-height:718px) {
 .content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
 
 
 
@@ -14951,7 +14956,9 @@ nav {
 
 @media (max-width:360px) and (max-height:655px) {
 .content .baguetteBoxOne.gallery.film {
-    padding-bottom: 180px;
+    padding-bottom: 0em;
+
+
 
 
 
@@ -15068,6 +15075,7 @@ nav {
 
 @media (max-width:360px) and (max-height:640px) {
 .content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
 
 
 
@@ -15184,6 +15192,7 @@ nav {
 
 @media (max-width:360px) and (max-height:600px) {
 .content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
 
 
 
