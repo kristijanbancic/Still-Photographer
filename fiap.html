@@ -31,7 +31,8 @@ body {
 <![endif]-->
 </head>
 
-<body style="padding-top: 70px">
+<body oncontextmenu=" return disableRightClick();"
+	  style="padding-top: 70px">
 <nav class="navbar navbar-default navbar-fixed-top">
   <div class="container-fluid"> 
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -87,7 +88,16 @@ body {
   
   <!-- uzorak --> 
   
-  <img src="images/uzorak.jpg" class="Reallity" style="cursor: default; position: absolute; width: 50px; height: 50px; left: 15px; top: 800px; opacity: 1;" alt="uzorak"> </div>
+   </div>
+	
+	<script type="text/javascript"> 
+function disableRightClick() 
+{ 
+alert("Unfortunately, right-click is not allowed on this website because content is protected by copyright!"); 
+return false; 
+} 
+</script>
+	
 <script src="js/baguetteBox.js"></script>
 <footer>© 2020 - Kristijan Bančić</footer>
 <script src="js/jquery-1.11.3.min.js"></script> 
