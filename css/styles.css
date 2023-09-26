@@ -1622,12 +1622,12 @@ body {
 	}
 
 	.kiki-gallery.reallity {
-		height: 0px;
-		margin-top: 600px;
+    height: 0px;
+    margin-top: 600px;
 	}
 
 	.kiki-gallery.reallity .Reallity {
-		margin-top: 0px;
+    margin-top: 90px;
 	}
 
 
