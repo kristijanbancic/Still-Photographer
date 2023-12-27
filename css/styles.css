@@ -14583,6 +14583,89 @@ body {
 
 }
 
+@media (max-width:412px) and (max-height:718px){
+	.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+
+}
+	.kiki-gallery.camera.obscura {
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1438px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -107px;
+		width: 40%;
+	}
+
+	.sectionRight.about {
+		margin-top: 0px;
+		margin-bottom: 120px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.asideLeft.about {
+		margin-left: 27px;
+		margin-top: 160px;
+		text-align: center;
+		padding-right: 0px;
+		padding-left: 321px;
+		font-size: medium;
+	}
+
+	.asideLeft.about.popravi {
+		margin-left: 20px;
+		margin-top: 120px;
+		margin-bottom: 700px;
+	}
+
+	.asideLeft.about h1 {
+		font-size: large;
+		margin-top: -30px;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 0px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+    margin-top: 23px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
+	}
+
+	.asideLeft {}
+
+	.sectionRight {
+    margin-bottom: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
+}
+
 
 
 @media (max-width:412px) and (max-height:640px) {
@@ -20181,3 +20264,4 @@ p {
 	margin-top: 30px;
 	margin-bottom: 0px;
 }
+
