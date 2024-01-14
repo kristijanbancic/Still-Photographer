@@ -20370,22 +20370,7 @@ p {
 }
 
 @media only screen and (min-width: 360px) and (orientation: portrait) { /* Your Styles... */ 
-	.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-bottom: -20px;
-    padding-top: 0px;
-    padding-bottom: 50px;
-	}
-.content .baguetteBoxOne.gallery.film {
-    padding-bottom: 0em;
-
-
 	
-	
-
-
-
 
 }
 	.kiki-gallery.camera.obscura {
@@ -20493,4 +20478,3 @@ p {
 
 
 
-} }
