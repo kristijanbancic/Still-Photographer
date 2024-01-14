@@ -16556,7 +16556,7 @@ body {
 
 @media (max-width:360px) and (max-height:760px) {
 .container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
-    margin-top: 0px;
+    margin-top: -20px;
     margin-left: 0px;
     margin-right: 0px;
 	}
