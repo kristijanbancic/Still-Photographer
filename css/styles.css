@@ -20366,7 +20366,7 @@ p {
 	
 	
 { .container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
-		margin-top: 0px;
+		margin-top: 20px;
 		margin-left: 0px;
 		margin-right: 0px;
 	}
@@ -20400,8 +20400,8 @@ p {
 	}
 
 	.sectionRight {
-    margin-bottom: 290px;
     margin-top: 65px;
+    padding-bottom: 3em;
 	}
 
 	.asideLeft.about {
