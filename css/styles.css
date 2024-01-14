@@ -20363,3 +20363,13 @@ p {
 }
 
 @media only screen and (min-width: 360px) and (max-width: 767px) { /* Your Styles... */ }
+
+@media
+  only screen and (-webkit-min-device-pixel-ratio: 4),
+  only screen and (   min--moz-device-pixel-ratio: 4),
+  only screen and (     -o-min-device-pixel-ratio: 4/1),
+  only screen and (        min-device-pixel-ratio: 4),
+  only screen and (                min-resolution: 550dpi),
+  only screen and (                min-resolution: 4dppx) { 
+    /* Retina styles here */
+}
