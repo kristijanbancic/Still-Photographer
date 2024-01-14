@@ -20362,7 +20362,16 @@ p {
 
 
 @media only screen and (min-device-width: 360px) and (orientation: portrait) 
-{ .content .baguetteBoxOne.gallery.film {
+	
+	
+	
+{ .container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
+		margin-top: 0px;
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	
+	.content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
