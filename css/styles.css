@@ -20369,112 +20369,12 @@ p {
 	margin-bottom: 0px;
 }
 
-@media only screen and (min-width: 360px) and (orientation: portrait) { /* Your Styles... */ 
-	
-
+@media
+  only screen and (-webkit-min-device-pixel-ratio: 4),
+  only screen and (   min--moz-device-pixel-ratio: 4),
+  only screen and (     -o-min-device-pixel-ratio: 4/1),
+  only screen and (        min-device-pixel-ratio: 4),
+  only screen and (                min-resolution: 550dpi),
+  only screen and (                min-resolution: 4dppx) { 
+    /* Retina styles here */
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1540px;
-	}
-
-	.asideLeft {
-		width: 58%;
-		text-align: center;
-		margin-top: -10px;
-		margin-left: 20%;
-		font-size: x-small;
-		clear: none;
-		margin-right: 20%;
-	}
-
-	.sectionRight {
-    margin-bottom: 0px;
-    margin-top: 65px;
-    padding-bottom: 500px;
-	}
-
-	.asideLeft.about {
-		margin-left: 27px;
-		margin-top: 160px;
-		text-align: center;
-		padding-right: 0px;
-		padding-left: 321px;
-		font-size: medium;
-	}
-
-	.asideLeft.about.popravi {
-		margin-left: -20px;
-		margin-top: 125px;
-		margin-bottom: 745px;
-	}
-
-	.asideLeft.about h1 {
-		font-size: large;
-		margin-top: -30px;
-	}
-
-	.sectionRight.about {
-    margin-top: 660px;
-    width: 100%;
-    margin-bottom: 86px;
-    margin-left: 0px;
-    margin-right: 0px;
-    font-size: small;
-	}
-
-	.sectionRight.about .twitter {
-		margin-top: 0px;
-	}
-
-	.post .asideLeft.twitter {
-		margin-top: 27px;
-		margin-bottom: 25px;
-		padding-bottom: 0px;
-		padding-top: 0px;
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
-	}
-
-	.post .sectionRight.contact {
-		margin-top: 45px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 3px;
-	}
-
-	.sectionRight.contact #form1 #comments {
-		height: 225px;
-		margin-bottom: 4px;
-	}
-
-	.asideLeft.thankyou {
-		margin-top: 215px;
-		margin-left: 0px;
-		width: 100%;
-		margin-bottom: 50px;
-		padding-bottom: 25px;
-	}
-
-	.sectionRight.thankyou {
-		margin-top: -770px;
-		width: 100%;
-		margin-right: 0px;
-		padding-top: 3px;
-		padding-bottom: 100px;
-		margin-bottom: 0px;
-		margin-left: 0px;
-	}
-
-	.bg-text.calendar {
-		margin-top: -174px;
-		width: 29%;
-	}
-
-
-
