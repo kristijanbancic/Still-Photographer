@@ -16583,9 +16583,8 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 0px;
-    margin-top: 65px;
-   
+    margin-bottom: 39px;
+    margin-top: 65px;   
 	}
 
 	.asideLeft.about {
@@ -20362,7 +20361,7 @@ p {
 	margin-bottom: 0px;
 }
 
-@media only screen and (min-width: 360px) and (max-width: 767px) { /* Your Styles... */ }
+
 
 @media
   only screen and (-webkit-min-device-pixel-ratio: 4),
