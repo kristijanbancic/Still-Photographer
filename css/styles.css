@@ -16584,15 +16584,16 @@ body {
 
 	.sectionRight {
     margin-top: 65px;
+    padding-bottom: 50px;
 	}
 
 	.asideLeft.about {
-		margin-left: 27px;
-		margin-top: 160px;
-		text-align: center;
-		padding-right: 0px;
-		padding-left: 321px;
-		font-size: medium;
+    margin-left: 27px;
+    margin-top: 160px;
+    text-align: center;
+    padding-right: 0px;
+    padding-left: 321px;
+    font-size: medium;
 	}
 
 	.asideLeft.about.popravi {
