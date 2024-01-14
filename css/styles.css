@@ -20361,12 +20361,12 @@ p {
 }
 
 
-@media only screen and (min-device-width: 360px) and (orientation: portrait) 
+@media only screen and (min-device-width: 412px) and (orientation: portrait) 
 	
 	
 	
 { .container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
-		margin-top: -15px;
+		margin-top: 0px;
 		margin-left: 0px;
 		margin-right: 0px;
 	}
@@ -20400,8 +20400,9 @@ p {
 	}
 
 	.sectionRight {
-		margin-bottom: 0px;
-		margin-top: 65px;
+    margin-bottom: 0px;
+    margin-top: 65px;
+    padding-bottom: 30px;		
 	}
 
 	.asideLeft.about {
