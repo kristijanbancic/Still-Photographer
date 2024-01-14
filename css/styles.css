@@ -16584,7 +16584,7 @@ body {
 
 	.sectionRight {
     margin-top: 65px;
-    padding-bottom: 50px;
+    padding-bottom: 0px;
 	}
 
 	.asideLeft.about {
@@ -20359,16 +20359,4 @@ p {
 	text-align: center;
 	margin-top: 30px;
 	margin-bottom: 0px;
-}
-
-
-
-@media
-  only screen and (-webkit-min-device-pixel-ratio: 4),
-  only screen and (   min--moz-device-pixel-ratio: 4),
-  only screen and (     -o-min-device-pixel-ratio: 4/1),
-  only screen and (        min-device-pixel-ratio: 4),
-  only screen and (                min-resolution: 550dpi),
-  only screen and (                min-resolution: 4dppx) { 
-    /* Retina styles here */
 }
