@@ -7797,8 +7797,8 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: -25px;
-		margin-left: 490px;
+    margin-top: 55px;
+    margin-left: 490px;
 	}
 
 	.asideLeft.about {
@@ -16674,10 +16674,6 @@ body {
 		margin-top: -174px;
 		width: 29%;
 	}
-.navbar-header .navbar-toggle.collapsed .sr-only {
-    margin-top: 0px;
-    margin-bottom: -15px;
-}
 
 
 
