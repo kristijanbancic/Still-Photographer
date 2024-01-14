@@ -16609,12 +16609,12 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 660px;
-		width: 100%;
-		margin-bottom: 160px;
-		margin-left: 0px;
-		margin-right: 0px;
-		font-size: small;
+    margin-top: 660px;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: small;
 	}
 
 	.sectionRight.about .twitter {
@@ -20359,5 +20359,3 @@ p {
 	margin-top: 30px;
 	margin-bottom: 0px;
 }
-
-
