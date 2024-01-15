@@ -19512,8 +19512,8 @@ p {
 		width: 29%;
 	}
 .container-fluid .navbar-header .navbar-brand {
-    /* [disabled]margin-top: -120px; */
-    margin-bottom: 15px;
+    margin-bottom: 0px;
+    margin-top: 143px;
 	}
 
 
