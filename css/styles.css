@@ -19418,18 +19418,18 @@ p {
 	}
 
 	.asideLeft {
-		width: 58%;
-		text-align: center;
-		margin-top: -10px;
-		margin-left: 20%;
-		font-size: x-small;
-		clear: none;
-		margin-right: 20%;
+    width: 100%;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: 0%;
+    font-size: x-small;
+    clear: none;
+    margin-right: 0%;
 	}
 
 	.sectionRight {
     margin-top: 65px;
-    padding-bottom: 150px;
+    padding-bottom: 50px;
 	}
 
 	.asideLeft.about {
@@ -19513,7 +19513,7 @@ p {
 	}
 .container-fluid .navbar-header .navbar-brand {
     margin-bottom: 0px;
-    margin-top: 143px;
+    /* [disabled]margin-top: 143px; */
 	}
 
 
