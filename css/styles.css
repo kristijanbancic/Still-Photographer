@@ -795,12 +795,12 @@ body {
 	}
 
 	.glichheader {
-		text-align: center;
-		margin-top: 50px;
+    text-align: center;
+    margin-top: 0px;
 	}
 
 	.glichheader a img {
-		margin-top: 20px;
+    margin-top: 50px;
 	}
 
 	.post .contactheader {
@@ -809,8 +809,7 @@ body {
 	}
 
 	.thankyouheader {
-		text-align: center;
-		margin-top: 50px;
+    text-align: center;
 	}
 
 	.filmh1 {
