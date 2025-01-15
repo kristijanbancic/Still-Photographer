@@ -690,11 +690,11 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 283px;
-		margin-left: 0px;
-		width: 30%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 283px;
+    margin-left: 0px;
+    width: 30%;
+    margin-right: 38px;
+    text-align: justify;
 	}
 
 	.kiki-gallery {
@@ -970,7 +970,17 @@ body {
     margin-top: 100px;
     margin-left: 10px;
     margin-right: 10px;
+	overflow-x: visible;
 }
+.elfsight-app-31c826ba-40d8-4714-a962-758ffe8eaf15 {
+    margin-top: 55px;
+    margin-left: -30px;
+    padding-right: 0px;
+    margin-right: -30px;
+	overflow-x: visible;
+	
+}
+
 
 
 
@@ -1008,11 +1018,11 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 305px;
-		margin-left: 0px;
-		width: 30%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 305px;
+    margin-left: 0px;
+    width: 30%;
+    margin-right: 38px;
+    text-align: justify;
 	}
 
 
@@ -1105,11 +1115,11 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 305px;
-		margin-left: 0px;
-		width: 30%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 305px;
+    margin-left: 0px;
+    width: 30%;
+    margin-right: 38px;
+    text-align: justify;
 	}
 
 	.kiki-gallery {
