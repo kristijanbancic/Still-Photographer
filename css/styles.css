@@ -183,10 +183,9 @@ display: none; /* this code will hide whole pages */
 }
 
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1100px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
 	}
 
 	.flip > .front,
@@ -481,102 +480,6 @@ display: none; /* this code will hide whole pages */
 		margin-top: 0px;
 		padding-top: 30px;
 	}
-
-	.glitchh1 {
-		font-family: alfa-slab-one;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 2.5em;
-		text-align: center;
-		line-height: 1em;
-		height: 1em;
-		color: #FFFFFF;
-		text-shadow: 4px 5px 17px #000000;
-		margin-top: 0px;
-		padding-top: 30px;
-	}
-
-	.bg-image.img1 .januarylink {
-		margin-top: 0px;
-		margin-left: 15px;
-		padding-bottom: 0px;
-		padding-top: 0px;
-	}
-
-	.bg-image.img2 .februarylink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img3 .marchlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img4 .aprillink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img5 .maylink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img6 .junelink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img7 .julylink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img8 .augustlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img9 .septemberlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img10 .octoberlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img11 .novemberlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img12 .decemberlink {
-		margin-left: 15px;
-	}
-body {
-    background-color: #282828;
-}
-.elfsight-app-34682702-5f2f-43a2-99ef-796a2846a234 {
-    margin-left: 10px;
-    margin-right: px;
-    margin-top: 100px;
-    overflow-x: visible;
-}
-.elfsight-app-e64652a3-df59-4051-96c9-2b2be926a502 {
-    margin-left: 10px;
-    margin-right: px;
-    margin-top: 100px;
-    overflow-x: visible;
-}
-.elfsight-app-9a366b01-dda1-44ee-b739-c8bb29584ca5 {
-    margin-top: 100px;
-    margin-left: 10px;
-}
-.elfsight-app-31c826ba-40d8-4714-a962-758ffe8eaf15 {
-    margin-top: 100px;
-    margin-left: -30px;
-    padding-right: 0px;
-    margin-right: -30px;
-    overflow-x: visible;
-}
-.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
-    margin-top: 615px;
-    margin-bottom: 0px;
-    padding-bottom: 30px;
-}
 .glitchh1 {
     font-family: alfa-slab-one;
     font-style: normal;
@@ -591,6 +494,44 @@ body {
     padding-top: 30px;
     padding-bottom: 50px;
 	}
+body {
+    background-color: #282828;
+}
+.elfsight-app-34682702-5f2f-43a2-99ef-796a2846a234 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+    overflow-x: visible;
+}
+.elfsight-app-e64652a3-df59-4051-96c9-2b2be926a502 {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 100px;
+    overflow-x: visible;
+}
+.elfsight-app-9a366b01-dda1-44ee-b739-c8bb29584ca5 {
+    margin-top: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.elfsight-app-31c826ba-40d8-4714-a962-758ffe8eaf15 {
+    margin-top: 50px;
+    margin-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    overflow-x: visible;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 615px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.elfsight-app-dceae2c3-adc4-4c5e-9a85-8190ddc404c2 {
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
 
 
 
@@ -627,10 +568,10 @@ body {
 	}
 
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 700px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 700px;
 	}
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 31px;
@@ -925,57 +866,6 @@ body {
     padding-top: 30px;
     padding-bottom: 50px;
 	}
-
-	.bg-image.img1 .januarylink {
-		margin-top: 0px;
-		margin-left: 15px;
-		padding-bottom: 0px;
-		padding-top: 0px;
-	}
-
-	.bg-image.img2 .februarylink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img3 .marchlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img4 .aprillink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img5 .maylink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img6 .junelink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img7 .julylink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img8 .augustlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img9 .septemberlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img10 .octoberlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img11 .novemberlink {
-		margin-left: 15px;
-	}
-
-	.bg-image.img12 .decemberlink {
-		margin-left: 15px;
-	}
 body {
     background-color: #282828;
 }
@@ -1004,15 +894,15 @@ body {
 }
 .elfsight-app-31c826ba-40d8-4714-a962-758ffe8eaf15 {
     margin-top: 50px;
-    margin-left: -30px;
+    margin-left: 0px;
     padding-right: 0px;
-    margin-right: -30px;
+    margin-right: 0px;
     overflow-x: visible;
 }
 .elfsight-app-dceae2c3-adc4-4c5e-9a85-8190ddc404c2 {
     margin-top: 50px;
-    margin-left: -30px;
-    margin-right: -30px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
     margin-top: 615px;
@@ -1041,9 +931,9 @@ body {
 }
 
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
 	}
 
 	.asideLeft.about {
@@ -1051,8 +941,8 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 122px;
-		padding-bottom: 150px;
+    margin-top: 100px;
+    padding-bottom: 150px;
 	}
 
 	.asideLeft {
@@ -1138,9 +1028,9 @@ body {
 }
 
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
 	}
 
 	.asideLeft.about {
@@ -1148,8 +1038,8 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 117px;
-		padding-bottom: 150px;
+    margin-top: 100px;
+    padding-bottom: 150px;
 	}
 
 	.asideLeft {
@@ -1226,9 +1116,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 201px;
 	}
 
 	.asideLeft {
@@ -1379,9 +1270,9 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
 	}
 
 	.asideLeft {
@@ -1436,7 +1327,7 @@ body {
 	}
 
 	.glitcoo {
-		margin-top: 415px;
+    margin-top: 415px;
 	}
 
 
@@ -1451,9 +1342,9 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
 	}
 
 	.asideLeft {
@@ -1530,10 +1421,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 630px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 700px;
 	}
 
 	.asideLeft {
@@ -1559,8 +1450,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 24px;
-		margin-right: 30px;
+    margin-top: 20px;
+    margin-right: 30px;
+    padding-bottom: 105px;
+    margin-bottom: 0px;
 	}
 
 	.bg-text.calendar {
@@ -1610,10 +1503,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 630px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 810px;
 	}
 
 	.asideLeft {
@@ -1694,10 +1587,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 620px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 690px;
 	}
 
 	.asideLeft {
@@ -1857,6 +1750,14 @@ body {
 		max-width: 640px;
 		max-height: 425px;
 	}
+.kiki-gallery.camera.obscura {
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 955px;
+	}
+
+
 }
 
 @media (max-width:1366px) {
@@ -1933,10 +1834,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 590px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1050px;
 	}
 
 	.bg-text.calendar {
@@ -1994,8 +1895,13 @@ body {
 	}
 
 	.glitcoo {
-		margin-top: 340px;
+    margin-top: 340px;
 	}
+.embed-responsive.embed-responsive-16by9 {
+    padding-bottom: 605px;
+
+}
+
 
 
 }
@@ -2008,10 +1914,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 625px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 950px;
 	}
 
 	.bg-text.calendar {
@@ -2041,10 +1947,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 30px;
-		width: 29%;
-		padding-top: 30px;
-		padding-bottom: 10px;
+    margin-top: 15px;
+    width: 29%;
+    padding-top: 30px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2087,10 +1993,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 625px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 955px;
 	}
 
 	.bg-text.calendar {
@@ -2120,10 +2026,11 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 20px;
-		width: 29%;
-		padding-top: 30px;
-		padding-bottom: 10px;
+    margin-top: 20px;
+    width: 29%;
+    padding-top: 15px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2174,10 +2081,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 625px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 950px;
 	}
 
 	.bg-text.calendar {
@@ -2208,10 +2115,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 30px;
-		width: 29%;
-		padding-top: 30px;
-		padding-bottom: 10px;
+    margin-top: 25px;
+    width: 29%;
+    padding-top: 15px;
+    padding-bottom: 0px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2297,10 +2204,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 590px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 950px;
 	}
 
 	.bg-text.calendar {
@@ -2333,10 +2240,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 135px;
-		width: 29%;
-		padding-top: 30px;
-		padding-bottom: 10px;
+    margin-top: 100px;
+    width: 27%;
+    padding-top: 30px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2383,10 +2290,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 590px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 990px;
 	}
 
 	.bg-text.calendar {
@@ -2419,10 +2326,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 105px;
-		width: 29%;
-		padding-top: 30px;
-		padding-bottom: 10px;
+    margin-top: 100px;
+    width: 29%;
+    padding-top: 30px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2469,10 +2376,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 590px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 980px;
 	}
 
 	.bg-text.calendar {
@@ -2496,7 +2403,7 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 105px;
+    margin-top: 100px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2537,10 +2444,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 640px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 950px;
 	}
 
 	.bg-text.calendar {
@@ -2563,7 +2470,7 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 34px;
+    margin-top: 20px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2612,10 +2519,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 700px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 975px;
 	}
 
 	.bg-text.calendar {
@@ -2648,10 +2555,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 23px;
-		width: 29%;
-		padding-top: 30px;
-		padding-bottom: 10px;
+    margin-top: 20px;
+    width: 29%;
+    padding-top: 15px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2740,10 +2647,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 23px;
-		width: 29%;
-		padding-top: 30px;
-		padding-bottom: 10px;
+    margin-top: 20px;
+    width: 29%;
+    padding-top: 15px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2847,10 +2754,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 590px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 955px;
 	}
 
 	.bg-text.calendar {
@@ -2876,7 +2783,8 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 95px;
+    margin-top: 50px;
+    width: 28%;
 	}
 
 	.post .asideLeft.twitter {
@@ -2916,10 +2824,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 650px;
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 950px;
 	}
 
 	.bg-text.calendar {
@@ -2942,11 +2850,13 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 15px;
+    margin-top: 15px;
+    padding-top: 15px;
+    width: 30%;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 17px;
+    margin-top: -10px;
 	}
 
 	.post .asideLeft.twitter {
@@ -3051,7 +2961,8 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 95px;
+    margin-top: 45px;
+    width: 28%;
 	}
 
 	.post .asideLeft.twitter {
@@ -3143,10 +3054,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-    margin-top: 70px;
+    margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 660px;
+    max-height: 975px;
 	}
 
 	.asideLeft {
@@ -3159,7 +3070,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 65px;
+    margin-top: 25px;
 	}
 
 	.asideLeft.about.popravi {
@@ -3168,17 +3079,17 @@ body {
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 17px;
+    margin-top: -30px;
 	}
 
 	.post .asideLeft.twitter {
-		width: 22%;
-		margin-top: -102px;
+    width: 22%;
+    margin-top: -15px;
 	}
 
 	.post .sectionRight.contact {
-		width: 26%;
-		margin-top: -102px;
+    width: 26%;
+    margin-top: -15px;
 	}
 
 	.bg-text.calendar {
