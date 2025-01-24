@@ -417,8 +417,9 @@ display: none; /* this code will hide whole pages */
 	}
 
 	.post .contactheader {
-		text-align: center;
-		margin-top: 50px;
+    text-align: center;
+    margin-top: -110px;
+    margin-bottom: 160px;
 	}
 
 	.thankyouheader {
@@ -775,8 +776,10 @@ body {
 	}
 
 	.post .contactheader {
-		text-align: center;
-		margin-top: 50px;
+    text-align: center;
+    margin-top: -110px;
+    padding-top: 0px;
+    margin-bottom: 160px;
 	}
 
 	.thankyouheader {
@@ -910,6 +913,7 @@ body {
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+
 
 
 
@@ -1805,12 +1809,12 @@ body {
 
 	.post .asideLeft.twitter {
     width: 25%;
-    margin-top: -95px;
+    margin-top: -88px;
 	}
 
 	.post .sectionRight.contact {
     width: 25%;
-    margin-top: -95px;
+    margin-top: -88px;
 	}
 
 	.asideLeft.thankyou {
@@ -3913,8 +3917,9 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 51px;
-		margin-bottom: 1120px;
+    margin-top: 55px;
+    margin-bottom: 1120px;
+    margin-left: 600px;
 	}
 
 	.sectionRight.about {
@@ -6988,38 +6993,22 @@ body {
 
 }
 
-@media (max-width:736px) {
+@media (max-width:736px) and (max-height:414px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 905px;
-	}
-
-	.asideLeft.about {
-		margin-left: 518px;
-		margin-top: -15px;
-	}
-
-	.asideLeft.about.popravi h1 {
-		margin-top: 33px;
-		margin-left: -95px;
-	}
 
 	.sectionRight.about {
-		margin-top: -170px;
-		width: 100%;
-		margin-bottom: 77px;
-		margin-left: 0px;
-		margin-right: 0px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    margin-top: 15px;
+    width: 100%;
+    margin-bottom: 85px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 	}
 
 	.asideLeft {
@@ -7114,27 +7103,13 @@ body {
 
 }
 
-@media (max-width:732px) {
+@media (max-width:732px) and (max-height:411px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 903px;
-	}
-
-	.bg-text.calendar {
-		margin-top: 16px;
-		width: 34%;
-		font-size: medium;
-		padding-top: 8px;
-		padding-bottom: 8px;
-	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: 0px;
@@ -7170,8 +7145,8 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-left: 495px;
-		margin-top: -20px;
+    margin-left: 495px;
+    margin-top: 10px;
 	}
 
 	.asideLeft.about {
@@ -7180,13 +7155,13 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: -170px;
-		width: 99%;
-		margin-bottom: 72.4px;
-		margin-left: 0px;
-		margin-right: 3.7px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    margin-top: -170px;
+    width: 100%;
+    margin-bottom: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 	}
 
 	.post .asideLeft.twitter {
@@ -7222,27 +7197,13 @@ body {
 
 }
 
-@media (max-width:731px) {
+@media (max-width:731px) and (max-height:411px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 903px;
-	}
-
-	.bg-text.calendar {
-		margin-top: 16px;
-		width: 34%;
-		font-size: medium;
-		padding-top: 8px;
-		padding-bottom: 8px;
-	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: 0px;
@@ -7280,16 +7241,6 @@ body {
 	.asideLeft.about {
 		margin-left: 518px;
 		margin-top: -15px;
-	}
-
-	.sectionRight.about {
-		margin-top: -170px;
-		width: 99%;
-		margin-bottom: 72.4px;
-		margin-left: 0px;
-		margin-right: 3.7px;
-		padding-top: 25px;
-		padding-bottom: 10px;
 	}
 
 	.post .asideLeft.twitter {
@@ -7404,287 +7355,6 @@ body {
 	}
 }
 
-@media (max-width:720px) and (max-height:1280px) {
-.content .baguetteBoxOne.gallery.film {
-    padding-bottom: 0em;
-
-
-
-}
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 903px;
-	}
-
-	.asideLeft.about.popravi {
-		margin-top: 250px;
-		margin-left: 475px;
-	}
-
-	.sectionRight.about {
-		margin-top: -45px;
-		width: 99%;
-		margin-bottom: 65px;
-		margin-left: 0px;
-		margin-right: 3.6px;
-		padding-top: 25px;
-		padding-bottom: 10px;
-	}
-
-	.bg-text.calendar {
-		margin-top: -418px;
-		width: 34%;
-		font-size: medium;
-		padding-top: 8px;
-		padding-bottom: 8px;
-	}
-
-	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -20px;
-		margin-left: 78px;
-		max-width: 531px;
-		max-height: 353px;
-		margin-bottom: 0px;
-	}
-
-	.asideLeft {
-		margin-top: 265px;
-		width: 27%;
-		font-size: x-small;
-	}
-
-	.sectionRight {
-		margin-top: 605px;
-		width: 96%;
-	}
-
-	.post .asideLeft.twitter {
-		margin-top: 27px;
-		margin-bottom: 130px;
-		padding-bottom: 0px;
-		padding-top: 0px;
-		width: 100%;
-		margin-left: 0px;
-	}
-
-	.post .sectionRight.contact {
-		margin-top: 38px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-	}
-
-	.asideLeft.thankyou {
-		margin-top: 215px;
-		margin-left: 0px;
-		width: 100%;
-		margin-bottom: 25px;
-	}
-
-	.sectionRight.thankyou {
-		margin-top: -680px;
-		width: 61%;
-		margin-right: 141px;
-		max-height: 75px;
-		padding-top: 0px;
-		padding-bottom: 0px;
-		margin-bottom: 0px;
-	}
-
-	.kiki-gallery.reallity .Reallity {
-		margin-top: 50px;
-	}
-
-}
-
-@media (max-width:720px) and (max-height:1200px) {
-.content .baguetteBoxOne.gallery.film {
-    padding-bottom: 0em;
-
-
-
-}
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 903px;
-	}
-
-	.asideLeft.about.popravi {
-		margin-top: 220px;
-		margin-left: 475px;
-	}
-
-	.sectionRight.about {
-		margin-top: -90px;
-		width: 99%;
-		margin-bottom: 65px;
-		margin-left: 0px;
-		margin-right: 3.6px;
-		padding-top: 25px;
-		padding-bottom: 10px;
-	}
-
-	.bg-text.calendar {
-		margin-top: -378px;
-		width: 34%;
-		font-size: medium;
-		padding-top: 8px;
-		padding-bottom: 8px;
-	}
-
-	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -20px;
-		margin-left: 78px;
-		max-width: 531px;
-		max-height: 353px;
-		margin-bottom: 0px;
-	}
-
-	.asideLeft {
-		margin-top: 265px;
-		width: 27%;
-		font-size: x-small;
-	}
-
-	.sectionRight {
-		margin-top: 530px;
-		width: 96%;
-	}
-
-	.post .asideLeft.twitter {
-		margin-top: 27px;
-		margin-bottom: 65px;
-		padding-bottom: 0px;
-		padding-top: 0px;
-		width: 100%;
-		margin-left: 0px;
-	}
-
-	.post .sectionRight.contact {
-		margin-top: 38px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-	}
-
-	.asideLeft.thankyou {
-		margin-top: 215px;
-		margin-left: 0px;
-		width: 100%;
-		margin-bottom: 25px;
-	}
-
-	.sectionRight.thankyou {
-		margin-top: -680px;
-		width: 61%;
-		margin-right: 141px;
-		max-height: 75px;
-		padding-top: 0px;
-	}
-
-	.kiki-gallery.reallity .Reallity {
-		margin-top: 50px;
-	}
-
-}
-
-@media (max-width:720px) and (max-height:1114px) {
-.content .baguetteBoxOne.gallery.film {
-    padding-bottom: 0em;
-
-
-
-}
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 955px;
-	}
-
-	.asideLeft.about.popravi {
-		margin-top: 200px;
-		margin-left: 475px;
-	}
-
-	.sectionRight.about {
-		margin-top: -155px;
-		width: 99%;
-		margin-bottom: 0px;
-		margin-left: 0px;
-		margin-right: 3.6px;
-		padding-top: 25px;
-		padding-bottom: 10px;
-	}
-
-	.bg-text.calendar {
-		margin-top: -335px;
-		width: 34%;
-		font-size: medium;
-		padding-top: 8px;
-		padding-bottom: 8px;
-	}
-
-	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -20px;
-		margin-left: 78px;
-		max-width: 531px;
-		max-height: 353px;
-		margin-bottom: 0px;
-	}
-
-	.asideLeft {
-		margin-top: 230px;
-		width: 27%;
-		font-size: x-small;
-	}
-
-	.sectionRight {
-		margin-top: 475px;
-		width: 96%;
-	}
-
-	.post .asideLeft.twitter {
-		margin-top: 27px;
-		margin-bottom: 51px;
-		padding-bottom: 0px;
-		padding-top: 0px;
-		width: 100%;
-		margin-left: 0px;
-	}
-
-	.post .sectionRight.contact {
-		margin-top: 38px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-	}
-
-	.asideLeft.thankyou {
-		margin-top: 270px;
-		margin-left: 0px;
-		width: 100%;
-		margin-bottom: 25px;
-	}
-
-	.sectionRight.thankyou {
-		margin-top: -680px;
-		width: 61%;
-		margin-right: 141px;
-		max-height: 75px;
-		padding-top: 0px;
-	}
-
-	.kiki-gallery.reallity .Reallity {
-		margin-top: 50px;
-	}
-
-}
-
 @media (max-width:720px) and (max-height:540px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
@@ -7692,27 +7362,21 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1560px;
-	}
 
 	.asideLeft.about.popravi {
-		margin-top: 30px;
-		margin-left: 475px;
-		margin-bottom: 22px;
+    margin-top: -55px;
+    margin-left: 475px;
+    margin-bottom: 22px;
 	}
 
 	.sectionRight.about {
-		margin-top: 520px;
-		width: 99%;
-		margin-bottom: 88px;
-		margin-left: 0px;
-		margin-right: 3.6px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    margin-top: 500px;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -7800,39 +7464,25 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1500px;
-	}
 
 	.asideLeft.about.popravi {
-		margin-top: 15px;
-		margin-left: 490px;
-		margin-bottom: 430px;
+    margin-top: -75px;
+    margin-left: 490px;
+    margin-bottom: 500px;
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		width: 99%;
-		margin-bottom: 75px;
-		margin-left: 0px;
-		margin-right: 3.6px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    margin-top: 0px;
+    width: 100%;
+    margin-bottom: 70px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
 		margin-top: -20px;
-	}
-
-	.bg-text.calendar {
-		margin-top: -18px;
-		width: 34%;
-		font-size: medium;
-		padding-top: 8px;
-		padding-bottom: 8px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -7919,19 +7569,6 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1377px;
-	}
-
-	.bg-text.calendar {
-		margin-top: 37px;
-		padding-top: 3px;
-		padding-bottom: 3px;
-		width: 30%;
-	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
 		margin-top: 0px;
@@ -7953,20 +7590,22 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: -43px;
-		margin-left: 480px;
-		margin-bottom: 500px;
+    margin-top: -15px;
+    margin-left: 480px;
+    margin-bottom: 500px;
 	}
 
 	.sectionRight.about {
-		padding-top: 25px;
-		padding-bottom: 10px;
-		margin-top: -150px;
-		width: 100%;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin-top: -150px;
+    width: 100%;
+    /* [disabled]margin-bottom: -150px; */
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: -55px;
+    margin-top: -100px;
+    margin-bottom: 0px;
 	}
 
 	.post .asideLeft.twitter {
@@ -8017,19 +7656,6 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1528px;
-	}
-
-	.bg-text.calendar {
-		margin-top: -39px;
-		padding-top: 3px;
-		padding-bottom: 3px;
-		width: 30%;
-	}
 
 	.asideLeft {
 		margin-top: 145px;
@@ -8044,13 +7670,13 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 155px;
-		margin-bottom: 77px;
+    margin-top: 170px;
+    margin-bottom: 85px;
 	}
 
 	.asideLeft.about.popravi h1 {
-		margin-top: 20px;
-		margin-bottom: 360px;
+    margin-top: 85px;
+    margin-bottom: 360px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -8093,19 +7719,6 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1560px;
-	}
-
-	.bg-text.calendar {
-		margin-top: 48px;
-		padding-top: 3px;
-		padding-bottom: 3px;
-		width: 30%;
-	}
 
 	.asideLeft {
 		margin-top: 35px;
@@ -8126,8 +7739,8 @@ body {
 	}
 
 	.asideLeft.about.popravi h1 {
-		margin-top: 20px;
-		margin-bottom: 360px;
+    margin-top: -10px;
+    margin-bottom: 360px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -8323,23 +7936,23 @@ body {
 
 }
 
-@media (max-width:695px) {
+@media (max-width:695px) and (max-height:390px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1410px;
+.kiki-gallery.camera.obscura {
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    padding-bottom: 20%;
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: -15px;
-		margin-left: 460px;
+    margin-top: -75px;
+    margin-left: 460px;
 	}
 
 	.sectionRight.about {
@@ -8430,21 +8043,16 @@ body {
 		margin-top: -148px;
 	}
 
+
 }
 
-@media (max-width:667px) {
+@media (max-width:667px) and (max-height:375px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1395px;
-	}
 
 	.asideLeft.about.popravi {
 		margin-left: 445px;
@@ -8567,7 +8175,7 @@ body {
     margin-bottom: 80px;
 	}
 .asideLeft.about.popravi {
-    margin-top: -35px;
+    margin-top: -100px;
 }
 .sectionRight.about {
 }
@@ -9011,12 +8619,6 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1575px;
-	}
 
 	.bg-text.calendar {
 		margin-top: 46px;
@@ -9048,7 +8650,7 @@ body {
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: -95px;
+    margin-top: -100px;
 	}
 
 	.post .asideLeft.twitter {
@@ -9103,24 +8705,18 @@ body {
 
 }
 
-@media (max-width: 650px) {
+@media (max-width:650px) and (max-height:360px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1380px;
-	}
 
 	.asideLeft.about.popravi {
-		width: 29%;
-		margin-left: 435px;
-		margin-top: -20px;
+    width: 29%;
+    margin-left: 435px;
+    margin-top: -80px;
 	}
 
 	.sectionRight.about {
@@ -9183,9 +8779,9 @@ body {
 	}
 
 	.post .contactheader {
-		text-align: center;
-		margin-top: 0px;
-		margin-bottom: 25px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 19px;
 	}
 
 	.post .asideLeft.twitter {
@@ -9199,12 +8795,11 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: 8px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 3px;
+    margin-top: 0px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
 	}
 
 	.asideLeft.thankyou {
@@ -9237,6 +8832,12 @@ body {
 	.glitcoo {
 		margin-top: -219px;
 	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 1000px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
 
 }
 
@@ -9409,12 +9010,6 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1430px;
-	}
 
 	.asideLeft {
 		width: 90%;
@@ -9434,17 +9029,17 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: -80px;
-		width: 100%;
-		margin-bottom: 77px;
-		margin-left: 0px;
-		margin-right: 0px;
-		max-width: 100%;
+    margin-top: -80px;
+    width: 100%;
+    margin-bottom: 85px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
 	}
 
 	.asideLeft.about.popravi {
     margin-left: 430px;
-    margin-top: 30px;
+    margin-top: -60px;
     margin-bottom: 470px;
 	}
 
@@ -9532,12 +9127,6 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1410px;
-	}
 
 	.asideLeft {
 		width: 90%;
@@ -9575,7 +9164,7 @@ body {
 
 	.asideLeft.about.popravi {
     margin-left: 430px;
-    margin-top: -8px;
+    margin-top: -65px;
 	}
 
 	.sectionRight.about .twitter {
@@ -9648,12 +9237,6 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1385px;
-	}
 
 	.asideLeft {
 		width: 90%;
@@ -9689,17 +9272,17 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: -130px;
-		width: 100%;
-		margin-bottom: 80px;
-		margin-left: 0px;
-		margin-right: 0px;
-		max-width: 100%;
+    margin-top: -130px;
+    width: 100%;
+    margin-bottom: 75px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
 	}
 
 	.asideLeft.about.popravi {
-		margin-left: 425px;
-		margin-top: -20px;
+    margin-left: 425px;
+    margin-top: -80px;
 	}
 
 	.sectionRight.about .twitter {
@@ -9754,35 +9337,13 @@ body {
 
 }
 
-@media (max-width:604px) {
+@media (max-width:604px) and (max-height:966px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 }
-	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1457px;
-	}
-
-	.asideLeft.about.popravi {
-		margin-left: 389px;
-		margin-top: 190px;
-		width: 30%;
-	}
-
-	.sectionRight.about {
-		margin-top: 920px;
-		width: 90%;
-		margin-bottom: 240px;
-		margin-left: 30px;
-		margin-right: 0px;
-		max-width: 100%;
-		padding-bottom: 20px;
-	}
 
 	.sectionRight.about .twitter {
 		margin-top: 90px;
@@ -9879,6 +9440,32 @@ body {
 	.glitcoo {
 		margin-top: 140px;
 	}
+.container-fluid .navbar-header .navbar-brand {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 1.7em;
+    margin-bottom: 10px;
+	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 600px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 220px;
+    padding-top: 0px;
+	}
+.asideLeft.about.popravi {
+    margin-left: 389px;
+    width: 30%;
+    padding-top: 1px;
+	}
+
+
+
+
 
 }
 
@@ -9889,27 +9476,22 @@ body {
 
 
 }
-	.kiki-gallery.camera.obscura {
-    margin-top: 70px;
-    margin-right: auto;
-    text-align: center;
-    max-height: 1560px;
-	}
 
 	.asideLeft.about.popravi {
-		margin-left: 389px;
-		margin-top: 145px;
-		width: 30%;
+    margin-left: 389px;
+    margin-top: 185px;
+    width: 30%;
+    padding-top: 0px;
 	}
 
 	.sectionRight.about {
-		margin-top: 920px;
-		width: 90%;
-		margin-bottom: 155px;
-		margin-left: 30px;
-		margin-right: 0px;
-		max-width: 100%;
-		padding-bottom: 20px;
+    margin-top: 740px;
+    width: 100%;
+    margin-bottom: 230px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 220px;
+    padding-top: 0px;
 	}
 
 	.sectionRight.about .twitter {
@@ -10007,6 +9589,12 @@ body {
 	.glitcoo {
 		margin-top: 140px;
 	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 730px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
 
 }
 
@@ -10021,7 +9609,6 @@ body {
     margin-top: 70px;
     margin-right: auto;
     text-align: center;
-    max-height: 1545px;
 	}
 
 	.asideLeft.about.popravi {
@@ -10074,10 +9661,10 @@ body {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -10px;
-		margin-left: -3px;
-		max-width: 563px;
-		max-height: 374px;
+    margin-top: -10px;
+    margin-left: 4px;
+    max-width: 563px;
+    max-height: 374px;
 	}
 
 	.post .asideLeft.twitter {
@@ -10122,10 +9709,6 @@ body {
 		margin-left: 0px;
 	}
 
-	.kiki-gallery.reallity .Reallity {
-		margin-top: -35px;
-	}
-
 	.calendarheader {
 		text-align: center;
 		margin-top: 30px;
@@ -10141,8 +9724,6 @@ body {
 	}
 
 }
-
-@media (max-width:600px) {}
 
 @media (max-width:600px) and (max-height:1024px) {
 .content .baguetteBoxOne.gallery.film {
@@ -10192,9 +9773,9 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-left: 385px;
-		margin-top: 200px;
-		margin-bottom: 350px;
+    margin-left: 385px;
+    margin-top: 300px;
+    margin-bottom: 350px;
 	}
 
 	.bg-text.calendar {
@@ -10256,6 +9837,11 @@ body {
     max-height: 374px;
     margin-right: auto;
 	}
+.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
+    padding-bottom: 10px;
+
+	}
+
 
 
 
