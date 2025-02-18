@@ -1214,11 +1214,11 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 370px;
+    margin-top: 350px;
 	}
 
 	.sectionRight.about {
-    margin-top: 100px;
+    margin-top: 90px;
     margin-right: 25px;
 	}
 
@@ -1443,7 +1443,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 65px;
+    margin-top: 54px;
     margin-right: 30px;
 	}
 
@@ -1497,7 +1497,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 700px;
+    max-height: 685px;
 	}
 
 	.asideLeft {
@@ -2252,6 +2252,7 @@ body {
 
 
 
+
 }
 
 @media (max-width:1366px) and (max-height:768px) {
@@ -2265,7 +2266,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 950px;
+    max-height: 1060px;
 	}
 
 	.bg-text.calendar {
@@ -2332,7 +2333,7 @@ body {
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
     margin-bottom: 0px;
     padding-bottom: 30px;
-    margin-top: 201px;
+    margin-top: 510px;
 }
 
 
@@ -2438,7 +2439,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 950px;
+    max-height: 1060px;
 	}
 
 	.bg-text.calendar {
@@ -2561,7 +2562,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 950px;
+    max-height: 1055px;
 	}
 
 	.bg-text.calendar {
@@ -2760,7 +2761,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 100px;
+    margin-top: 95px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2793,6 +2794,79 @@ body {
 
 }
 
+@media (max-width:1280px) and (max-height:853px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 130px;
+
+
+
+}
+	.kiki-gallery.camera.obscura {
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1150px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -93px;
+		width: 25%;
+		font-size: x-large;
+	}
+
+	.asideLeft {
+    margin-top: 300px;
+	}
+
+	.sectionRight {
+    margin-top: 150px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: 238px;
+    margin-left: 100px;
+	}
+
+	.sectionRight.about {
+    margin-top: 40px;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 60px;
+		width: 91%;
+	}
+
+	.post .asideLeft.twitter {
+    margin-top: 12px;
+    width: 22%;
+	}
+
+	.post .sectionRight.contact {
+    margin-top: 12px;
+    width: 22%;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: -34px;
+		margin-left: 15px;
+		width: 22%;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: 50px;
+		width: 37%;
+		margin-right: 15px;
+	}
+
+	.kiki-gallery.reallity {
+		height: 0px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -145px;
+	}
+
+}
+
 @media (max-width:1280px) and (max-height:800px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 130px;
@@ -2804,7 +2878,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 950px;
+    max-height: 1095px;
 	}
 
 	.bg-text.calendar {
@@ -2879,7 +2953,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 975px;
+    max-height: 1062px;
 	}
 
 	.bg-text.calendar {
@@ -2916,7 +2990,7 @@ body {
     margin-top: 20px;
     width: 29%;
     padding-top: 15px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2969,10 +3043,10 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 670px;
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1015px;
 	}
 
 	.bg-text.calendar {
@@ -3138,6 +3212,12 @@ body {
 	.glitcoo {
 		margin-top: 230px;
 	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+    margin-top: -140px;
+}
+
 
 
 }
@@ -3153,7 +3233,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 950px;
+    max-height: 1015px;
 	}
 
 	.bg-text.calendar {
@@ -3179,6 +3259,7 @@ body {
     margin-top: 15px;
     padding-top: 15px;
     width: 30%;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -3221,6 +3302,12 @@ body {
 	.glitcoo {
 		margin-top: 155px;
 	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+    margin-top: 0px;
+}
+
 
 
 }
@@ -3319,7 +3406,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 950px;
+    max-height: 1015px;
 	}
 
 	.asideLeft {
@@ -3328,15 +3415,6 @@ body {
 
 	.sectionRight {
 		margin-top: 95px;
-	}
-
-	.sectionRight.about {
-		margin-top: 15px;
-	}
-
-	.asideLeft.about.popravi {
-		margin-top: 205px;
-		margin-left: 15px;
 	}
 
 	.sectionRight.about .twitter {
@@ -3362,6 +3440,18 @@ body {
 	.glitcoo {
 		margin-top: 155px;
 	}
+.sectionRight.about {
+    margin-top: 15px;
+    padding-top: 15px;
+    width: 30%;
+    padding-bottom: 0px;
+	}
+.asideLeft.about.popravi {
+    margin-top: 205px;
+    margin-left: 15px;
+	}
+
+
 
 
 
@@ -3378,7 +3468,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 975px;
+    max-height: 1110px;
 	}
 
 	.asideLeft {
@@ -3391,7 +3481,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 70px;
+    margin-top: 75px;
     width: 30%;
 	}
 
@@ -3446,7 +3536,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 1000px;
+    max-height: 1155px;
 	}
 
 	.bg-text.calendar {
@@ -3547,6 +3637,113 @@ body {
 
 }
 
+@media (max-width:1138px) and (max-height:712px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 195px;
+
+
+
+}
+	.kiki-gallery.camera.obscura {
+    margin-top: 50px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1005px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -129px;
+		width: 29%;
+		font-size: x-large;
+		padding-top: 21px;
+	}
+
+	.asideLeft {
+    width: 24%;
+    margin-top: 230px;
+    margin-left: 80px;
+	}
+
+	.sectionRight {
+    width: 33%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 100px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    text-align: justify;
+	}
+
+	.sectionRight.about {
+    width: 30%;
+    margin-top: 15px;
+    margin-right: 15px;
+	}
+.sectionRight.about .twitter {
+    margin-top: -60px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: 230px;
+	}
+
+	.post .asideLeft.twitter {
+    width: 21%;
+    margin-top: -108px;
+	}
+
+	.post .sectionRight.contact {
+    width: 25%;
+    margin-top: -108px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 20px;
+		margin-left: 15px;
+		width: 20%;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: 70px;
+		width: 40%;
+		margin-right: 15px;
+	}
+
+	.twitter {
+		margin-top: 20px;
+		padding-bottom: 0px;
+		margin-bottom: 5px;
+		padding-top: 0px;
+	}
+
+	.kiki-gallery.reallity {
+		height: 29px;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 265px;
+    max-width: 565px;
+    max-height: 375px;
+    margin-bottom: 0px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: 0px;
+	}
+
+	.glitcoo {
+    margin-top: 175px;
+	}
+}
+
 @media (max-width:1114px) and (max-height:720px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 52px;
@@ -3572,22 +3769,22 @@ body {
 	}
 
 	.sectionRight {
-		width: 33%;
-		float: right;
-		margin-right: 15px;
-		margin-top: 87px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 100px;
-		text-align: justify;
+    width: 33%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 90px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 100px;
+    text-align: justify;
 	}
 
 	.sectionRight.about {
@@ -3643,6 +3840,12 @@ body {
 	.glitcoo {
 		margin-top: 115px;
 	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+    margin-top: 540px;
+}
+
 
 
 }
@@ -3658,7 +3861,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 980px;
+    max-height: 1125px;
 	}
 
 	.asideLeft.about h1 {
@@ -3757,6 +3960,67 @@ body {
 	}
 }
 
+@media (max-device-width:1024px) and (max-device-height:1366px){
+.container-fluid .navbar-header .navbar-brand {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 1.7em;
+    margin-bottom: 10px;
+	}
+.nav.navbar-nav .active a {
+    padding-bottom: 25px;
+
+}
+
+.asideLeft {
+    margin-top: 315px;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 650px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 180px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 500px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+}
+
+@media (max-device-width:1024px) and (max-device-height:1280px){.asideLeft {
+    margin-top: 315px;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 570px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 170px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 500px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+}
+
+
 @media (max-width:1024px) and (max-height:768px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 100px;
@@ -3768,7 +4032,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 1325px;
+    max-height: 1315px;
 	}
 
 	.bg-text.calendar {
@@ -3788,23 +4052,24 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 52px;
+    margin-top: 55px;
     width: 29%;
     margin-right: 10px;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 110px;
+    margin-top: -30px;
     margin-bottom: 1160px;
     margin-left: 650px;
 	}
 
 	.sectionRight.about {
-		margin-bottom: 0px;
-		margin-top: -600px;
-		width: 97%;
-		margin-right: 15px;
-		padding-top: 20px;
+    margin-bottom: 0px;
+    margin-top: -600px;
+    width: 97%;
+    margin-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -3812,16 +4077,15 @@ body {
 	}
 
 	.post .asideLeft.twitter {
-		margin-top: 600px;
-		margin-bottom: 112px;
-		padding-bottom: 0px;
-		padding-top: 0px;
-		width: 38%;
+    margin-top: -60px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    width: 21%;
 	}
 
 	.post .sectionRight.contact {
-		margin-top: 600px;
-		width: 38%;
+    margin-top: -60px;
+    width: 21%;
 	}
 
 	.asideLeft.thankyou {
@@ -3858,6 +4122,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
+    max-height: 1375px;
 	}
 
 	.bg-text.calendar {
@@ -3867,21 +4132,21 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 183px;
-		margin-left: 15px;
+    margin-top: 183px;
+    margin-left: 30px;
 	}
 
 	.sectionRight {
     width: 33%;
     margin-top: 32px;
     padding-top: 0px;
-    padding-bottom: 8px;
+    padding-bottom: 20px;
     margin-bottom: 0px;
     margin-right: 10px;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 55px;
+    margin-top: -110px;
     margin-bottom: 1120px;
     margin-left: 600px;
 	}
@@ -3989,32 +4254,33 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 70px;
-		margin-bottom: 580px;
-		margin-left: 620px;
+    margin-top: -90px;
+    margin-bottom: 580px;
+    margin-left: 620px;
 	}
 
 	.asideLeft {
-		margin-top: 185px;
+    margin-top: 185px;
+    width: 30%;
 	}
 
 	.sectionRight {
-		width: 35%;
-		float: right;
-		margin-right: 15px;
-		margin-top: 31.3px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 0%;
-		padding-bottom: 1%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 0px;
-		text-align: justify;
+    width: 35%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 40px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 0px;
+    text-align: justify;
 	}
 
 	.sectionRight.about .twitter {
@@ -4075,6 +4341,12 @@ body {
 	.glitcoo {
 		margin-top: 20px;
 	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 445px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
 
 
 }
@@ -4100,7 +4372,7 @@ body {
     width: 35%;
     float: right;
     margin-right: 15px;
-    margin-top: 30px;
+    margin-top: 35px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -4147,7 +4419,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 70px;
+    margin-top: -90px;
     margin-bottom: 450px;
 	}
 
@@ -4219,7 +4491,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 65px;
+    margin-bottom: 145px;
     text-align: justify;
 	}
 
@@ -4255,8 +4527,8 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 0px;
-		margin-bottom: 580px;
+    margin-top: -160px;
+    margin-bottom: 580px;
 	}
 
 	.post .asideLeft.twitter {
@@ -4317,22 +4589,22 @@ body {
 	}
 
 	.sectionRight {
-		width: 35%;
-		float: right;
-		margin-right: 15px;
-		margin-top: 30px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 0%;
-		padding-bottom: 1%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 120px;
-		text-align: justify;
+    width: 35%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 35px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 133px;
+    text-align: justify;
 	}
 
 	.sectionRight.about .twitter {
@@ -4367,8 +4639,8 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 0px;
-		margin-bottom: 580px;
+    margin-top: -160px;
+    margin-bottom: 580px;
 	}
 
 	.post .asideLeft.twitter {
@@ -4500,6 +4772,32 @@ body {
 	}
 }
 
+@media (max-device-width:960px) and (max-device-height:1280px){.asideLeft {
+    margin-top: 315px;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 615px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 170px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 450px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+}
+
+
+
 @media (max-width:960px) and (max-height:600px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
@@ -4519,22 +4817,22 @@ body {
 	}
 
 	.sectionRight {
-		width: 35%;
-		float: right;
-		margin-right: 15px;
-		margin-top: 30px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 0%;
-		padding-bottom: 1%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 0px;
-		text-align: justify;
+    width: 35%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 34px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 1%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 0px;
+    text-align: justify;
 	}
 
 	.sectionRight.about .twitter {
@@ -4569,8 +4867,8 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 70px;
-		margin-bottom: 580px;
+    margin-top: -100px;
+    margin-bottom: 580px;
 	}
 
 	.post .asideLeft.twitter {
@@ -4621,39 +4919,191 @@ body {
 
 }
 
-@media (max-width:896px) and (max-height:414px){
-.content .baguetteBoxOne.gallery.film {
+@media (max-device-width:950px) and (max-device-height:1280px){
+}
+
+@media (max-width:932px) and (max-height:430px){.content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
-
-
 
 }
 
 	.asideLeft {
-		margin-top: 95px;
-		margin-bottom: 0px;
-		font-size: x-small;
-		width: 22%;
-		margin-left: 8%;
+    margin-top: 115px;
+    margin-bottom: 0px;
+    font-size: small;
+    width: 30%;
+    margin-left: 3%;
 	}
 
 	.sectionRight {
+    width: 31%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 35px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 95px;
+    text-align: justify;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 500px;
+		margin-bottom: -258px;
+	}
+
+	.bg-text.calendar {
+		margin-top: 79px;
 		width: 31%;
-		float: right;
-		margin-right: 2%;
+		font-size: x-large;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 180px;
+    max-width: 531px;
+    max-height: 353px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: -170px;
+    margin-left: 605px;
+    font-size: xx-small;
+	}
+
+	.sectionRight.about {
+    margin-top: -190px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 90px;
+    font-size: small;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: -33px;
+		margin-bottom: 0px;
+		padding-bottom: 5px;
+	}
+
+	.post .asideLeft.twitter {
 		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 0%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 90px;
-		text-align: justify;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 375px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 227px;
+		margin-bottom: 5px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 215px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -708px;
+		width: 51%;
+		margin-right: 215px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -175px;
+	}
+
+	.glitcoo {
+		margin-top: -20px;
+	}
+}
+
+
+
+@media (max-device-width:920px) and (max-device-height:1200px){.asideLeft {
+    margin-top: 280px;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 560px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 140px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 450px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 175px;
+    max-width: 531px;
+    max-height: 353px;
+	}
+
+}
+
+@media (max-width:915px) and (max-height:412px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+}
+
+	.asideLeft {
+    margin-top: 95px;
+    margin-bottom: 0px;
+    font-size: small;
+    width: 30%;
+    margin-left: 3%;
+	}
+
+	.sectionRight {
+    width: 31%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 35px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 95px;
+    text-align: justify;
 	}
 
 	.sectionRight.about .twitter {
@@ -4675,22 +5125,306 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: -10px;
-		margin-left: 605px;
-		font-size: x-small;
+    margin-top: -140px;
+    margin-left: 605px;
+    font-size: x-small;
 	}
 
 	.sectionRight.about {
-		margin-top: -220px;
-		width: 97%;
-		margin-left: 0px;
-		margin-right: 13.3px;
-		padding-top: 20px;
+    margin-top: -220px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 80px;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: -33px;
+		margin-bottom: 0px;
+		padding-bottom: 5px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
 		padding-bottom: 0px;
-		border-top-left-radius: 25px;
-		border-bottom-left-radius: 25px;
-		border-bottom-right-radius: 25px;
-		margin-bottom: 81px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 375px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 227px;
+		margin-bottom: 5px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 215px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -708px;
+		width: 51%;
+		margin-right: 215px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -175px;
+	}
+
+	.glitcoo {
+		margin-top: -20px;
+	}
+}
+
+@media (max-width:914px) and (max-height:412px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+}
+
+	.asideLeft {
+		margin-top: 95px;
+		margin-bottom: 0px;
+		font-size: x-small;
+		width: 22%;
+		margin-left: 8%;
+	}
+
+	.sectionRight {
+    width: 31%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 35px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 95px;
+    text-align: justify;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 500px;
+		margin-bottom: -258px;
+	}
+
+	.bg-text.calendar {
+		margin-top: 79px;
+		width: 31%;
+		font-size: x-large;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 0px;
+		margin-left: 162px;
+		max-width: 531px;
+		max-height: 353px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: -140px;
+    margin-left: 605px;
+    font-size: x-small;
+	}
+
+	.sectionRight.about {
+    margin-top: -220px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 80px;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: -33px;
+		margin-bottom: 0px;
+		padding-bottom: 5px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 375px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 227px;
+		margin-bottom: 5px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 215px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -708px;
+		width: 51%;
+		margin-right: 215px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -175px;
+	}
+
+	.glitcoo {
+		margin-top: -20px;
+	}
+}
+
+
+
+
+
+@media (max-device-width:912px) and (max-device-height:1368px){.container-fluid .navbar-header .navbar-brand {
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-size: 1.7em;
+    margin-bottom: 10px;
+	}
+.nav.navbar-nav .active a {
+    padding-bottom: 25px;
+
+}
+
+.asideLeft {
+    margin-top: 315px;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 650px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 180px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 450px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 160px;
+    max-width: 531px;
+    max-height: 353px;
+	}
+
+}
+
+
+@media (max-width:896px) and (max-height:414px){
+.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+}
+
+	.asideLeft {
+    margin-top: 100px;
+    margin-bottom: 0px;
+    font-size: small;
+    width: 30%;
+    margin-left: 3%;
+	}
+
+	.sectionRight {
+    width: 31%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 35px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 100px;
+    text-align: justify;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 500px;
+		margin-bottom: -258px;
+	}
+
+	.bg-text.calendar {
+		margin-top: 79px;
+		width: 31%;
+		font-size: x-large;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 0px;
+		margin-left: 162px;
+		max-width: 531px;
+		max-height: 353px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: -180px;
+    margin-left: 605px;
+    font-size: xx-small;
+	}
+
+	.sectionRight.about {
+    margin-top: -220px;
+    width: 100%;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 81px;
 	}
 
 	.sectionRight.about .twitter {
@@ -4743,6 +5477,254 @@ body {
 
 }
 
+@media (max-width:892px) and (max-height:412px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+}
+
+	.asideLeft {
+		margin-top: 95px;
+		margin-bottom: 0px;
+		font-size: x-small;
+		width: 22%;
+		margin-left: 8%;
+	}
+
+	.sectionRight {
+    width: 31%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 40px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 100px;
+    text-align: justify;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 500px;
+		margin-bottom: -258px;
+	}
+
+	.bg-text.calendar {
+		margin-top: 79px;
+		width: 31%;
+		font-size: x-large;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 0px;
+		margin-left: 162px;
+		max-width: 531px;
+		max-height: 353px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: -190px;
+    margin-left: 605px;
+    font-size: x-small;
+	}
+
+	.sectionRight.about {
+    margin-top: -200px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 80px;
+	}
+
+	.sectionRight.about .twitter {
+    margin-top: -50px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 375px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 227px;
+		margin-bottom: 5px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 215px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -708px;
+		width: 51%;
+		margin-right: 215px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -175px;
+	}
+
+	.glitcoo {
+		margin-top: -20px;
+	}
+
+}
+
+@media (max-width:882px) and (max-height:334px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+}
+
+	.asideLeft {
+    margin-top: 85px;
+    margin-bottom: 0px;
+    font-size: x-small;
+    width: 22%;
+    margin-left: 8%;
+	}
+
+	.sectionRight {
+    width: 31%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 40px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 100px;
+    text-align: justify;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 500px;
+		margin-bottom: -258px;
+	}
+
+	.bg-text.calendar {
+		margin-top: 79px;
+		width: 31%;
+		font-size: x-large;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 0px;
+		margin-left: 162px;
+		max-width: 531px;
+		max-height: 353px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: -190px;
+    margin-left: 605px;
+    font-size: x-small;
+	}
+
+	.sectionRight.about {
+    margin-top: -200px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 90px;
+	}
+
+	.sectionRight.about .twitter {
+    margin-top: -50px;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 375px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 227px;
+		margin-bottom: 5px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 215px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -708px;
+		width: 51%;
+		margin-right: 215px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -175px;
+	}
+
+	.glitcoo {
+		margin-top: -20px;
+	}
+.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
+    margin-top: -60px;
+    margin-left: 10px;
+}
+
+
+}
+
+
 @media (max-width:854px) and (max-height:480px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
@@ -4774,48 +5756,48 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 130px;
-		margin-left: 8%;
-		font-size: x-small;
-		width: 23%;
+    margin-top: 130px;
+    margin-left: 3%;
+    font-size: small;
+    width: 30%;
 	}
 
 	.sectionRight {
-		width: 32%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 0%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 95px;
-		text-align: justify;
+    width: 32%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 40px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 0%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 105px;
+    text-align: justify;
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 15px;
-		margin-left: 550px;
-		font-size: x-small;
+    margin-top: -170px;
+    margin-left: 550px;
+    font-size: x-small;
 	}
 
 	.sectionRight.about {
-		margin-top: -128px;
-		width: 97%;
-		margin-left: 0px;
-		margin-right: 13.3px;
-		padding-top: 20px;
-		padding-bottom: 0px;
-		border-top-left-radius: 25px;
-		border-bottom-left-radius: 25px;
-		border-bottom-right-radius: 25px;
-		margin-bottom: 87px;
+    margin-top: -128px;
+    width: 100%;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    margin-bottom: 87px;
+    margin-right: 0px;
 	}
 
 	.sectionRight.about .twitter {
@@ -4862,12 +5844,45 @@ body {
 		margin-top: -10px;
 	}
 .container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
-    margin-top: -15px;
+    margin-top: -115px;
     margin-left: -30px;
 }
 
 
+
 }
+
+@media (max-device-width:853px) and (max-device-height:1280px){.asideLeft {
+    margin-top: 280px;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 620px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 160px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 450px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 150px;
+    max-width: 531px;
+    max-height: 353px;
+	}
+
+}
+
 
 @media (max-width:851px) and (max-height:393px){
 	.content .baguetteBoxOne.gallery.film {
@@ -4901,16 +5916,16 @@ body {
 
 	.asideLeft {
     margin-top: 100px;
-    margin-left: 8%;
-    font-size: x-small;
-    width: 23%;
+    margin-left: 3%;
+    font-size: small;
+    width: 30%;
 	}
 
 	.sectionRight {
     width: 34%;
     float: right;
     margin-right: 2%;
-    margin-top: 27px;
+    margin-top: 35px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -4921,12 +5936,12 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 90px;
+    margin-bottom: 100px;
     text-align: justify;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: -75px;
+    margin-top: -174px;
     margin-left: 550px;
     font-size: x-small;
 	}
@@ -4937,11 +5952,11 @@ body {
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 20px;
-    padding-bottom: 0px;
+    padding-bottom: 20px;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    margin-bottom: 85px;
+    margin-bottom: 90px;
 	}
 
 	.sectionRight.about .twitter {
@@ -5420,6 +6435,39 @@ body {
 
 }
 
+@media (max-device-width:820px) and (max-device-height:1180px){.asideLeft {
+    margin-top: 250px;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 570px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 130px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 450px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 125px;
+    max-width: 531px;
+    max-height: 353px;
+	}
+
+}
+
+
+
 @media (max-width:812px) and (max-height:375px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
@@ -5562,7 +6610,7 @@ body {
 
 	.sectionRight {
     width: 100%;
-    margin-top: 615px;
+    margin-top: 640px;
     margin-right: 0px;
 	}
 
@@ -5601,10 +6649,10 @@ body {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: 0px;
-		margin-left: 122px;
-		max-width: 531px;
-		max-height: 353px;
+    margin-top: 0px;
+    margin-left: 120px;
+    max-width: 531px;
+    max-height: 353px;
 	}
 
 	.asideLeft.thankyou {
@@ -5916,6 +6964,40 @@ body {
 
 
 }
+
+@media (max-device-width:768px) and (max-device-height:1024px){.asideLeft {
+    margin-top: 220px;
+    width: 30%;
+}
+.sectionRight {
+    width: 100%;
+    margin-right: 0px;
+    margin-top: 419px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 70px;
+    font-size: xx-large;
+    margin-left: 170px;
+}
+.sectionRight.about {
+    width: 100%;
+    margin-top: 0px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 110px;
+    max-width: 531px;
+    max-height: 353px;
+	}
+
+}
+
+
 
 
 
@@ -7575,6 +8657,39 @@ body {
 
 }
 
+@media (max-device-width:712px) and (max-device-height:1138px){
+.asideLeft {
+}
+.sectionRight {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 460px;
+}
+.asideLeft.about.popravi h1 {
+    margin-top: 120px;
+    font-size: x-large;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 450px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+.post .contactheader {
+    text-align: center;
+    margin-top: -110px;
+    padding-top: 0px;
+    margin-bottom: 180px;
+	}
+
+
+
+
+
+
+
+}
+
 @media (max-width:712px) and (max-height:277px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
@@ -9211,7 +10326,7 @@ body {
 
 }
 
-@media (max-width:604px) and (max-height:966px){
+@media (max-device-width:604px) and (max-device-height:966px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
@@ -9331,7 +10446,7 @@ body {
     margin-left: 0px;
     margin-right: 0px;
     max-width: 100%;
-    padding-bottom: 10px;
+    padding-bottom: 400px;
 	}
 .asideLeft.about.popravi h1 {
     margin-top: 200px;
@@ -9483,6 +10598,258 @@ body {
 
 }
 
+@media (max-device-width:601px) and (max-device-height:962px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+
+}
+	.bg-text.calendar {
+		margin-top: -186px;
+		width: 42%;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 85px;
+    max-width: 383px;
+    max-height: 254px;
+	}
+.asideLeft {
+}
+.sectionRight {
+    margin-left: 0px;
+    width: 100%;
+}
+
+
+
+	.sectionRight.about {
+    margin-top: -100px;
+    margin-bottom: 300px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 360px;
+	}
+
+	.sectionRight.about .twitter {
+		width: 100%;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 33px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-top: 3px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 135px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+		padding-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -685px;
+		width: 100%;
+		margin-right: 0px;
+		padding-top: 3px;
+		padding-bottom: 85px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -200px;
+	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 435px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+
+.indexheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.filmheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.btsheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.worldheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.calendarheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 70px;
+		margin-bottom: 0px;
+	}
+
+	.comingsoonh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 50px;
+		padding-top: 30px;
+	}
+
+	.fiapheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.glichheader {
+    text-align: center;
+    margin-top: 30px;
+	}
+
+	.glichheader a img {
+		margin-top: 40px;
+	}
+
+	.post .contactheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.thankyouheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.filmh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.btsh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.worldh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+		margin-left: -8px;
+	}
+
+	.fiaph1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.glitchh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-left: 30px;
+}
+
+}
+
+
 @media (max-width:601px) and (max-height:793px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
@@ -9610,7 +10977,7 @@ body {
 
 }
 
-@media (max-width:600px) and (max-height:1024px) {
+@media (max-device-width:600px) and (max-device-height:1024px) {
 .container-fluid .navbar-header .navbar-brand {
     font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
     font-size: 1.7em;
@@ -9655,15 +11022,6 @@ body {
     max-width: 100%;
     padding-bottom: 10px;
 	}
-.asideLeft.about.popravi {
-
-}
-
-.asideLeft.about.popravi h1 {
-    margin-left: 15px;
-    padding-bottom: 16px;
-
-}
 
 	.sectionRight.about .twitter {
 		margin-top: -100px;
@@ -9733,6 +11091,13 @@ body {
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.asideLeft.about.popravi h1 {
+    font-size: x-large;
+    margin-left: 20px;
+    padding-top: 109px;
+    padding-bottom: 0px;
+}
+
 
 
 
@@ -10791,7 +12156,7 @@ body {
 
 }
 
-@media (max-width:480px) and (max-height:854px) {
+@media (max-device-width:480px) and (max-device-height:854px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
@@ -10865,9 +12230,6 @@ body {
     padding-top: 30px;
     margin-left: -8px;
 	}
-.asideLeft.about.popravi h1 {
-    margin-top: 75px;
-}
 .sectionRight.about {
     margin-top: 0px;
     width: 100%;
@@ -10875,7 +12237,7 @@ body {
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
-    padding-bottom: 230px;
+    padding-bottom: 290px;
 	}
 .glichheader {
     margin-top: 30px;
@@ -10892,6 +12254,12 @@ body {
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.asideLeft.about.popravi h1 {
+    margin-top: -40px;
+    font-size: x-large;
+    margin-left: 20px;
+}
+
 
 
 
@@ -11554,12 +12922,260 @@ body {
     padding-bottom: 30px;
 }
 
+}
 
+@media (max-device-width:445px) and (max-device-height:962px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
 
 
 
 
 }
+	.bg-text.calendar {
+		margin-top: -186px;
+		width: 42%;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 15px;
+    max-width: 383px;
+    max-height: 254px;
+	}
+.asideLeft {
+}
+.sectionRight {
+    margin-left: 0px;
+    width: 100%;
+}
+
+
+
+	.sectionRight.about {
+    margin-top: -100px;
+    margin-bottom: 290px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 300px;
+	}
+
+	.sectionRight.about .twitter {
+		width: 100%;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 33px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-top: 3px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 135px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+		padding-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -685px;
+		width: 100%;
+		margin-right: 0px;
+		padding-top: 3px;
+		padding-bottom: 85px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -200px;
+	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 435px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+
+.indexheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.filmheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.btsheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.worldheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.calendarheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 70px;
+		margin-bottom: 0px;
+	}
+
+	.comingsoonh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 50px;
+		padding-top: 30px;
+	}
+
+	.fiapheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.glichheader {
+    text-align: center;
+    margin-top: 30px;
+	}
+
+	.glichheader a img {
+		margin-top: 40px;
+	}
+
+	.post .contactheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.thankyouheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.filmh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.btsh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.worldh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+		margin-left: -8px;
+	}
+
+	.fiaph1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.glitchh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-left: -20px;
+    margin-top: -20px;
+}
+
+}
+
 
 @media (max-width:432px) {
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -11735,6 +13351,260 @@ body {
 
 }
 
+@media (max-device-width:433px) and (max-device-height:962px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+
+}
+	.bg-text.calendar {
+		margin-top: -186px;
+		width: 42%;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 8px;
+    max-width: 383px;
+    max-height: 254px;
+	}
+.asideLeft {
+}
+.sectionRight {
+    margin-left: 0px;
+    width: 100%;
+}
+
+
+
+	.sectionRight.about {
+    margin-top: -100px;
+    margin-bottom: 215px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 300px;
+	}
+
+	.sectionRight.about .twitter {
+		width: 100%;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 33px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-top: 3px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 135px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+		padding-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -685px;
+		width: 100%;
+		margin-right: 0px;
+		padding-top: 3px;
+		padding-bottom: 85px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -200px;
+	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 435px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+
+.indexheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.filmheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.btsheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.worldheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.calendarheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 70px;
+		margin-bottom: 0px;
+	}
+
+	.comingsoonh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 50px;
+		padding-top: 30px;
+	}
+
+	.fiapheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.glichheader {
+    text-align: center;
+    margin-top: 30px;
+	}
+
+	.glichheader a img {
+		margin-top: 40px;
+	}
+
+	.post .contactheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.thankyouheader {
+		text-align: center;
+		margin-top: 70px;
+	}
+
+	.filmh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.btsh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.worldh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+		margin-left: -8px;
+	}
+
+	.fiaph1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.glitchh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 2em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-left: -20px;
+    margin-top: -30px;
+}
+
+}
+
+
+
 @media (max-width:432px) and (max-height:768px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
@@ -11806,10 +13676,107 @@ body {
 
 }
 
+@media (max-device-width:430px) and (max-device-height:932px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
 
 
 
-@media (max-width:414px) and (max-height:896px) {
+
+}
+	.bg-text.calendar {
+		margin-top: -186px;
+		width: 42%;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 8px;
+    max-width: 383px;
+    max-height: 254px;
+	}
+.asideLeft {
+}
+.sectionRight {
+    margin-left: 0px;
+}
+
+
+
+	.sectionRight.about {
+    margin-top: -100px;
+    margin-bottom: 215px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 300px;
+	}
+
+	.sectionRight.about .twitter {
+		width: 100%;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 33px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-top: 3px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 135px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+		padding-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -685px;
+		width: 100%;
+		margin-right: 0px;
+		padding-top: 3px;
+		padding-bottom: 85px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -200px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-left: -20px;
+    margin-top: -30px;
+}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 435px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+
+
+}
+
+
+
+@media (max-device-width:414px) and (max-device-height:896px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
@@ -11895,11 +13862,11 @@ body {
 		margin-top: -200px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: 80px;
+    margin-top: -40px;
     margin-left: -20px;
 }
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
-    margin-top: 435px;
+    margin-top: 440px;
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
@@ -11998,36 +13965,39 @@ body {
 
 }
 
-@media (max-height:412px) and (max-width:915px){.content .baguetteBoxOne.gallery.film {
+@media (max-device-width:412px) and (max-device-height:915px){content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
 
 
 
 }
-	.bg-text.calendar {
-		margin-top: -186px;
-		width: 42%;
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1550px;
 	}
-.asideLeft {
-}
-.sectionRight {
-    margin-left: 0px;
-}
-
-
 
 	.sectionRight.about {
-    margin-top: -100px;
+    margin-top: 0px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 362px;
-    margin-bottom: -1px;
+    padding-bottom: 280px;
+	}
+
+	.asideLeft.about {
+		margin-left: 27px;
+		margin-top: 160px;
+		text-align: center;
+		padding-right: 0px;
+		padding-left: 321px;
+		font-size: medium;
 	}
 
 	.sectionRight.about .twitter {
-		width: 100%;
+		margin-top: 30px;
 	}
 
 	.post .asideLeft.twitter {
@@ -12049,22 +14019,112 @@ body {
 		padding-top: 3px;
 	}
 
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
 	.asideLeft.thankyou {
 		margin-top: 135px;
 		margin-left: 0px;
 		width: 100%;
-		margin-bottom: 25px;
+		margin-bottom: 50px;
 		padding-bottom: 25px;
 	}
 
 	.sectionRight.thankyou {
-		margin-top: -685px;
-		width: 100%;
+		margin-top: -700px;
+		width: 105%;
 		margin-right: 0px;
 		padding-top: 3px;
 		padding-bottom: 85px;
 		margin-bottom: 0px;
+		margin-left: -8px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -161px;
+	}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 0px;
+    max-width: 383px;
+    max-height: 254px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-top: -35px;
+    font-size: x-large;
+    margin-left: -25px;
+}
+
+
+
+}
+
+
+@media (max-device-width:412px) and (max-device-height:914px){content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+
+}
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1550px;
+	}
+
+	.sectionRight.about {
+    margin-top: 0px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 200px;
+	}
+
+	.asideLeft.about {
+		margin-left: 27px;
+		margin-top: 160px;
+		text-align: center;
+		padding-right: 0px;
+		padding-left: 321px;
+		font-size: medium;
+	}
+
+	.asideLeft.about.popravi {
+		margin-left: 20px;
+		margin-top: 150px;
+		margin-bottom: 780px;
+	}
+
+	.asideLeft.about h1 {
+		font-size: large;
+		margin-top: -30px;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 30px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
 		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 33px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-top: 3px;
 	}
 
 	.sectionRight.contact #form1 #comments {
@@ -12072,20 +14132,132 @@ body {
 		margin-bottom: 4px;
 	}
 
-	.kiki-gallery.reallity .Reallity {
-		margin-top: -200px;
+	.asideLeft.thankyou {
+		margin-top: 135px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 50px;
+		padding-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -700px;
+		width: 105%;
+		margin-right: 0px;
+		padding-top: 3px;
+		padding-bottom: 85px;
+		margin-bottom: 0px;
+		margin-left: -8px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -161px;
+	}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 0px;
+    max-width: 383px;
+    max-height: 254px;
+	}
+
+
+}
+
+
+@media (max-device-width:412px) and (max-device-height:892px){content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+
+}
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1550px;
+	}
+
+	.sectionRight.about {
+    margin-top: 0px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 200px;
+	}
+
+	.sectionRight.about .twitter {
+		margin-top: 30px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 33px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-top: 3px;
+	}
+
+	.sectionRight.contact #form1 #comments {
+		height: 225px;
+		margin-bottom: 4px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 135px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 50px;
+		padding-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -700px;
+		width: 105%;
+		margin-right: 0px;
+		padding-top: 3px;
+		padding-bottom: 85px;
+		margin-bottom: 0px;
+		margin-left: -8px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -161px;
+	}
+.kiki-gallery.reallity .lightbox .Reallity {
+    margin-top: 0px;
+    margin-left: 0px;
+    max-width: 383px;
+    max-height: 254px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: 80px;
+    margin-top: 160px;
     margin-left: -20px;
 }
-.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
-    margin-top: 331px;
-    margin-bottom: 0px;
-}
-}
+.sectionRight.about {
+    margin-top: -100px;
+    margin-bottom: 215px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-bottom: 300px;
+	}
 
 
+
+
+}
 
 @media (max-width:412px) and (max-height:846px) {
 .content .baguetteBoxOne.gallery.film {
@@ -12773,7 +14945,7 @@ body {
 	}
 }
 
-@media (max-width:393px) and (max-height:851px){
+@media (max-device-width:393px) and (max-device-height:851px){
 	.container-fluid .navbar-header .navbar-brand {
     margin-top: 0px;
 	}
@@ -12792,30 +14964,9 @@ body {
 
 	.sectionRight.about {
     margin-top: 0px;
-    margin-bottom: 190px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-	}
-
-	.asideLeft.about {
-		margin-left: 27px;
-		margin-top: 160px;
-		text-align: center;
-		padding-right: 0px;
-		padding-left: 321px;
-		font-size: medium;
-	}
-
-	.asideLeft.about.popravi {
-    margin-left: 20px;
-    margin-top: 140px;
-    margin-bottom: 740px;
-	}
-
-	.asideLeft.about h1 {
-		font-size: large;
-		margin-top: -30px;
 	}
 
 	.sectionRight.about .twitter {
@@ -13007,6 +15158,12 @@ body {
 		margin-top: 0px;
 		padding-top: 30px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -40px;
+    font-size: x-large;
+    margin-left: -50px;
+}
+
 
 }
 
@@ -13041,17 +15198,6 @@ body {
 		padding-right: 0px;
 		padding-left: 321px;
 		font-size: medium;
-	}
-
-	.asideLeft.about.popravi {
-		margin-left: 20px;
-		margin-top: 125px;
-		margin-bottom: 740px;
-	}
-
-	.asideLeft.about h1 {
-		font-size: large;
-		margin-top: -30px;
 	}
 
 	.sectionRight.about .twitter {
@@ -14731,6 +16877,381 @@ body {
 	}
 
 }
+
+@media (max-device-width:334px) and (max-device-height:882px){.container-fluid .navbar-header .navbar-brand {
+		margin-top: -15px;
+		margin-bottom: 15px;
+	}
+
+	.container-fluid .navbar-header .navbar-brand.obscura {
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding-top: 0px;
+		padding-bottom: 0px;
+		font-size: x-large;
+		vertical-align: baseline;
+	}
+.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+
+}
+
+	.sectionRight.about {
+    margin-top: 580px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: small;
+    padding-bottom: 130px;
+    margin-bottom: 150px;
+	}
+
+	.sectionRight.about p {
+		font-size: small;
+	}
+
+	.sectionRight.about .twitter {
+    margin-top: -30px;
+	}
+
+	.asideLeft.about {
+		margin-left: 27px;
+		margin-top: 160px;
+		text-align: center;
+		padding-right: 0px;
+		padding-left: 321px;
+		font-size: medium;
+	}
+
+	.asideLeft.about.popravi {
+    margin-left: -120px;
+    margin-top: 95px;
+    margin-bottom: 0px;
+	}
+
+	.asideLeft.about h1 {
+		font-size: medium;
+		margin-top: -30px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 40px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-right: 0px;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 50px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+		margin-left: 0px;
+		padding-top: 3px;
+	}
+
+	.bg-text.calendar {
+		margin-top: -80px;
+		padding-left: 0px;
+		width: 100%;
+	}
+
+	.asideLeft {
+		width: 72%;
+		text-align: center;
+		margin-top: 0px;
+		margin-left: 13.3%;
+		font-size: x-small;
+		margin-right: 13.3%;
+	}
+
+	.sectionRight {
+    margin-bottom: 88px;
+    margin-top: 70px;
+    width: 100%;
+    margin-left: 0px;
+	}
+
+	.indexheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.filmheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.btsheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.worldheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.calendarheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: 74px;
+	}
+
+	.comingsoonh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 50px;
+		padding-top: 30px;
+	}
+
+	.fiapheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: -15px;
+	}
+
+	.glichheader {
+    text-align: center;
+    margin-top: 50px;
+    max-width: 80px;
+    max-height: 80px;
+    margin-left: 100px;
+	}
+
+	.cameraobscuraheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-right: 0px;
+		width: 80%;
+		height: 80%;
+		margin-left: 30px;
+	}
+
+	.glichheader a img {
+    margin-top: 20px;
+	}
+
+	.post .contactheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.thankyouheader {
+		text-align: center;
+		margin-top: 50px;
+	}
+
+	.filmh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.btsh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.worldh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: -8px;
+		padding-top: 30px;
+		margin-left: 17%;
+		width: 65%;
+		margin-right: 17%;
+	}
+
+	.fiaph1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.cameraobscurah1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.8em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.glitchh1 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: 20px;
+    padding-top: 30px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -725px;
+		padding-top: 1px;
+		padding-bottom: 100px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 170px;
+	}
+
+	.flip .front .prvafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .prvaback {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .front .drugafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .drugaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .trecafront {
+		max-width: 230px;
+		max-height: 165px;
+		margin-left: -38px;
+	}
+
+	.flip .back .trecaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .cetvrtafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .cetvrtaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .front .petafront {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip .back .petaback {
+		margin-left: -38px;
+		max-width: 230px;
+		max-height: 165px;
+	}
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		color: white;
+		background-size: cover !important;
+		background-position: center !important;
+		width: 250px;
+		height: 182px;
+		padding: 0.6em 3.4em;
+		background: #313131;
+		border-radius: 10px;
+	}
+
+	.kiki-gallery.camera.obscura {
+		margin-top: 70px;
+		margin-right: auto;
+		text-align: center;
+		max-height: 1195px;
+		margin-left: 15px;
+		padding-top: 0px;
+	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 500px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
 
 @media (max-width:320px) and (max-height:658px){
 	.content .baguetteBoxOne.gallery.film {
