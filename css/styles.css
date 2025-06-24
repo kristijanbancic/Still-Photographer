@@ -260,10 +260,10 @@ display: none; /* this code will hide whole pages */
 	}
 
 	.sectionRight.about {
-		margin-top: 255px;
-		padding-bottom: 150px;
-		margin-right: 75px;
-		width: 27%;
+    margin-top: 120px;
+    padding-bottom: 150px;
+    margin-right: 75px;
+    width: 27%;
 	}
 
 	.asideLeft {
@@ -272,11 +272,11 @@ display: none; /* this code will hide whole pages */
 	}
 
 	.sectionRight {
-		margin-top: 455px;
-		margin-left: 0px;
-		width: 27%;
-		margin-right: 75px;
-		text-align: justify;
+    margin-top: 390px;
+    margin-left: 0px;
+    width: 27%;
+    margin-right: 75px;
+    text-align: justify;
 	}
 
 	.kiki-gallery {
@@ -920,21 +920,22 @@ body {
 	}
 
 	.asideLeft.about {
-		margin-top: 390px;
+    margin-top: 425px;
 	}
 
 	.sectionRight.about {
-    margin-top: 150px;
-    padding-bottom: 150px;
+    margin-top: 25px;
+    width: 30%;
+    margin-right: 25px;
 	}
 
 	.asideLeft {
-    margin-top: 420px;
+    margin-top: 435px;
     margin-left: 15px;
 	}
 
 	.sectionRight {
-    margin-top: 330px;
+    margin-top: 235px;
     margin-left: 0px;
     width: 30%;
     margin-right: 38px;
@@ -951,9 +952,8 @@ body {
 	}
 
 	.twitter {
-		margin-top: 265px;
-		padding-bottom: 0px;
-		margin-bottom: -138px;
+    margin-top: 305px;
+    padding-bottom: 0px;
 	}
 
 	.asideLeft.thankyou {
@@ -1017,21 +1017,21 @@ body {
 	}
 
 	.asideLeft.about {
-		margin-top: 385px;
+    margin-top: 410px;
 	}
-
-	.sectionRight.about {
-    margin-top: 100px;
-    padding-bottom: 150px;
+.sectionRight.about {
+    margin-top: 25px;
+    width: 30%;
+    margin-right: 25px;
 	}
 
 	.asideLeft {
-		margin-top: 410px;
-		margin-left: 15px;
+    margin-top: 420px;
+    margin-left: 15px;
 	}
 
 	.sectionRight {
-    margin-top: 305px;
+    margin-top: 165px;
     margin-left: 0px;
     width: 30%;
     margin-right: 38px;
@@ -1044,6 +1044,10 @@ body {
 		margin-right: 15px;
 		height: 3000px;
 	}
+.twitter {
+    margin-top: 170px;
+    padding-bottom: 0px;
+	}
 
 	.imbd {
 		color: #02ACD3;
@@ -1051,12 +1055,6 @@ body {
 
 	.imbd:hover {
 		color: #F5C518;
-	}
-
-	.twitter {
-		margin-top: 265px;
-		padding-bottom: 0px;
-		margin-bottom: -138px;
 	}
 
 	.post .sectionRight.contact {
@@ -1090,6 +1088,8 @@ body {
 
 
 
+
+
 }
 
 @media (max-width:1920px) and (max-height:945px){.container-fluid .navbar-header .navbar-brand {
@@ -1107,11 +1107,11 @@ body {
 	}
 
 	.asideLeft.about {
-    margin-top: 250px;
+    margin-top: 340px;
 	}
 
 	.sectionRight.about {
-    margin-top: 40px;
+    margin-top: 25px;
 	}
 
 	.asideLeft {
@@ -1120,7 +1120,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 250px;
+    margin-top: 105px;
     margin-left: 0px;
     width: 30%;
     margin-right: 38px;
@@ -1143,9 +1143,8 @@ body {
 	}
 
 	.twitter {
-		margin-top: 265px;
-		padding-bottom: 0px;
-		margin-bottom: -138px;
+    margin-top: 50px;
+    padding-bottom: 0px;
 	}
 
 	.post .sectionRight.contact {
@@ -1202,23 +1201,23 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 280px;
-		margin-left: 0px;
-		width: 30%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 135px;
+    margin-left: 0px;
+    width: 30%;
+    margin-right: 38px;
+    text-align: justify;
 	}
 
 	.asideLeft.about {
-		margin-top: 430px;
+    margin-top: 450px;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 350px;
+    margin-top: 380px;
 	}
 
 	.sectionRight.about {
-    margin-top: 90px;
+    margin-top: 25px;
     margin-right: 25px;
 	}
 
@@ -1228,9 +1227,8 @@ body {
 	}
 
 	.twitter {
-		margin-top: 190px;
-		padding-bottom: 0px;
-		margin-bottom: -106px;
+    margin-top: 80px;
+    padding-bottom: 0px;
 	}
 
 	.bg-text.calendar {
@@ -1355,24 +1353,24 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 350px;
-		margin-left: 0px;
-		width: 30%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 205px;
+    margin-left: 0px;
+    width: 30%;
+    margin-right: 38px;
+    text-align: justify;
 	}
 
 	.asideLeft.about {
-		margin-top: 390px;
+    margin-top: 430px;
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 410px;
+    margin-top: 445px;
 	}
 
 	.sectionRight.about {
-    margin-top: 120px;
-    margin-right: 30px;
+    margin-top: 65px;
+    margin-right: 15px;
     margin-bottom: 0px;
 	}
 
@@ -1402,6 +1400,11 @@ body {
 	.glitcoo {
     margin-top: 415px;
 	}
+.twitter {
+    margin-top: 100px;
+    padding-bottom: 0px;
+	}
+
 
 
 
@@ -1427,11 +1430,11 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 280px;
-		margin-left: 0px;
-		width: 30%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 115px;
+    margin-left: 0px;
+    width: 30%;
+    margin-right: 38px;
+    text-align: justify;
 	}
 
 	.asideLeft.about {
@@ -1443,7 +1446,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 54px;
+    margin-top: 30px;
     margin-right: 30px;
 	}
 
@@ -1482,6 +1485,11 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: 0px;
 	}
+.twitter {
+    margin-top: 10px;
+    padding-bottom: 0px;
+	}
+
 
 
 }
@@ -1507,11 +1515,11 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 205px;
-		margin-left: 0px;
-		width: 30%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 50px;
+    margin-left: 0px;
+    width: 30%;
+    margin-right: 38px;
+    text-align: justify;
 	}
 
 	.asideLeft.about {
@@ -1519,14 +1527,15 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 300px;
+    margin-top: 315px;
 	}
 
 	.sectionRight.about {
     margin-top: 20px;
-    margin-right: 30px;
-    padding-bottom: 105px;
+    margin-right: 20px;
+    padding-bottom: 140px;
     margin-bottom: 0px;
+    width: 33%;
 	}
 
 	.bg-text.calendar {
@@ -1536,12 +1545,12 @@ body {
 
 	.post .asideLeft.twitter {
     width: 25%;
-    margin-top: -20px;
+    margin-top: 50px;
 	}
 
 	.post .sectionRight.contact {
     width: 25%;
-    margin-top: -20px;
+    margin-top: 50px;
 	}
 
 	.asideLeft.thankyou {
@@ -1564,6 +1573,11 @@ body {
 	.kiki-gallery.reallity .Reallity {
     margin-top: 90px;
 	}
+.twitter {
+    margin-top: -35px;
+    padding-bottom: 0px;
+	}
+
 
 
 }
@@ -1589,11 +1603,12 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 150px;
+    margin-top: 35px;
     margin-left: 0px;
-    width: 30%;
-    margin-right: 38px;
+    width: 33%;
+    margin-right: 30px;
     text-align: justify;
+    padding-bottom: 5px;
 	}
 
 	.asideLeft.about {
@@ -1601,7 +1616,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 260px;
+    margin-top: 270px;
 	}
 .sectionRight.about .twitter {
     margin-top: 65px;
@@ -1609,8 +1624,11 @@ body {
 
 
 	.sectionRight.about {
-    margin-top: 25px;
-    margin-right: 30px;
+    margin-top: 15px;
+    margin-right: 15px;
+    width: 35%;
+    padding-bottom: 240px;
+    padding-top: 10px;
 	}
 
 	.bg-text.calendar {
@@ -1648,6 +1666,16 @@ body {
 	.kiki-gallery.reallity .Reallity {
     margin-top: 90px;
 	}
+.twitter {
+    padding-bottom: 0px;
+    margin-bottom: -235px;
+	}
+.sectionRight.about .twitter {
+    margin-top: -55px;
+}
+
+
+
 
 
 }
@@ -1671,19 +1699,22 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 120px;
+    margin-top: 30px;
     margin-left: 0px;
-    width: 30%;
-    margin-right: 38px;
+    width: 35%;
+    margin-right: 20px;
     text-align: justify;
+    padding-bottom: 10px;
+    padding-top: 5px;
 	}
 
 	.asideLeft.about {
     margin-top: 290px;
+    width: 30%;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 220px;
+    margin-top: 245px;
 	}
 .sectionRight.about .twitter {
     margin-top: 10px;
@@ -1692,7 +1723,10 @@ body {
 
 	.sectionRight.about {
     margin-top: 20px;
-    margin-right: 30px;
+    margin-right: 20px;
+    width: 35%;
+    padding-top: 5px;
+    margin-bottom: 100px;
 	}
 
 	.bg-text.calendar {
@@ -1730,6 +1764,14 @@ body {
 	.kiki-gallery.reallity .Reallity {
     margin-top: 90px;
 	}
+.twitter {
+    padding-bottom: 0px;
+	}
+.sectionRight.about .twitter {
+    margin-top: -55px;
+}
+
+
 
 
 }
@@ -1749,17 +1791,20 @@ body {
 	}
 
 	.asideLeft {
-    margin-top: 280px;
+    margin-top: 270px;
     margin-left: 15px;
     width: 33%;
 	}
 
 	.sectionRight {
-    margin-top: 120px;
+    margin-top: 20px;
     margin-left: 0px;
-    width: 30%;
-    margin-right: 38px;
+    width: 34%;
+    margin-right: 10px;
     text-align: justify;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: -20px;
 	}
 
 	.asideLeft.about {
@@ -1767,7 +1812,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 200px;
+    margin-top: 260px;
 	}
 .sectionRight.about .twitter {
     margin-top: 30px;
@@ -1775,8 +1820,11 @@ body {
 
 
 	.sectionRight.about {
-    margin-top: 20px;
-    margin-right: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 35%;
+    padding-bottom: 245px;
+    margin-bottom: 89px;
 	}
 
 	.bg-text.calendar {
@@ -1821,6 +1869,10 @@ body {
     max-width: 800px;
     max-height: 531px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -55px;
+}
+
 
 
 }
@@ -1845,11 +1897,12 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 100px;
+    margin-top: 20px;
     margin-left: 0px;
-    width: 30%;
-    margin-right: 38px;
+    width: 36%;
+    margin-right: 10px;
     text-align: justify;
+    padding-bottom: 15px;
 	}
 
 	.asideLeft.about {
@@ -1857,7 +1910,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 200px;
+    margin-top: 240px;
 	}
 .sectionRight.about .twitter {
     margin-top: -15px;
@@ -1865,8 +1918,10 @@ body {
 
 
 	.sectionRight.about {
-    margin-top: 20px;
-    margin-right: 30px;
+    margin-top: 10px;
+    margin-right: 10px;
+    width: 36%;
+    padding-bottom: 235px;
 	}
 
 	.bg-text.calendar {
@@ -1910,6 +1965,10 @@ body {
     max-width: 800px;
     max-height: 531px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -55px;
+}
+
 
 
 }
@@ -1937,11 +1996,11 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 200px;
-		margin-left: 0px;
-		width: 32%;
-		margin-right: 38px;
-		text-align: justify;
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 32%;
+    margin-right: 20px;
+    text-align: justify;
 	}
 
 	.asideLeft.about {
@@ -1949,17 +2008,20 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 300px;
+    margin-top: 310px;
 	}
 
 	.sectionRight.about {
-    margin-top: 35px;
+    margin-top: 20px;
     padding-top: 0px;
-    padding-bottom: 115px;
+    padding-bottom: 105px;
+    width: 34%;
+    margin-right: 20px;
 	}
 
 	.sectionRight.about .twitter {
-		width: 85%;
+    width: 85%;
+    margin-top: -50px;
 	}
 
 	.twitter {
@@ -2015,6 +2077,10 @@ body {
 	.glitcoo {
 		margin-top: 295px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -16px;
+}
+
 
 
 }
@@ -2029,19 +2095,19 @@ body {
 	.sectionRight {
     width: 30%;
     float: right;
-    margin-right: 30px;
-    margin-top: 200px;
+    margin-right: 10px;
+    margin-top: 20px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
-    padding-top: 2.5%;
-    padding-bottom: 2.5%;
+    padding-top: 1.5%;
+    padding-bottom: 2%;
     background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     text-align: justify;
 	}
 
@@ -2054,10 +2120,11 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 110px;
-    width: 29%;
+    margin-top: 10px;
+    width: 37%;
     padding-top: 30px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
+    margin-right: 10px;
 	}
 
 	.twitter {
@@ -2068,11 +2135,11 @@ body {
 	}
 
 	.post .asideLeft.twitter {
-		margin-top: -60px;
+    margin-top: 62px;
 	}
 
 	.post .sectionRight.contact {
-		margin-top: -60px;
+    margin-top: 62px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -2088,7 +2155,7 @@ body {
     max-height: 955px;
 	}
 .asideLeft.about.popravi {
-    margin-top: 300px;
+    margin-top: 310px;
     margin-left: 100px;
 	}
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
@@ -2096,6 +2163,10 @@ body {
     padding-bottom: 30px;
     margin-top: -80px;
 }
+.sectionRight.about .twitter {
+    margin-top: -5px;
+}
+
 
 
 
@@ -2188,9 +2259,10 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 250px;
-		width: 29%;
-		margin-right: 25px;
+    margin-top: 25px;
+    width: 29%;
+    margin-right: 15px;
+    padding-bottom: 55px;
 	}
 
 	.asideLeft.about.popravi {
@@ -2200,13 +2272,15 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 140px;
+    margin-top: 15px;
     margin-right: 15px;
+    width: 34%;
+    padding-bottom: 30px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 60px;
-		width: 80%;
+    margin-top: 20px;
+    width: 80%;
 	}
 
 	.post .asideLeft.twitter {
@@ -2280,7 +2354,10 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 115px;
+    margin-top: 25px;
+    width: 35%;
+    padding-bottom: 5px;
+    padding-top: 10px;
 	}
 
 	.sectionRight.about h2 {
@@ -2292,14 +2369,15 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 230px;
+    margin-top: 245px;
 	}
 
 	.sectionRight.about {
     margin-top: 15px;
-    width: 29%;
+    width: 36%;
     padding-top: 30px;
     padding-bottom: 0px;
+    margin-bottom: 89px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2335,6 +2413,10 @@ body {
     padding-bottom: 30px;
     margin-top: 510px;
 }
+.sectionRight.about .twitter {
+    margin-top: -65px;
+}
+
 
 
 
@@ -2365,7 +2447,10 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 65px;
+    margin-top: 20px;
+    margin-right: 10px;
+    padding-bottom: 0px;
+    margin-bottom: 96px;
 	}
 
 	.sectionRight.about h2 {
@@ -2377,15 +2462,16 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 199px;
+    margin-top: 220px;
 	}
 
 	.sectionRight.about {
-    margin-top: 15px;
-    width: 29%;
+    margin-top: 10px;
+    width: 35%;
     padding-top: 15px;
     padding-bottom: 0px;
-    margin-bottom: 0px;
+    margin-bottom: 96px;
+    margin-right: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2405,11 +2491,12 @@ body {
 	}
 
 	.post .asideLeft.twitter {
-		margin-top: -133px;
+    margin-top: -138px;
 	}
 
 	.post .sectionRight.contact {
-		margin-top: -133px;
+    margin-top: -135px;
+    width: 30%;
 	}
 
 	.kiki-gallery.reallity {
@@ -2449,11 +2536,12 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 255px;
+    margin-top: 240px;
 	}
 
 	.sectionRight {
-		margin-top: 115px;
+    margin-top: 25px;
+    width: 36%;
 	}
 
 	.sectionRight.about h2 {
@@ -2470,10 +2558,11 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 25px;
-    width: 29%;
+    margin-top: 15px;
+    width: 36%;
     padding-top: 15px;
     padding-bottom: 0px;
+    margin-bottom: 95px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2499,6 +2588,10 @@ body {
 	.glitcoo {
 		margin-top: 257px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -50px;
+}
+
 
 
 }
@@ -2578,8 +2671,8 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 245px;
-		margin-right: 15px;
+    margin-top: 75px;
+    margin-right: 15px;
 	}
 
 	.sectionRight.about h2 {
@@ -2591,20 +2684,20 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 310px;
+    margin-top: 360px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 100px;
-    width: 27%;
+    margin-top: 30px;
+    width: 36%;
     padding-top: 30px;
     padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 60px;
-		width: 88%;
+    margin-top: 0px;
+    width: 88%;
 	}
 
 	.post .asideLeft.twitter {
@@ -2665,8 +2758,8 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 220px;
-		margin-right: 15px;
+    margin-top: 45px;
+    margin-right: 15px;
 	}
 
 	.sectionRight.about h2 {
@@ -2678,20 +2771,20 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 310px;
+    margin-top: 335px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 100px;
-    width: 29%;
+    margin-top: 15px;
+    width: 36%;
     padding-top: 30px;
     padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 60px;
-		width: 88%;
+    margin-top: -37px;
+    width: 88%;
 	}
 
 	.post .asideLeft.twitter {
@@ -2751,22 +2844,22 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 210px;
-		width: 30%;
+    margin-top: 50px;
+    width: 34%;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 308px;
+    margin-top: 320px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 95px;
+    margin-top: 14px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 60px;
-		width: 89%;
+    margin-top: -42px;
+    width: 89%;
 	}
 
 	.post .asideLeft.twitter {
@@ -2818,30 +2911,34 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 150px;
+    margin-top: 25px;
+    padding-top: 10px;
+    padding-bottom: 15px;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 238px;
+    margin-top: 290px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 40px;
+    margin-top: 15px;
+    width: 38%;
+    margin-bottom: 90px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 60px;
-		width: 91%;
+    margin-top: -50px;
+    width: 91%;
 	}
 
 	.post .asideLeft.twitter {
-    margin-top: 12px;
+    margin-top: 15px;
     width: 22%;
 	}
 
 	.post .sectionRight.contact {
-    margin-top: 12px;
+    margin-top: 15px;
     width: 22%;
 	}
 
@@ -2864,6 +2961,10 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -145px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -15px;
+}
+
 
 }
 
@@ -2892,16 +2993,16 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 150px;
+    margin-top: 25px;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 238px;
+    margin-top: 290px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 40px;
+    margin-top: 15px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2916,7 +3017,7 @@ body {
 
 	.post .sectionRight.contact {
     margin-top: 12px;
-    width: 22%;
+    width: 25%;
 	}
 
 	.asideLeft.thankyou {
@@ -2938,6 +3039,10 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -145px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -15px;
+}
+
 
 }
 
@@ -2966,16 +3071,18 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 135px;
+    margin-top: 25px;
+    padding-bottom: 15px;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 238px;
+    margin-top: 260px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 20px;
+    margin-top: 15px;
+    padding-bottom: 5px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2989,8 +3096,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: -34px;
-		width: 22%;
+    margin-top: -34px;
+    width: 25%;
 	}
 
 	.asideLeft.thankyou {
@@ -3012,6 +3119,12 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -145px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -50px;
+    padding-bottom: 0px;
+    margin-bottom: -5px;
+}
+
 
 
 }
@@ -3043,8 +3156,9 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 117px;
-		margin-right: 15px;
+    margin-top: 25px;
+    margin-right: 15px;
+    padding-bottom: 5px;
 	}
 
 	.sectionRight.about h2 {
@@ -3056,15 +3170,15 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 215px;
+    margin-top: 249px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 20px;
-    width: 29%;
+    margin-top: 15px;
+    width: 36%;
     padding-top: 15px;
-    padding-bottom: 0px;
+    margin-bottom: 88px;
 	}
 
 	.sectionRight.about .twitter {
@@ -3078,8 +3192,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		width: 24%;
-		margin-top: -62px;
+    width: 27%;
+    margin-top: -62px;
 	}
 
 	.asideLeft.thankyou {
@@ -3105,6 +3219,12 @@ body {
 	.glitcoo {
 		margin-top: 205px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -50px;
+    padding-bottom: 0px;
+    margin-bottom: -5px;
+}
+
 
 
 }
@@ -3136,8 +3256,9 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 95px;
-		margin-right: 15px;
+    margin-top: 25px;
+    margin-right: 15px;
+    margin-bottom: 75px;
 	}
 
 	.sectionRight.about h2 {
@@ -3149,15 +3270,16 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 180px;
+    margin-top: 228px;
     margin-left: 100px;
 	}
 
 	.sectionRight.about {
-    margin-top: 20px;
-    width: 29%;
+    margin-top: 15px;
+    width: 35%;
     padding-top: 15px;
-    padding-bottom: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 80px;
 	}
 
 	.sectionRight.about .twitter {
@@ -3171,8 +3293,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		width: 24%;
-		margin-top: -103px;
+    width: 30%;
+    margin-top: -103px;
 	}
 
 	.asideLeft.thankyou {
@@ -3198,6 +3320,12 @@ body {
 	.glitcoo {
 		margin-top: 205px;
 	}
+.sectionRight.about .twitter {
+    margin-top: -50px;
+    padding-bottom: 0px;
+    margin-bottom: -5px;
+}
+
 
 
 }
@@ -3246,9 +3374,9 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 200px;
-		width: 32%;
-		margin-right: 15px;
+    margin-top: 25px;
+    width: 32%;
+    margin-right: 15px;
 	}
 
 	.asideLeft.about.popravi {
@@ -3257,8 +3385,9 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 50px;
-    width: 28%;
+    margin-top: 15px;
+    width: 38%;
+    margin-bottom: 80px;
 	}
 
 	.post .asideLeft.twitter {
@@ -3267,8 +3396,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		width: 20%;
-		margin-top: 68px;
+    width: 27%;
+    margin-top: 68px;
 	}
 
 	.asideLeft.thankyou {
@@ -3291,6 +3420,11 @@ body {
     padding-bottom: 30px;
     margin-top: -140px;
 }
+.sectionRight.about .twitter {
+    margin-top: -55px;
+    margin-bottom: -5px;
+}
+
 
 
 
@@ -3321,23 +3455,23 @@ body {
 	}
 
 	.sectionRight {
-		margin-top: 95px;
+    margin-top: 25px;
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 205px;
-		margin-left: 15px;
+    margin-top: 230px;
+    margin-left: 15px;
 	}
 
 	.sectionRight.about {
     margin-top: 15px;
-    padding-top: 15px;
-    width: 30%;
-    padding-bottom: 10px;
+    padding-top: 35px;
+    width: 38%;
+    padding-bottom: 35px;
 	}
 
 	.sectionRight.about .twitter {
-    margin-top: -10px;
+    margin-top: -40px;
 	}
 
 	.post .asideLeft.twitter {
@@ -3387,21 +3521,6 @@ body {
 }
 
 @media (max-width: 1199px) {
-	.sectionRight.about {
-		margin-top: 10px;
-		padding-top: 15px;
-	}
-
-	.asideLeft .prva {
-		margin-top: -27px;
-	}
-
-	.sectionRight.about {
-		width: 30%;
-		margin-top: 15px;
-		margin-right: 15px;
-		margin-bottom: 5px;
-	}
 
 	.twitter {
 		margin-top: 20px;
@@ -3431,19 +3550,8 @@ body {
 		margin-top: 325px;
 	}
 
-	.sectionRight {
-		margin-top: 200px;
-		width: 32%;
-		margin-right: 15px;
-	}
-
 	.asideLeft.about.popravi {
 		margin-left: 15px;
-	}
-
-	.sectionRight.about {
-    margin-top: 45px;
-    width: 28%;
 	}
 
 	.post .asideLeft.twitter {
@@ -3452,8 +3560,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		width: 25%;
-		margin-top: 68px;
+    width: 27%;
+    margin-top: 68px;
 	}
 
 	.bg-text.calendar {
@@ -3465,6 +3573,18 @@ body {
 	.glitcoo {
 		margin-top: 230px;
 	}
+.sectionRight {
+    margin-top: 25px;
+    width: 32%;
+    margin-right: 15px;
+	}
+.sectionRight.about {
+    margin-top: 15px;
+    width: 38%;
+    margin-bottom: 80px;
+	}
+
+
 
 
 }
@@ -3485,10 +3605,6 @@ body {
 
 	.asideLeft {
 		margin-top: 240px;
-	}
-
-	.sectionRight {
-		margin-top: 95px;
 	}
 
 	.sectionRight.about .twitter {
@@ -3514,16 +3630,25 @@ body {
 	.glitcoo {
 		margin-top: 155px;
 	}
-.sectionRight.about {
-    margin-top: 15px;
-    padding-top: 15px;
-    width: 30%;
-    padding-bottom: 0px;
-	}
 .asideLeft.about.popravi {
-    margin-top: 205px;
+    margin-top: 230px;
     margin-left: 15px;
 	}
+.sectionRight {
+    margin-top: 25px;
+	}
+.sectionRight.about {
+    margin-top: 15px;
+    padding-top: 35px;
+    width: 38%;
+    padding-bottom: 35px;
+	}
+.sectionRight.about .twitter {
+    margin-top: -40px;
+	}
+
+
+
 
 
 
@@ -3551,16 +3676,19 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 145px;
+    margin-top: 25px;
+    margin-bottom: 83px;
 	}
 
 	.sectionRight.about {
-    margin-top: 75px;
-    width: 30%;
+    margin-top: 15px;
+    width: 38%;
+    padding-bottom: 15px;
+    margin-bottom: 90px;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: 245px;
+    margin-top: 265px;
     margin-left: 20px;
 	}
 
@@ -3627,27 +3755,27 @@ body {
 	}
 
 	.sectionRight {
-		width: 33%;
-		float: right;
-		margin-right: 15px;
-		margin-top: 168px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 100px;
-		text-align: justify;
+    width: 33%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 25px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 95px;
+    text-align: justify;
 	}
 
 	.sectionRight.about {
-    width: 28%;
-    margin-top: 50px;
+    width: 38%;
+    margin-top: 15px;
     margin-right: 15px;
 	}
 .sectionRight.about .twitter {
@@ -3655,7 +3783,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 270px;
+    margin-top: 290px;
 	}
 
 	.post .asideLeft.twitter {
@@ -3664,8 +3792,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		width: 20%;
-		margin-top: 20px;
+    width: 27%;
+    margin-top: 20px;
 	}
 
 	.asideLeft.thankyou {
@@ -3741,22 +3869,23 @@ body {
     width: 33%;
     float: right;
     margin-right: 15px;
-    margin-top: 100px;
+    margin-top: 25px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
     padding-top: 2.5%;
-    padding-bottom: 2.5%;
+    padding-bottom: 0%;
     background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
     text-align: justify;
+    margin-bottom: 70px;
 	}
 
 	.sectionRight.about {
-    width: 30%;
+    width: 35%;
     margin-top: 15px;
     margin-right: 15px;
 	}
@@ -3774,7 +3903,7 @@ body {
 	}
 
 	.post .sectionRight.contact {
-    width: 25%;
+    width: 27%;
     margin-top: -108px;
 	}
 
@@ -3846,7 +3975,7 @@ body {
     width: 33%;
     float: right;
     margin-right: 15px;
-    margin-top: 90px;
+    margin-top: 25px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -3857,13 +3986,13 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 130px;
     text-align: justify;
 	}
 
 	.sectionRight.about {
     width: 31%;
-    margin-top: 20px;
+    margin-top: 15px;
     margin-right: 15px;
 	}
 
@@ -3881,7 +4010,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 220px;
+    margin-top: 228px;
 	}
 
 	.post .asideLeft.twitter {
@@ -3890,8 +4019,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: -103px;
-		width: 21%;
+    margin-top: -101px;
+    width: 27%;
 	}
 
 	.asideLeft.thankyou {
@@ -3949,28 +4078,29 @@ body {
 	}
 
 	.sectionRight {
-		width: 33%;
-		float: right;
-		margin-right: 15px;
-		margin-top: 145px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 100px;
-		text-align: justify;
+    width: 33%;
+    float: right;
+    margin-right: 15px;
+    margin-top: 25px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 100px;
+    text-align: justify;
 	}
 
 	.sectionRight.about {
     width: 29%;
     margin-top: 30px;
     margin-right: 15px;
+    margin-bottom: 88px;
 	}
 
 	.bg-text.calendar {
@@ -3987,7 +4117,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-top: 255px;
+    margin-top: 280px;
 	}
 
 	.post .asideLeft.twitter {
@@ -3996,8 +4126,8 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: -5px;
-		width: 21%;
+    margin-top: -5px;
+    width: 27%;
 	}
 
 	.asideLeft.thankyou {
@@ -4020,6 +4150,12 @@ body {
 	.glitcoo {
 		margin-top: 140px;
 	}
+.sectionRight.about {
+    width: 31%;
+    margin-top: 15px;
+    margin-right: 15px;
+	}
+
 
 
 }
@@ -4051,7 +4187,7 @@ body {
 .sectionRight {
     width: 100%;
     margin-right: 0px;
-    margin-top: 650px;
+    margin-top: 600px;
 }
 .asideLeft.about.popravi h1 {
     margin-top: 180px;
@@ -4126,9 +4262,11 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 55px;
-    width: 29%;
+    margin-top: 30px;
+    width: 30%;
     margin-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 16px;
 	}
 
 	.asideLeft.about.popravi {
@@ -4139,7 +4277,7 @@ body {
 
 	.sectionRight.about {
     margin-bottom: 0px;
-    margin-top: -600px;
+    margin-top: -655px;
     width: 97%;
     margin-right: 15px;
     padding-top: 20px;
@@ -4159,7 +4297,7 @@ body {
 
 	.post .sectionRight.contact {
     margin-top: -60px;
-    width: 21%;
+    width: 27%;
 	}
 
 	.asideLeft.thankyou {
@@ -4212,10 +4350,10 @@ body {
 
 	.sectionRight {
     width: 33%;
-    margin-top: 32px;
+    margin-top: 30px;
     padding-top: 0px;
     padding-bottom: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 89px;
     margin-right: 10px;
 	}
 
@@ -4226,11 +4364,11 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-bottom: 0px;
-		margin-top: -517px;
-		width: 97%;
-		margin-right: 15px;
-		padding-top: 20px;
+    margin-bottom: 0px;
+    margin-top: -510px;
+    width: 100%;
+    margin-right: 0px;
+    padding-top: 20px;
 	}
 
 	.sectionRight.about .twitter {
@@ -4287,6 +4425,11 @@ body {
 		margin-bottom: -15px;
 		cursor: pointer;
 	}
+.sectionRight.about .twitter {
+    margin-top: -15px;
+    margin-bottom: -5px;
+}
+
 
 
 }
@@ -4306,16 +4449,16 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 0px;
-    width: 47%;
-    margin-bottom: 85px;
+    width: 100%;
     margin-left: 0px;
-    margin-right: 250px;
+    margin-right: 0px;
     padding-top: 30px;
     padding-bottom: 5px;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 	}
 
 	.sectionRight.about .twitter {
@@ -4328,9 +4471,9 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: -90px;
     margin-bottom: 580px;
     margin-left: 620px;
+    margin-top: -95px;
 	}
 
 	.asideLeft {
@@ -4341,8 +4484,8 @@ body {
 	.sectionRight {
     width: 35%;
     float: right;
-    margin-right: 15px;
-    margin-top: 40px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -4353,7 +4496,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 0px;
+    margin-bottom: 100px;
     text-align: justify;
 	}
 
@@ -4445,8 +4588,8 @@ body {
 	.sectionRight {
     width: 35%;
     float: right;
-    margin-right: 15px;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -4457,7 +4600,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: -100px;
+    margin-bottom: 100px;
     text-align: justify;
 	}
 
@@ -4482,11 +4625,11 @@ body {
 	.sectionRight.about {
     margin-top: 0px;
     width: 100%;
-    margin-bottom: 110px;
+    margin-bottom: 85px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 30px;
-    padding-bottom: 80px;
+    padding-bottom: 5px;
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -4529,6 +4672,11 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -150px;
 	}
+.sectionRight.about .twitter {
+    width: 66%;
+    margin-top: -10px;
+	}
+
 
 }
 
@@ -4554,7 +4702,7 @@ body {
 	.sectionRight {
     width: 35%;
     float: right;
-    margin-right: 15px;
+    margin-right: 10px;
     margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
@@ -4565,7 +4713,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 145px;
+    margin-bottom: 95px;
     text-align: justify;
 	}
 
@@ -4588,16 +4736,16 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		width: 100%;
-		margin-bottom: 77px;
-		margin-left: 0px;
-		margin-right: 0px;
-		padding-top: 30px;
-		padding-bottom: 5px;
-		border-top-left-radius: 25px;
-		border-bottom-left-radius: 25px;
-		border-bottom-right-radius: 25px;
+    margin-top: 0px;
+    width: 100%;
+    margin-bottom: 87px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 	}
 
 	.asideLeft.about.popravi {
@@ -4636,6 +4784,11 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -150px;
 	}
+.sectionRight.about .twitter {
+    width: 66%;
+    margin-top: -10px;
+	}
+
 
 
 }
@@ -4665,8 +4818,8 @@ body {
 	.sectionRight {
     width: 35%;
     float: right;
-    margin-right: 15px;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -4677,7 +4830,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 133px;
+    margin-bottom: 100px;
     text-align: justify;
 	}
 
@@ -4713,7 +4866,7 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: -160px;
+    margin-top: -170px;
     margin-bottom: 580px;
 	}
 
@@ -4852,7 +5005,8 @@ body {
 .sectionRight {
     width: 100%;
     margin-right: 0px;
-    margin-top: 615px;
+    margin-top: 600px;
+    margin-bottom: 100px;
 }
 .asideLeft.about.popravi h1 {
     margin-top: 170px;
@@ -4893,19 +5047,19 @@ body {
 	.sectionRight {
     width: 35%;
     float: right;
-    margin-right: 15px;
-    margin-top: 34px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
     padding-top: 0%;
-    padding-bottom: 1%;
+    padding-bottom: 0%;
     background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 0px;
+    margin-bottom: 90px;
     text-align: justify;
 	}
 
@@ -4929,10 +5083,10 @@ body {
 
 	.sectionRight.about {
     margin-top: 0px;
-    width: 47%;
-    margin-bottom: 85px;
+    width: 100%;
+    margin-bottom: 97px;
     margin-left: 0px;
-    margin-right: 250px;
+    margin-right: 0px;
     padding-top: 30px;
     padding-bottom: 5px;
     border-top-left-radius: 25px;
@@ -5010,10 +5164,10 @@ body {
 	}
 
 	.sectionRight {
-    width: 31%;
+    width: 34%;
     float: right;
-    margin-right: 2%;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -5024,7 +5178,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 95px;
+    margin-bottom: 103px;
     text-align: justify;
 	}
 
@@ -5162,10 +5316,10 @@ body {
 	}
 
 	.sectionRight {
-    width: 31%;
+    width: 33%;
     float: right;
-    margin-right: 2%;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -5176,7 +5330,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 95px;
+    margin-bottom: 85px;
     text-align: justify;
 	}
 
@@ -5279,25 +5433,6 @@ body {
 		margin-left: 8%;
 	}
 
-	.sectionRight {
-    width: 31%;
-    float: right;
-    margin-right: 2%;
-    margin-top: 35px;
-    margin-left: 0%;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
-    padding-top: 0%;
-    padding-bottom: 2.5%;
-    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-    border-top-right-radius: 25px;
-    margin-bottom: 95px;
-    text-align: justify;
-	}
-
 	.sectionRight.about .twitter {
 		margin-top: 500px;
 		margin-bottom: -258px;
@@ -5320,19 +5455,6 @@ body {
     margin-top: -140px;
     margin-left: 605px;
     font-size: x-small;
-	}
-
-	.sectionRight.about {
-    margin-top: -220px;
-    width: 100%;
-    margin-left: 0px;
-    margin-right: 0px;
-    padding-top: 20px;
-    padding-bottom: 0px;
-    border-top-left-radius: 25px;
-    border-bottom-left-radius: 25px;
-    border-bottom-right-radius: 25px;
-    margin-bottom: 80px;
 	}
 
 	.sectionRight.about .twitter {
@@ -5404,7 +5526,8 @@ body {
 .sectionRight {
     width: 100%;
     margin-right: 0px;
-    margin-top: 650px;
+    margin-top: 600px;
+    margin-bottom: 100px;
 }
 .asideLeft.about.popravi h1 {
     margin-top: 180px;
@@ -5447,10 +5570,10 @@ body {
 	}
 
 	.sectionRight {
-    width: 31%;
+    width: 34%;
     float: right;
-    margin-right: 2%;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -5461,7 +5584,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     text-align: justify;
 	}
 
@@ -5498,7 +5621,7 @@ body {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    margin-bottom: 81px;
+    margin-bottom: 80px;
 	}
 
 	.sectionRight.about .twitter {
@@ -5559,18 +5682,18 @@ body {
 }
 
 	.asideLeft {
-		margin-top: 95px;
-		margin-bottom: 0px;
-		font-size: x-small;
-		width: 22%;
-		margin-left: 8%;
+    margin-top: 95px;
+    margin-bottom: 0px;
+    font-size: small;
+    width: 30%;
+    margin-left: 3%;
 	}
 
 	.sectionRight {
-    width: 31%;
+    width: 33%;
     float: right;
-    margin-right: 2%;
-    margin-top: 40px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -5581,7 +5704,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     text-align: justify;
 	}
 
@@ -5680,18 +5803,18 @@ body {
 }
 
 	.asideLeft {
-    margin-top: 85px;
+    margin-top: 75px;
     margin-bottom: 0px;
-    font-size: x-small;
-    width: 22%;
-    margin-left: 8%;
+    font-size: small;
+    width: 30%;
+    margin-left: 3%;
 	}
 
 	.sectionRight {
-    width: 31%;
+    width: 33%;
     float: right;
-    margin-right: 2%;
-    margin-top: 40px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -5702,7 +5825,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     text-align: justify;
 	}
 
@@ -5727,7 +5850,7 @@ body {
 	.asideLeft.about.popravi {
     margin-top: -190px;
     margin-left: 605px;
-    font-size: x-small;
+    font-size: 1em;
 	}
 
 	.sectionRight.about {
@@ -5740,7 +5863,7 @@ body {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    margin-bottom: 90px;
+    margin-bottom: 75px;
 	}
 
 	.sectionRight.about .twitter {
@@ -5837,10 +5960,10 @@ body {
 	}
 
 	.sectionRight {
-    width: 32%;
+    width: 33%;
     float: right;
-    margin-right: 2%;
-    margin-top: 40px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -5851,7 +5974,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 105px;
+    margin-bottom: 95px;
     text-align: justify;
 	}
 
@@ -5870,7 +5993,7 @@ body {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    margin-bottom: 87px;
+    margin-bottom: 86px;
     margin-right: 0px;
 	}
 
@@ -5998,8 +6121,8 @@ body {
 	.sectionRight {
     width: 34%;
     float: right;
-    margin-right: 2%;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -6010,7 +6133,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     text-align: justify;
 	}
 
@@ -6030,7 +6153,7 @@ body {
     border-top-left-radius: 25px;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
-    margin-bottom: 90px;
+    margin-bottom: 80px;
 	}
 
 	.sectionRight.about .twitter {
@@ -6105,7 +6228,7 @@ body {
 	.sectionRight.about {
     margin-top: -175px;
     width: 100%;
-    margin-bottom: 75px;
+    margin-bottom: 88px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -6125,16 +6248,16 @@ body {
 	}
 
 	.asideLeft {
-    margin-left: 8%;
+    margin-left: 3%;
     font-size: small;
     margin-top: 105px;
 	}
 
 	.sectionRight {
-    width: 33%;
+    width: 34%;
     float: right;
-    margin-right: 2%;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -6145,7 +6268,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     text-align: justify;
 	}
 
@@ -6214,7 +6337,7 @@ body {
 	.sectionRight.about {
     margin-top: -175px;
     width: 100%;
-    margin-bottom: 95px;
+    margin-bottom: 78px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -6234,16 +6357,16 @@ body {
 	}
 
 	.asideLeft {
-    margin-left: 8%;
+    margin-left: 3%;
     font-size: small;
     margin-top: 105px;
 	}
 
 	.sectionRight {
-    width: 33%;
+    width: 34%;
     float: right;
-    margin-right: 2%;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -6254,7 +6377,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 75px;
+    margin-bottom: 85px;
     text-align: justify;
 	}
 
@@ -6316,7 +6439,7 @@ body {
 	}
 
 	.asideLeft.about.popravi h1 {
-    margin-top: 120px;
+    margin-top: 115px;
     margin-bottom: -879px;
 	}
 
@@ -6360,7 +6483,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 0px;
+    margin-bottom: 75px;
     text-align: justify;
 	}
 
@@ -6414,10 +6537,9 @@ body {
 }
 
 	.sectionRight.about {
-    margin-top: -138px;
+    margin-top: -50px;
     width: 100%;
-    margin-bottom: 91px;
-    margin-left: 0px;
+    margin-bottom: 82px;
     margin-right: 0px;
     padding-top: 20px;
     padding-bottom: 5px;
@@ -6425,11 +6547,6 @@ body {
 
 	.sectionRight.about .twitter {
 		margin-top: -75px;
-	}
-
-	.asideLeft.about.popravi h1 {
-    margin-top: 51px;
-    margin-left: -33px;
 	}
 
 	.bg-text.calendar {
@@ -6452,10 +6569,10 @@ body {
 	}
 
 	.sectionRight {
-    width: 31%;
+    width: 35%;
     float: right;
-    margin-right: 2%;
-    margin-top: 35px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -6466,7 +6583,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 80px;
+    margin-bottom: 85px;
     text-align: justify;
 	}
 
@@ -6506,6 +6623,11 @@ body {
 	.glitcoo {
 		margin-top: -54px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: 155px;
+    margin-bottom: -879px;
+	}
+
 
 }
 
@@ -6555,7 +6677,7 @@ body {
 	.sectionRight.about {
     margin-top: 440px;
     width: 100%;
-    margin-bottom: 75px;
+    margin-bottom: 88px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -6571,22 +6693,22 @@ body {
 	}
 
 	.sectionRight {
-		width: 34%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 90px;
-		text-align: justify;
+    width: 35%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 90px;
+    text-align: justify;
 	}
 
 	.bg-text.calendar {
@@ -6644,6 +6766,12 @@ body {
 	.glitcoo {
 		margin-top: -62px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: 150px;
+    font-size: xx-large;
+    margin-left: 20px;
+}
+
 
 }
 
@@ -6765,9 +6893,9 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 190px;
-		font-size: x-small;
-		width: 25%;
+    margin-top: 190px;
+    font-size: small;
+    width: 25%;
 	}
 
 	.sectionRight {
@@ -6783,8 +6911,10 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 120px;
+    margin-top: -5px;
+    margin-bottom: 95px;
+    width: 100%;
+    margin-right: 0px;
 	}
 
 	.sectionRight.about .twitter {
@@ -6856,19 +6986,20 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 130px;
-		font-size: x-small;
-		width: 25%;
+    margin-top: 130px;
+    font-size: small;
+    width: 25%;
 	}
 
 	.sectionRight {
-    margin-top: 70px;
-    margin-right: 2%;
+    margin-top: 30px;
+    margin-right: 10px;
     margin-bottom: 97px;
+    width: 35%;
 	}
 
 	.asideLeft.about.popravi {
-    margin-top: -85px;
+    margin-top: -100px;
     font-size: x-small;
 	}
 
@@ -6939,7 +7070,7 @@ body {
 	.sectionRight.about {
     margin-top: -260px;
     width: 100%;
-    margin-bottom: 80px;
+    margin-bottom: 77px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -6951,15 +7082,18 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 90px;
-		font-size: x-small;
+    margin-top: 90px;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-    width: 32%;
+    width: 36%;
     float: right;
-    margin-right: 2%;
-    margin-top: 65px;
+
+
+
+   
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -6972,6 +7106,7 @@ body {
     border-top-right-radius: 25px;
     margin-bottom: 90px;
     text-align: justify;
+    margin-right: 10px;
 	}
 
 	.bg-text.calendar {
@@ -6984,7 +7119,7 @@ body {
 
 	.kiki-gallery.reallity .lightbox .Reallity {
     margin-top: 0px;
-    margin-left: 130px;
+    margin-left: 135px;
     max-width: 480px;
     max-height: 319px;
 	}
@@ -7025,7 +7160,7 @@ body {
 	}
 
 	.kiki-gallery.reallity .Reallity {
-		margin-top: -210px;
+    margin-top: -210px;
 	}
 
 	.glitcoo {
@@ -7034,7 +7169,13 @@ body {
 .asideLeft.about.popravi {
     margin-left: 527px;
     margin-top: 0px;
+    font-size: small;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 0px;
+}
+
 
 
 }
@@ -7248,7 +7389,7 @@ body {
 
 }
 
-@media (max-width:767px) and (max-height:432px){
+@media (max-width:768px) and (max-height:432px){
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
 
@@ -7270,7 +7411,7 @@ body {
 
 	.sectionRight {
     width: 37%;
-    margin-top: 20px;
+    margin-top: 30px;
     margin-right: 10px;
     margin-bottom: 90px;
 	}
@@ -7284,7 +7425,7 @@ body {
     padding-top: 25px;
     margin-left: 0px;
     padding-bottom: 5px;
-    margin-bottom: 70px;
+    margin-bottom: 87px;
     margin-right: 0px;
     width: 100%;
     margin-top: 70px;
@@ -7335,6 +7476,202 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -170px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 115px;
+    margin-left: -30px;
+}
+
+
+}
+
+@media (max-width:767px) and (max-height:432px){
+.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+}
+
+	.bg-text.calendar {
+		margin-top: 64px;
+		width: 32%;
+		font-size: large;
+	}
+
+	.asideLeft {
+		margin-top: 100px;
+		width: 26%;
+		font-size: x-small;
+	}
+
+	.sectionRight {
+    width: 37%;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 90px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: -100px;
+    margin-left: 525px;
+	}
+
+	.sectionRight.about {
+    padding-top: 25px;
+    margin-left: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 87px;
+    margin-right: 0px;
+    width: 100%;
+    margin-top: 70px;
+	}
+
+	.sectionRight.about .twitter {
+    margin-top: 0px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 405px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 0px;
+		margin-left: 95px;
+		max-width: 531px;
+		max-height: 353px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 230px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -681px;
+		width: 58%;
+		margin-right: 160px;
+		max-height: 75px;
+		padding-top: 0px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -170px;
+	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 115px;
+    margin-left: -30px;
+}
+
+
+}
+
+@media (max-width:767px) and (max-height:360px){.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 0em;
+
+
+
+}
+
+	.bg-text.calendar {
+		margin-top: 64px;
+		width: 32%;
+		font-size: large;
+	}
+
+	.asideLeft {
+    margin-top: 90px;
+    width: 26%;
+    font-size: x-small;
+	}
+
+	.sectionRight {
+    width: 37%;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-bottom: 77px;
+	}
+
+	.asideLeft.about.popravi {
+    margin-top: -100px;
+    margin-left: 525px;
+	}
+
+	.sectionRight.about {
+    padding-top: 25px;
+    margin-left: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 85px;
+    margin-right: 0px;
+    width: 100%;
+    margin-top: 70px;
+	}
+
+	.sectionRight.about .twitter {
+    margin-top: 0px;
+	}
+
+	.post .asideLeft.twitter {
+		margin-top: 27px;
+		margin-bottom: 25px;
+		padding-bottom: 0px;
+		padding-top: 0px;
+		width: 100%;
+		margin-left: 0px;
+	}
+
+	.post .sectionRight.contact {
+		margin-top: 405px;
+		width: 100%;
+		margin-bottom: 0px;
+		margin-right: 0px;
+	}
+
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 0px;
+		margin-left: 95px;
+		max-width: 531px;
+		max-height: 353px;
+	}
+
+	.asideLeft.thankyou {
+		margin-top: 230px;
+		margin-left: 0px;
+		width: 100%;
+		margin-bottom: 25px;
+	}
+
+	.sectionRight.thankyou {
+		margin-top: -681px;
+		width: 58%;
+		margin-right: 160px;
+		max-height: 75px;
+		padding-top: 0px;
+	}
+
+	.kiki-gallery.reallity .Reallity {
+		margin-top: -170px;
+	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 90px;
+    margin-left: -30px;
+}
 
 }
 
@@ -7349,23 +7686,23 @@ body {
     padding-top: 25px;
     margin-left: 0px;
     padding-bottom: 5px;
-    margin-bottom: 85px;
+    margin-bottom: 80px;
     margin-right: 0px;
     width: 100%;
     margin-top: 20px;
 	}
 
 	.asideLeft {
-		margin-top: 50px;
-		width: 26%;
-		font-size: x-small;
+    margin-top: 75px;
+    width: 26%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
     width: 34%;
     float: right;
-    margin-right: 2%;
-    margin-top: 27px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -7431,6 +7768,12 @@ body {
     margin-top: -75px;
     margin-left: 525px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 70px;
+    margin-left: -30px;
+}
+
 
 
 
@@ -7455,7 +7798,7 @@ body {
 	.sectionRight.about {
     margin-top: -150px;
     width: 100%;
-    margin-bottom: 90px;
+    margin-bottom: 83px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -7463,28 +7806,28 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 70px;
-		width: 26%;
-		font-size: x-small;
+    margin-top: 80px;
+    width: 26%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		width: 34%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 97px;
-		text-align: justify;
+    width: 35%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 97px;
+    text-align: justify;
 	}
 
 	.bg-text.calendar {
@@ -7548,31 +7891,6 @@ body {
 
 }
 
-	.asideLeft {
-		margin-top: 70px;
-		width: 26%;
-		font-size: x-small;
-	}
-
-	.sectionRight {
-		width: 34%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 97px;
-		text-align: justify;
-	}
-
 	.bg-text.calendar {
 		margin-top: 42px;
 		width: 33%;
@@ -7586,10 +7904,6 @@ body {
 		margin-left: 117px;
 		max-width: 470px;
 		max-height: 312px;
-	}
-
-	.asideLeft.about.popravi {
-		margin-left: 475px;
 	}
 
 	.post .asideLeft.twitter {
@@ -7638,10 +7952,10 @@ body {
 	}
 
 	.sectionRight {
-    width: 34%;
+    width: 35%;
     float: right;
-    margin-right: 2%;
-    margin-top: 27px;
+    margin-right: 10px;
+    margin-top: 30px;
     margin-left: 0%;
     padding-left: 2.5%;
     padding-right: 2.5%;
@@ -7652,7 +7966,7 @@ body {
     background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
     border-top-right-radius: 25px;
-    margin-bottom: 90px;
+    margin-bottom: 92px;
     text-align: justify;
 	}
 
@@ -7704,7 +8018,7 @@ body {
 .sectionRight.about {
     margin-top: -150px;
     width: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 80px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -7729,7 +8043,7 @@ body {
 	.sectionRight.about {
     margin-top: -50px;
     width: 100%;
-    margin-bottom: 70px;
+    margin-bottom: 80px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -7743,22 +8057,22 @@ body {
 	}
 
 	.sectionRight {
-		width: 34%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 98px;
-		text-align: justify;
+    width: 36%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 98px;
+    text-align: justify;
 	}
 
 	.bg-text.calendar {
@@ -7842,28 +8156,28 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 95px;
-		width: 27%;
-		font-size: x-small;
+    margin-top: 110px;
+    width: 27%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		width: 34%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 90px;
-		text-align: justify;
+    width: 37%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 90px;
+    text-align: justify;
 	}
 
 	.asideLeft.about.popravi {
@@ -7874,7 +8188,7 @@ body {
 	.sectionRight.about {
     margin-top: -50px;
     width: 100%;
-    margin-bottom: 85px;
+    margin-bottom: 78px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -7922,6 +8236,12 @@ body {
 		margin-bottom: 0px;
 		margin-right: 0px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 125px;
+    margin-left: -30px;
+}
+
 
 }
 
@@ -7942,28 +8262,28 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 70px;
-		width: 27%;
-		font-size: x-small;
+    margin-top: 90px;
+    width: 27%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		width: 34%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 98px;
-		text-align: justify;
+    width: 37%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 98px;
+    text-align: justify;
 	}
 
 	.asideLeft.about.popravi {
@@ -7974,7 +8294,7 @@ body {
 	.sectionRight.about {
     margin-top: -215px;
     width: 100%;
-    margin-bottom: 70px;
+    margin-bottom: 85px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -8006,6 +8326,12 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -215px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 15px;
+    margin-left: -30px;
+}
+
 
 }
 
@@ -8020,7 +8346,7 @@ body {
 	.sectionRight.about {
     margin-top: 15px;
     width: 100%;
-    margin-bottom: 85px;
+    margin-bottom: 80px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -8028,28 +8354,28 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 95px;
-		width: 27%;
-		font-size: x-small;
+    margin-top: 110px;
+    width: 27%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		width: 34%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 92px;
-		text-align: justify;
+    width: 37%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 92px;
+    text-align: justify;
 	}
 
 	.bg-text.calendar {
@@ -8136,28 +8462,28 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 95px;
-		width: 27%;
-		font-size: x-small;
+    margin-top: 110px;
+    width: 27%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		width: 35%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 90px;
-		text-align: justify;
+    width: 36%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 90px;
+    text-align: justify;
 	}
 
 	.asideLeft.about.popravi {
@@ -8173,7 +8499,7 @@ body {
 	.sectionRight.about {
     margin-top: -170px;
     width: 100%;
-    margin-bottom: 80px;
+    margin-bottom: 78px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -8210,6 +8536,12 @@ body {
 		max-height: 75px;
 		padding-top: 0px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 60px;
+    margin-left: -30px;
+}
+
 
 }
 
@@ -8236,22 +8568,22 @@ body {
 	}
 
 	.sectionRight {
-		width: 35%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 90px;
-		text-align: justify;
+    width: 37%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 90px;
+    text-align: justify;
 	}
 
 	.asideLeft.about {
@@ -8388,7 +8720,7 @@ body {
 	.sectionRight.about {
     margin-top: 500px;
     width: 100%;
-    margin-bottom: 100px;
+    margin-bottom: 75px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -8422,9 +8754,9 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 25px;
+    margin-top: 30px;
     width: 35%;
-    margin-right: 5px;
+    margin-right: 10px;
     margin-bottom: 99px;
 	}
 
@@ -8470,6 +8802,12 @@ body {
 	.glitcoo {
 		margin-top: -110px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 120px;
+    margin-left: -30px;
+}
+
 
 }
 
@@ -8490,7 +8828,7 @@ body {
 	.sectionRight.about {
     margin-top: 0px;
     width: 100%;
-    margin-bottom: 70px;
+    margin-bottom: 90px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
@@ -8516,7 +8854,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 25px;
+    margin-top: 30px;
     width: 35%;
 	}
 
@@ -8562,20 +8900,6 @@ body {
 }
 
 @media (max-width:718px) {
-	.asideLeft.about {
-		margin-left: 514px;
-		margin-top: -15px;
-	}
-
-	.sectionRight.about {
-		margin-top: 550px;
-		width: 100%;
-		margin-bottom: 65px;
-		margin-left: 0px;
-		margin-right: 0px;
-		padding-top: 30px;
-		padding-bottom: 15px;
-	}
 }
 
 @media (max-width:718px) and (max-height:360px) {
@@ -8595,14 +8919,14 @@ body {
 	}
 
 	.asideLeft {
-		margin-top: 70px;
-		width: 27%;
-		font-size: x-small;
+    margin-top: 85px;
+    width: 27%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		margin-top: 27px;
-		width: 35%;
+    margin-top: 30px;
+    width: 35%;
 	}
 
 	.asideLeft.about.popravi {
@@ -8616,7 +8940,7 @@ body {
     padding-bottom: 10px;
     margin-top: -150px;
     width: 100%;
-    /* [disabled]margin-bottom: -150px; */
+    margin-bottom: -150px;
 	}
 
 	.sectionRight.about .twitter {
@@ -8662,6 +8986,22 @@ body {
 	.kiki-gallery.reallity .Reallity {
 		margin-top: -230px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 10px;
+    margin-left: -30px;
+}
+.sectionRight.about {
+    margin-top: 0px;
+    width: 100%;
+    margin-bottom: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+	}
+
+
 
 }
 
@@ -8674,25 +9014,20 @@ body {
 }
 
 	.asideLeft {
-		margin-top: 145px;
-		width: 28%;
-		font-size: x-small;
+    margin-top: 155px;
+    width: 28%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		margin-top: 27px;
-		width: 35%;
-		margin-bottom: 91px;
+    margin-top: 30px;
+    width: 35%;
+    margin-bottom: 91px;
 	}
 
 	.sectionRight.about {
-    margin-top: 170px;
-    margin-bottom: 85px;
-	}
-
-	.asideLeft.about.popravi h1 {
-    margin-top: 85px;
-    margin-bottom: 360px;
+    margin-top: 440px;
+    margin-bottom: 89px;
 	}
 
 	.kiki-gallery.reallity {
@@ -8727,6 +9062,12 @@ body {
     margin-bottom: 0px;
     margin-right: 0px;
 	}
+.asideLeft.about.popravi h1 {
+    font-size: large;
+    margin-top: 115px;
+    margin-left: -30px;
+}
+
 
 
 }
@@ -8773,26 +9114,26 @@ body {
 }
 
 	.asideLeft {
-		margin-top: 35px;
-		width: 28%;
-		font-size: x-small;
-		margin-left: 38px;
+    margin-top: 40px;
+    width: 28%;
+    font-size: x-small;
+    margin-left: 38px;
 	}
 
 	.sectionRight {
-		margin-top: 27px;
-		width: 35%;
-		margin-bottom: 95px;
+    margin-top: 30px;
+    width: 37%;
+    margin-bottom: 95px;
+    margin-right: 10px;
 	}
 
 	.sectionRight.about {
-		margin-top: 155px;
-		margin-bottom: 78px;
+    margin-top: -470px;
 	}
 
 	.asideLeft.about.popravi h1 {
-    margin-top: -10px;
-    margin-bottom: 360px;
+    margin-top: -30px;
+    margin-bottom: -150px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -8985,6 +9326,10 @@ body {
 		padding-top: 30px;
 		margin-bottom: 100px;
 	}
+.container-fluid #topFixedNavbar1 .form-inline.my-2.my-lg-0 {
+    margin-top: -10px;
+}
+
 
 }
 
@@ -9008,36 +9353,36 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: -190px;
-		width: 100%;
-		margin-bottom: 77px;
-		margin-left: 0px;
-		margin-right: 0px;
+    margin-top: -190px;
+    width: 100%;
+    margin-bottom: 74px;
+    margin-left: 0px;
+    margin-right: 0px;
 	}
 
 	.asideLeft {
-		margin-top: 85px;
-		width: 28%;
-		font-size: x-small;
+    margin-top: 109px;
+    width: 28%;
+    font-size: x-small;
 	}
 
 	.sectionRight {
-		width: 36%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 90px;
-		text-align: justify;
+    width: 36%;
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 90px;
+    text-align: justify;
 	}
 
 	.bg-text.calendar {
@@ -9094,6 +9439,11 @@ body {
 	.glitcoo {
 		margin-top: -148px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: 85px;
+    margin-bottom: 360px;
+	}
+
 
 
 }
@@ -9111,43 +9461,44 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: -215px;
-		width: 100%;
-		margin-bottom: 65px;
-		margin-left: 0px;
-		margin-right: 0px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    margin-top: -215px;
+    width: 100%;
+    margin-bottom: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 	}
 
 	.asideLeft.about h1 {
-		font-size: x-large;
+    font-size: x-large;
+    margin-top: -10px;
 	}
 
 	.asideLeft {
-		margin-top: 80px;
-		width: 30%;
-		font-size: x-small;
-		margin-left: 30px;
+    margin-top: 90px;
+    width: 30%;
+    font-size: x-small;
+    margin-left: 30px;
 	}
 
 	.sectionRight {
-		width: 36%;
-		float: right;
-		margin-right: 2%;
-		margin-top: 27px;
-		margin-left: 0%;
-		padding-left: 2.5%;
-		padding-right: 2.5%;
-		padding-top: 2.5%;
-		padding-bottom: 2.5%;
-		background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
-		border-top-right-radius: 25px;
-		margin-bottom: 95px;
-		text-align: justify;
+    width: 35%;
+    float: right;
+    margin-right: 10PX;
+    margin-top: 30PX;
+    margin-left: 0%;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    background-image: -webkit-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -moz-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: -o-linear-gradient(270deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    background-image: linear-gradient(180deg, rgba(253, 252, 252, 1.00) 16.39%, rgba(255, 255, 255, 0.25) 100%);
+    border-top-right-radius: 25px;
+    margin-bottom: 95px;
+    text-align: justify;
 	}
 
 	.bg-text.calendar {
@@ -9569,8 +9920,8 @@ body {
 	}
 
 	.post .contactheader {
-		text-align: center;
-		margin-top: 0px;
+    text-align: center;
+    margin-top: -100px;
 	}
 
 	.thankyouheader {
@@ -9689,16 +10040,17 @@ body {
     width: 122%;
     margin-top: -70px;
     margin-left: -85px;
+    margin-bottom: -388px;
 	}
 
 	.sectionRight.about {
-		margin-top: -215px;
-		width: 100%;
-		margin-bottom: 65px;
-		margin-left: 0px;
-		margin-right: 0px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin-top: -402px;
+    margin-bottom: 100px;
 	}
 
 	.sectionRight.about .twitter {
@@ -9716,7 +10068,7 @@ body {
 	}
 
 	.post .sectionRight.contact {
-    margin-top: -100px;
+    margin-top: -167px;
     width: 100%;
     margin-bottom: 0px;
     margin-right: 0px;
@@ -9773,21 +10125,21 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: -150px;
-		width: 100%;
-		margin-bottom: 85px;
-		margin-left: 0px;
-		margin-right: 0px;
-		max-width: 100%;
+    margin-top: -410px;
+    width: 100%;
+    margin-bottom: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
 	}
 
 	.sectionRight.contact {
-		margin-top: 15px;
-		width: 95%;
-		margin-left: 12px;
-		margin-bottom: 0px;
-		padding-top: 5px;
-		padding-bottom: 0px;
+    margin-top: 9px;
+    width: 95%;
+    margin-left: 12px;
+    margin-bottom: 0px;
+    padding-top: 5px;
+    padding-bottom: 0px;
 	}
 
 	.bg-text.calendar {
@@ -9812,7 +10164,7 @@ body {
     width: 100%;
     float: none;
     margin-top: 140px;
-    margin-bottom: 60px;
+    margin-bottom: 72px;
 	}
 
 	.kiki-gallery.reallity {
@@ -9887,7 +10239,18 @@ body {
 	}
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
     margin-bottom: 0px;
+    margin-top: 1000px;
 }
+.asideLeft.about.popravi h1 {
+    width: 122%;
+    margin-top: -70px;
+    margin-left: -85px;
+    margin-bottom: -503px;
+	}
+.post .contactheader {
+    text-align: center;
+    margin-top: -105px;
+	}
 
 
 }
@@ -10076,13 +10439,13 @@ body {
     width: 100%;
     float: none;
     margin-top: 160px;
-    margin-bottom: 90px;
+    margin-bottom: 85px;
 	}
 
 	.sectionRight.about {
-    margin-top: -80px;
+    margin-top: -275px;
     width: 100%;
-    margin-bottom: 95px;
+    margin-bottom: 85px;
     margin-left: 0px;
     margin-right: 0px;
     max-width: 100%;
@@ -10125,12 +10488,12 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: 30px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 3px;
+    margin-top: 30px;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
 	}
 
 	.sectionRight.contact #form1 #comments {
@@ -10173,6 +10536,18 @@ body {
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.asideLeft.about.popravi h1 {
+    width: 122%;
+    margin-top: -185px;
+    margin-left: -85px;
+    margin-bottom: -503px;
+	}
+.post .contactheader {
+    text-align: center;
+    margin-top: -100px;
+	}
+
+
 
 
 }
@@ -10211,12 +10586,12 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: -110px;
-		width: 100%;
-		margin-bottom: 85px;
-		margin-left: 0px;
-		margin-right: 0px;
-		max-width: 100%;
+    margin-top: -276px;
+    width: 100%;
+    margin-bottom: 90px;
+    margin-left: 0px;
+    margin-right: 0px;
+    max-width: 100%;
 	}
 
 	.asideLeft.about.popravi {
@@ -10285,6 +10660,7 @@ body {
 		margin-top: -227px;
 	}
 
+
 }
 
 @media (max-width:640px) and (max-height:360px) {
@@ -10310,6 +10686,7 @@ body {
     float: none;
     margin-right: 5%;
     margin-top: 110px;
+    padding-bottom: 8px;
 	}
 
 	.bg-text.calendar {
@@ -10329,9 +10706,9 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: -130px;
+    margin-top: -275px;
     width: 100%;
-    margin-bottom: 75px;
+    margin-bottom: 88px;
     margin-left: 0px;
     margin-right: 0px;
     max-width: 100%;
@@ -10357,12 +10734,12 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: 33px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 3px;
+    margin-top: 30px;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
 	}
 
 	.sectionRight.contact #form1 #comments {
@@ -10433,12 +10810,11 @@ body {
 	}
 
 	.sectionRight {
-		width: 90%;
-		float: none;
-		margin-right: 5%;
-		margin-top: 50px;
-		margin-left: 5%;
-		margin-bottom: 420px;
+    width: 90%;
+    float: none;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-left: 5%;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -10459,12 +10835,12 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: 46px;
-		width: 100%;
-		margin-bottom: 0px;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 3px;
+    margin-top: 50px;
+    width: 100%;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 3px;
 	}
 
 	.sectionRight.contact #form1 #comments {
@@ -10520,7 +10896,7 @@ body {
     margin-left: 0px;
     margin-right: 0px;
     max-width: 100%;
-    padding-bottom: 400px;
+    padding-bottom: 300px;
 	}
 .asideLeft.about.popravi h1 {
     margin-top: 200px;
@@ -10528,6 +10904,11 @@ body {
     margin-bottom: 130px;
 
 }
+.post .contactheader {
+    text-align: center;
+    margin-top: -93px;
+	}
+
 
 
 
@@ -10563,8 +10944,8 @@ body {
     margin-bottom: 230px;
     margin-left: 0px;
     margin-right: 0px;
-    padding-bottom: 300px;
-    padding-top: 0px;
+    padding-bottom: 130px;
+    padding-top: 35px;
 	}
 
 	.sectionRight.about .twitter {
@@ -10592,12 +10973,12 @@ body {
 	}
 
 	.sectionRight {
-		width: 90%;
-		float: none;
-		margin-right: 5%;
-		margin-top: 50px;
-		margin-left: 5%;
-		margin-bottom: 250px;
+    width: 90%;
+    float: none;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-bottom: 110px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -10701,11 +11082,11 @@ body {
 
 	.sectionRight.about {
     margin-top: -100px;
-    margin-bottom: 300px;
+    margin-bottom: 0px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 360px;
+    padding-bottom: 300px;
 	}
 
 	.sectionRight.about .twitter {
@@ -10920,6 +11301,11 @@ body {
 .asideLeft.about.popravi h1 {
     margin-left: 30px;
 }
+.post .contactheader {
+    text-align: center;
+    margin-top: -93px;
+	}
+
 
 }
 
@@ -10944,13 +11330,13 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 920px;
-		width: 90%;
-		margin-bottom: 150px;
-		margin-left: 30px;
-		margin-right: 0px;
-		max-width: 100%;
-		padding-bottom: 20px;
+    margin-top: 920px;
+    width: 90%;
+    margin-bottom: 175px;
+    margin-left: 30px;
+    margin-right: 0px;
+    max-width: 100%;
+    padding-bottom: 115px;
 	}
 
 	.sectionRight.about .twitter {
@@ -10978,12 +11364,12 @@ body {
 	}
 
 	.sectionRight {
-		width: 90%;
-		float: none;
-		margin-right: 5%;
-		margin-top: 50px;
-		margin-left: 5%;
-		margin-bottom: 250px;
+    width: 90%;
+    float: none;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-bottom: 95px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -11048,6 +11434,12 @@ body {
 	.glichheader a img {
 		margin-top: 0px;
 	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 615px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
 
 }
 
@@ -11079,12 +11471,11 @@ body {
 	}
 
 	.sectionRight {
-		width: 90%;
-		float: none;
-		margin-right: 5%;
-		margin-top: 50px;
-		margin-left: 5%;
-		margin-bottom: 500px;
+    width: 90%;
+    float: none;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-left: 5%;
 	}
 
 	.sectionRight.about {
@@ -11094,7 +11485,7 @@ body {
     margin-left: 0px;
     margin-right: 0px;
     max-width: 100%;
-    padding-bottom: 10px;
+    padding-bottom: 385px;
 	}
 
 	.sectionRight.about .twitter {
@@ -11201,12 +11592,11 @@ body {
 	}
 
 	.sectionRight {
-		width: 90%;
-		float: none;
-		margin-right: 5%;
-		margin-top: 50px;
-		margin-left: 5%;
-		margin-bottom: 420px;
+    width: 90%;
+    float: none;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-left: 5%;
 	}
 
 	.asideLeft.about {
@@ -11216,8 +11606,8 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-bottom: 225px;
-		margin-top: 0px;
+    margin-top: 0px;
+    padding-bottom: 295px;
 	}
 
 	.sectionRight.about .twitter {
@@ -11259,10 +11649,10 @@ body {
 	}
 
 	.kiki-gallery.reallity .Reallity {
-		margin-top: 120px;
+    margin-top: 135px;
 	}
 .kiki-gallery.reallity .lightbox .Reallity {
-    margin-top: -10px;
+    margin-top: 15px;
     max-width: 563px;
     max-height: 374px;
     margin-right: auto;
@@ -11273,11 +11663,17 @@ body {
 		margin-top: 120px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: 60px;
+    margin-top: 50px;
     margin-left: 15px;
     margin-bottom: 130px;
 
 }
+.post .contactheader {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: -10px;
+	}
+
 
 
 
@@ -11302,12 +11698,12 @@ body {
 	}
 
 	.sectionRight {
-		width: 90%;
-		float: none;
-		margin-right: 5%;
-		margin-top: 50px;
-		margin-left: 5%;
-		margin-bottom: 250px;
+    width: 90%;
+    float: none;
+    margin-right: 5%;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-bottom: 99px;
 	}
 
 	.sectionRight.about .twitter {
@@ -11360,7 +11756,7 @@ body {
 		margin-top: -40px;
 	}
 .kiki-gallery.reallity .lightbox .Reallity {
-    margin-top: -10px;
+    margin-top: 15px;
     max-width: 563px;
     max-height: 374px;
     margin-right: auto;
@@ -11377,11 +11773,22 @@ body {
 		margin-bottom: 70px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: 50px;
-    margin-left: 15px;
+    margin-top: -70px;
+    margin-left: 50px;
     margin-bottom: 130px;
 
 }
+.post .contactheader {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: -10px;
+	}
+.sectionRight.about {
+    margin-top: 0px;
+    padding-bottom: 125px;
+	}
+
+
 
 
 
@@ -11411,7 +11818,7 @@ body {
     margin-right: 5%;
     margin-top: 50px;
     margin-left: 5%;
-    margin-bottom: 95px;
+    margin-bottom: 102px;
 	}
 
 	.bg-text.calendar {
@@ -11431,13 +11838,13 @@ body {
 	}
 
 	.sectionRight.about {
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 25px;
-		padding-bottom: 10px;
-		margin-bottom: 84px;
-		margin-top: -100px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 75px;
+    margin-top: -100px;
 	}
 
 	.post .asideLeft.twitter {
@@ -11476,7 +11883,7 @@ body {
 		margin-top: -150px;
 	}
 .kiki-gallery.reallity .lightbox .Reallity {
-    margin-top: -10px;
+    margin-top: 15px;
     max-width: 563px;
     max-height: 374px;
     margin-right: auto;
@@ -11487,11 +11894,23 @@ body {
 		margin-top: -200px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: 40px;
+    margin-top: -55px;
     margin-left: 15px;
     margin-bottom: 130px;
 
 }
+.post .contactheader {
+    text-align: center;
+    margin-top: -85px;
+    margin-bottom: -10px;
+	}
+.glichheader {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0px;
+	}
+
+
 
 
 
@@ -11539,13 +11958,13 @@ body {
 	}
 
 	.sectionRight.about {
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
-		padding-top: 25px;
-		padding-bottom: 10px;
-		margin-bottom: 77px;
-		margin-top: -145px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
+    margin-bottom: 84px;
+    margin-top: -495px;
 	}
 
 	.sectionRight.about .twitter {
@@ -11578,7 +11997,7 @@ body {
 
 	.kiki-gallery.reallity .lightbox .Reallity {
     margin-left: 50px;
-    margin-top: -30px;
+    margin-top: 15px;
     max-width: 470px;
     max-height: 312px;
 	}
@@ -11623,9 +12042,16 @@ body {
 }
 .post .contactheader {
     text-align: center;
-    margin-top: 30px;
+    margin-top: -105px;
     margin-bottom: 0px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -126px;
+    margin-left: -30px;
+    margin-bottom: 130px;
+
+}
+
 
 
 
@@ -11646,20 +12072,14 @@ body {
 		max-height: 1600px;
 	}
 
-	.asideLeft.about.popravi {
-    margin-left: 415px;
-    width: 20%;
-    margin-top: -75px;
-	}
-
 	.sectionRight.about {
-		margin-top: -180px;
-		width: 100%;
-		margin-bottom: 70px;
-		margin-left: 0px;
-		margin-right: 0px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    margin-top: -470px;
+    width: 100%;
+    margin-bottom: 75px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 10px;
 	}
 
 	.sectionRight.about .twitter {
@@ -11680,7 +12100,7 @@ body {
     width: 100%;
     float: none;
     margin-top: 70px;
-    margin-bottom: 55px;
+    margin-bottom: 58px;
 	}
 
 	.fiaph1 {
@@ -11774,6 +12194,19 @@ body {
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.asideLeft.about.popravi h1 {
+    margin-top: -150px;
+    margin-left: -15px;
+    margin-bottom: 130px;
+
+}
+.post .contactheader {
+    text-align: center;
+    margin-top: -199px;
+    margin-bottom: 0px;
+	}
+
+
 
 
 }
@@ -11811,6 +12244,13 @@ body {
 		margin-left: 0px;
 		padding-top: 3px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -150px;
+    margin-left: -20px;
+    margin-bottom: 130px;
+
+}
+
 
 }
 
@@ -11836,35 +12276,29 @@ body {
 
 	.sectionRight {
     margin-top: 50px;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
     width: 100%;
     margin-left: 0px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-    margin-top: -25px;
+    margin-top: 15px;
     max-width: 400px;
     max-height: 266px;
     margin-left: 50px;
 	}
 
-	.asideLeft.about.popravi {
-		margin-top: 100px;
-		margin-left: 400px;
-	}
-
 	.sectionRight.about {
-		margin-top: 220px;
-		width: 100%;
-		margin-bottom: 150px;
-		margin-left: 0px;
-		margin-right: 0px;
-		padding-top: 25px;
-		padding-bottom: 10px;
+    margin-top: 220px;
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-top: 25px;
+    padding-bottom: 0px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 0px;
+    margin-top: -10px;
 	}
 
 	.post .asideLeft.twitter {
@@ -11903,6 +12337,19 @@ body {
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.asideLeft.about.popravi h1 {
+    margin-top: -105px;
+    margin-left: 25px;
+    margin-bottom: 130px;
+
+}
+.glichheader {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0px;
+	}
+
+
 
 
 }
@@ -11925,11 +12372,7 @@ body {
 
 	.sectionRight {
     margin-top: 70px;
-    margin-bottom: 95px;
-	}
-.asideLeft.about.popravi {
-    margin-top: -75px;
-    margin-left: 415px;
+    margin-bottom: 92px;
 	}
 
 	.bg-text.calendar {
@@ -11988,13 +12431,13 @@ body {
     margin-top: 30px;
 }
 .sectionRight.about {
-    margin-top: -180px;
+    margin-top: -465px;
     width: 100%;
-    margin-bottom: 70px;
+    margin-bottom: 80px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
 	}
 .elfsight-app-31c826ba-40d8-4714-a962-758ffe8eaf15 {
     margin-top: 50px;
@@ -12008,6 +12451,20 @@ body {
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.glichheader {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-top: -150px;
+    margin-left: -70px;
+    margin-bottom: 130px;
+
+}
+
+
+
 
 
 
@@ -12034,8 +12491,8 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-		margin-top: 50px;
-		margin-bottom: 120px;
+    margin-top: 50px;
+    margin-bottom: 83px;
 	}
 
 	.asideLeft.about.popravi {
@@ -12047,15 +12504,15 @@ body {
 	.sectionRight.about {
     margin-top: 0px;
     width: 100%;
-    margin-bottom: 534px;
+    margin-bottom: 410px;
     margin-left: 0px;
     margin-right: 0px;
-    padding-top: 25px;
-    padding-bottom: 100px;
+    padding-top: 20px;
+    padding-bottom: 0px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: -1px;
+    margin-top: -40px;
 	}
 
 	.bg-text.calendar {
@@ -12069,7 +12526,7 @@ body {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-    margin-top: -30px;
+    margin-top: 16px;
     margin-left: 6.5px;
     max-width: 470px;
     max-height: 312px;
@@ -12116,10 +12573,16 @@ body {
     overflow-x: visible;
 }
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
-    margin-top: 510px;
+    margin-top: 600px;
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.glichheader {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0px;
+	}
+
 
 
 
@@ -12138,7 +12601,7 @@ body {
 }
 .sectionRight {
     margin-top: 50px;
-    margin-bottom: 76px;
+    margin-bottom: 80px;
 	}
 
 	.sectionRight.about .twitter {
@@ -12191,7 +12654,7 @@ body {
 
 	}
 .kiki-gallery.reallity .lightbox .Reallity {
-    margin-top: -65px;
+    margin-top: -25px;
     margin-left: 2.5px;
     max-width: 470px;
     max-height: 312px;
@@ -12205,18 +12668,17 @@ body {
 		margin-top: -205px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: -70px;
+    margin-top: -165px;
 }
 .sectionRight.about {
     margin-top: 0px;
     width: 100%;
-    margin-bottom: 0px;
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
 	}
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
-    margin-top: 475px;
+    margin-top: 499px;
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
@@ -12273,10 +12735,10 @@ body {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -30px;
-		margin-left: 0px;
-		max-width: 450px;
-		max-height: 299px;
+    margin-top: 15px;
+    margin-left: 0px;
+    max-width: 450px;
+    max-height: 299px;
 	}
 
 	.kiki-gallery.reallity .Reallity {
@@ -12311,7 +12773,7 @@ body {
     margin-left: 0px;
     margin-right: 0px;
     padding-top: 25px;
-    padding-bottom: 290px;
+    padding-bottom: 73px;
 	}
 .glichheader {
     margin-top: 30px;
@@ -12324,15 +12786,21 @@ body {
     overflow-x: visible;
 }
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
-    margin-top: 490px;
+    margin-top: 500px;
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
 .asideLeft.about.popravi h1 {
-    margin-top: -40px;
+    margin-top: -50px;
     font-size: x-large;
     margin-left: 20px;
 }
+.post .contactheader {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0px;
+	}
+
 
 
 
@@ -12355,8 +12823,8 @@ body {
 }
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 200px;
+    margin-top: 0px;
+    margin-bottom: 160px;
 	}
 
 	.sectionRight.about .twitter {
@@ -12417,16 +12885,28 @@ body {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -30px;
-		margin-left: 0px;
-		max-width: 450px;
-		max-height: 299px;
+    margin-top: 15px;
+    margin-left: 0px;
+    max-width: 450px;
+    max-height: 299px;
 	}
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
     margin-top: 500px;
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.sectionRight {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 25px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-top: -71px;
+    font-size: x-large;
+    margin-left: 20px;
+}
+
+
 
 
 }
@@ -12441,12 +12921,12 @@ body {
 }
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 170px;
+    margin-top: 0px;
+    margin-bottom: 80px;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: -30px;
+    margin-top: -50px;
 	}
 
 	.asideLeft.about {
@@ -12505,16 +12985,26 @@ body {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -30px;
-		margin-left: 0px;
-		max-width: 450px;
-		max-height: 299px;
+    margin-top: 15px;
+    margin-left: 0px;
+    max-width: 450px;
+    max-height: 299px;
 	}
 .sectionRight {
     margin-top: 50px;
     margin-bottom: 76px;
     margin-left: 0px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -90px;
+    font-size: x-large;
+    margin-left: 20px;
+}
+.glichheader {
+    margin-top: 70px;
+}
+
+
 
 
 }
@@ -12535,7 +13025,7 @@ body {
 
 	.sectionRight {
     margin-top: 110px;
-    margin-bottom: 75px;
+    margin-bottom: 80px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -12546,8 +13036,8 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 80px;
+    margin-top: 0px;
+    margin-bottom: 90px;
 	}
 
 	.asideLeft.about {
@@ -12624,7 +13114,7 @@ body {
 		margin-top: -265px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: -85px;
+    margin-top: -300px;
     margin-left: -75px;
 }
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
@@ -12654,12 +13144,12 @@ body {
 
 	.sectionRight {
     margin-top: 70px;
-    margin-bottom: 80px;
+    margin-bottom: 70px;
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 70px;
+    margin-top: 0px;
+    margin-bottom: 80px;
 	}
 
 	.asideLeft.about {
@@ -12720,7 +13210,7 @@ body {
 	}
 .post .contactheader {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 70px;
     margin-bottom: 10px;
 	}
 
@@ -12988,7 +13478,7 @@ body {
     margin-bottom: 115px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: -50px;
+    margin-top: -130px;
 }
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
     margin-top: 440px;
@@ -13021,6 +13511,7 @@ body {
 .sectionRight {
     margin-left: 0px;
     width: 100%;
+    margin-bottom: 90px;
 }
 
 
@@ -13031,7 +13522,7 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 300px;
+    padding-bottom: 145px;
 	}
 
 	.sectionRight.about .twitter {
@@ -13251,7 +13742,7 @@ body {
 }
 
 
-@media (max-width:432px) {
+@media (max-width:433px){
 	.kiki-gallery.reallity .lightbox .Reallity {
     margin-top: 0px;
     margin-left: 1.5px;
@@ -13417,11 +13908,6 @@ body {
 		margin-top: 0px;
 		padding-top: 30px;
 	}
-.sectionRight {
-    margin-bottom: 60px;
-    width: 100%;
-    margin-left: 0px;
-	}
 
 }
 
@@ -13448,17 +13934,18 @@ body {
 .sectionRight {
     margin-left: 0px;
     width: 100%;
+    margin-bottom: 200px;
 }
 
 
 
 	.sectionRight.about {
     margin-top: -100px;
-    margin-bottom: 215px;
+    margin-bottom: 170px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 300px;
+    padding-bottom: 200px;
 	}
 
 	.sectionRight.about .twitter {
@@ -13735,14 +14222,20 @@ body {
 		margin-bottom: 4px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: 15px;
+    margin-top: -70px;
     margin-left: -45px;
 }
 .sectionRight.about {
     margin-top: 0px;
     margin-bottom: 80px;
-    padding-bottom: 150px;
+    padding-bottom: 60px;
 	}
+.sectionRight {
+    margin-left: 0px;
+    width: 100%;
+    margin-bottom: 90px;
+}
+
 
 
 
@@ -13772,17 +14265,17 @@ body {
 }
 .sectionRight {
     margin-left: 0px;
+    margin-bottom: 100px;
 }
 
 
 
 	.sectionRight.about {
     margin-top: -100px;
-    margin-bottom: 215px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 300px;
+    padding-bottom: 30px;
 	}
 
 	.sectionRight.about .twitter {
@@ -13879,11 +14372,11 @@ body {
 
 	.sectionRight.about {
     margin-top: -100px;
-    margin-bottom: 200px;
+    margin-bottom: 195px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 270px;
+    padding-bottom: 5px;
 	}
 
 	.sectionRight.about .twitter {
@@ -13967,7 +14460,7 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-    margin-bottom: 0px;
+    margin-bottom: 105px;
 	}
 
 	.bg-text.calendar {
@@ -14033,8 +14526,13 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 208px;
+    padding-bottom: 10px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -90px;
+    margin-left: -20px;
+}
+
 
 
 }
@@ -14058,7 +14556,7 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 280px;
+    padding-bottom: 15px;
 	}
 
 	.asideLeft.about {
@@ -14155,7 +14653,7 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 200px;
+    padding-bottom: 15px;
 	}
 
 	.asideLeft.about {
@@ -14252,14 +14750,6 @@ body {
 		max-height: 1550px;
 	}
 
-	.sectionRight.about {
-    margin-top: 0px;
-    width: 100%;
-    margin-right: 0px;
-    margin-left: 0px;
-    padding-bottom: 200px;
-	}
-
 	.sectionRight.about .twitter {
 		margin-top: 30px;
 	}
@@ -14316,16 +14806,16 @@ body {
     max-height: 254px;
 	}
 .asideLeft.about.popravi h1 {
-    margin-top: 160px;
+    margin-top: -45px;
     margin-left: -20px;
 }
 .sectionRight.about {
     margin-top: -100px;
-    margin-bottom: 215px;
+    margin-bottom: 98px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 300px;
+    padding-bottom: 45px;
 	}
 
 
@@ -14353,7 +14843,7 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 200px;
+    padding-bottom: 0px;
 	}
 
 	.asideLeft.about {
@@ -14418,6 +14908,10 @@ body {
     margin-top: -60px;
     margin-left: -20px;
 }
+.sectionRight {
+    margin-bottom: 80px;
+	}
+
 
 
 }
@@ -14444,11 +14938,11 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 160px;
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
 	}
 
 	.asideLeft.about {
@@ -14498,6 +14992,10 @@ body {
 		height: 225px;
 		margin-bottom: 4px;
 	}
+.sectionRight {
+    margin-bottom: 90px;
+	}
+
 
 }
 
@@ -14522,11 +15020,11 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 120px;
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 87px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
 	}
 
 	.asideLeft.about {
@@ -14542,11 +15040,6 @@ body {
 		margin-left: 20px;
 		margin-top: 120px;
 		margin-bottom: 700px;
-	}
-
-	.asideLeft.about h1 {
-		font-size: large;
-		margin-top: -30px;
 	}
 
 	.sectionRight.about .twitter {
@@ -14575,13 +15068,18 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-    margin-bottom: 0px;
+    margin-bottom: 85px;
 	}
 
 	.sectionRight.contact #form1 #comments {
 		height: 225px;
 		margin-bottom: 4px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -85px;
+    margin-left: -20px;
+}
+
 
 }
 
@@ -14606,11 +15104,11 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 120px;
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 92px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
 	}
 
 	.asideLeft.about {
@@ -14658,7 +15156,7 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-    margin-bottom: 0px;
+    margin-bottom: 100px;
 	}
 
 	.sectionRight.contact #form1 #comments {
@@ -14688,16 +15186,16 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-    margin-bottom: 90px;
+    margin-bottom: 88px;
 
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 78px;
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
 	}
 
 	.asideLeft.about {
@@ -14760,6 +15258,11 @@ body {
 	.glitcoo {
 		margin-top: -220px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -110px;
+    margin-left: -20px;
+}
+
 
 }
 
@@ -14772,11 +15275,11 @@ body {
 
 }
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 160px;
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 111px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
 	}
 
 	.asideLeft.about {
@@ -14800,7 +15303,7 @@ body {
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 0px;
+
 	}
 
 	.bg-text.calendar {
@@ -14852,7 +15355,7 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-		margin-bottom: 70px;
+    margin-bottom: 80px;
 	}
 
 	.bg-text.calendar {
@@ -14861,11 +15364,11 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 0px;
-		margin-bottom: 115px;
-		width: 100%;
-		margin-right: 0px;
-		margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 95px;
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 0px;
 	}
 
 	.asideLeft.about {
@@ -14986,14 +15489,14 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-		margin-bottom: 51px;
+    margin-bottom: 100px;
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -50px;
-		margin-left: 0px;
-		max-width: 363px;
-		max-height: 254px;
+    margin-top: 4px;
+    margin-left: 0px;
+    max-width: 363px;
+    max-height: 254px;
 	}
 
 	.worldh1 {
@@ -15256,7 +15759,7 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 150px;
+    padding-bottom: 155px;
 	}
 
 	.asideLeft.about {
@@ -15402,6 +15905,16 @@ body {
 		margin-top: 0px;
 		padding-top: 30px;
 	}
+.sectionRight {
+    margin-bottom: 95px;
+	}
+.asideLeft.about.popravi h1 {
+    margin-top: -70px;
+    font-size: x-large;
+    margin-left: -50px;
+}
+
+
 
 }
 
@@ -15422,10 +15935,10 @@ body {
 	}
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -50px;
-		margin-left: -2px;
-		max-width: 363px;
-		max-height: 254px;
+    margin-top: 5px;
+    margin-left: -2px;
+    max-width: 363px;
+    max-height: 254px;
 	}
 
 	.asideLeft.about.popravi {
@@ -15434,7 +15947,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-bottom: 185px;
+    margin-bottom: 165px;
 	}
 
 	.post .asideLeft.twitter {
@@ -15464,8 +15977,14 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-		margin-bottom: 51px;
+    margin-bottom: 86px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -65px;
+    font-size: x-large;
+    margin-left: -50px;
+}
+
 
 }
 
@@ -15480,10 +15999,10 @@ body {
 }
 
 	.kiki-gallery.reallity .lightbox .Reallity {
-		margin-top: -50px;
-		margin-left: -2px;
-		max-width: 363px;
-		max-height: 254px;
+    margin-top: 5px;
+    margin-left: -2px;
+    max-width: 363px;
+    max-height: 254px;
 	}
 
 	.asideLeft.about.popravi {
@@ -15518,15 +16037,21 @@ body {
 	.asideLeft {}
 
 	.sectionRight {
-    margin-bottom: 60px;
+    margin-bottom: 83px;
 	}
 .sectionRight.about {
     margin-top: 0px;
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 145px;
+    padding-bottom: 100px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -101px;
+    font-size: x-large;
+    margin-left: -50px;
+}
+
 
 
 }
@@ -15549,7 +16074,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 150px;
+    margin-bottom: 87px;
 	}
 
 	.bg-text.calendar {
@@ -15757,6 +16282,12 @@ body {
 		height: 225px;
 		margin-bottom: 4px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -70px;
+    font-size: x-large;
+    margin-left: -75px;
+}
+
 
 }
 
@@ -15779,7 +16310,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 160px;
+    margin-bottom: 95px;
 	}
 
 	.bg-text.calendar {
@@ -15792,7 +16323,7 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
 	}
 
 	.asideLeft.about {
@@ -15846,6 +16377,12 @@ body {
 	.glitcoo {
 		margin-top: -185px;
 	}
+.asideLeft.about.popravi h1 {
+    margin-top: -100px;
+    font-size: x-large;
+    margin-left: -75px;
+}
+
 
 }
 
@@ -15856,6 +16393,12 @@ body {
     max-width: 360px;
     max-height: 239px;
 	}
+.worldh1 {
+    width: 55%;
+    text-align: center;
+    margin-left: 85px;
+}
+
 }
 
 @media (max-width:360px) and (max-height:760px) {
@@ -15928,13 +16471,13 @@ body {
     width: 100%;
     margin-right: 0px;
     margin-left: 0px;
-    padding-bottom: 100px;
+    padding-bottom: 95px;
 	}
 .asideLeft.about.popravi h1 {
     text-align: center;
     padding-right: 25px;
     margin-right: 0px;
-    margin-left: -11px;
+    margin-left: -75px;
 }
 .asideLeft {
     width: 58%;
@@ -15946,9 +16489,15 @@ body {
     margin-right: 20%;
 	}
 .sectionRight {
-    margin-bottom: 85px;
+    margin-bottom: 90px;
     margin-top: 65px;
 	}
+.worldh1 {
+    width: 55%;
+    text-align: center;
+    margin-left: 85px;
+}
+
 
 
 
@@ -15971,12 +16520,12 @@ body {
 }
 
 	.sectionRight.about {
-		margin-top: 660px;
-		width: 100%;
-		margin-bottom: 160px;
-		margin-left: 0px;
-		margin-right: 0px;
-		font-size: small;
+    margin-top: 660px;
+    width: 100%;
+    margin-bottom: 168px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: small;
 	}
 
 	.sectionRight.about p {
@@ -16063,7 +16612,7 @@ body {
     margin-right: 20%;
 	}
 .sectionRight {
-    margin-bottom: 155px;
+    margin-bottom: 100px;
     margin-top: 65px;
 	}
 
@@ -16286,12 +16835,12 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 660px;
-		width: 100%;
-		margin-bottom: 140px;
-		margin-left: 0px;
-		margin-right: 0px;
-		font-size: small;
+    margin-top: 660px;
+    width: 100%;
+    margin-bottom: 117px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: small;
 	}
 
 	.sectionRight.about p {
@@ -16299,7 +16848,7 @@ body {
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: 0px;
+    margin-top: -25px;
 	}
 
 	.asideLeft.about {
@@ -16378,9 +16927,17 @@ body {
     margin-right: 20%;
 	}
 .sectionRight {
-    margin-bottom: 130px;
+    margin-bottom: 125px;
     margin-top: 65px;
 	}
+.asideLeft.about.popravi h1 {
+    text-align: center;
+    padding-right: 25px;
+    margin-right: 0px;
+    margin-left: -100px;
+    margin-top: -80px;
+}
+
 
 
 
@@ -16415,7 +16972,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 90px;
+    margin-bottom: 95px;
     margin-top: 65px;
 	}
 
@@ -16504,6 +17061,14 @@ body {
     margin-bottom: 80px;
     margin-top: 65px;
 	}
+.asideLeft.about.popravi h1 {
+    text-align: center;
+    padding-right: 25px;
+    margin-right: 0px;
+    margin-left: -100px;
+    margin-top: -110px;
+}
+
 
 
 
@@ -16652,7 +17217,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 100px;
+    margin-bottom: 90px;
     margin-top: 65px;
 	}
 
@@ -16707,6 +17272,14 @@ body {
     margin-left: 0px;
     padding-bottom: 10px;
 	}
+.asideLeft.about.popravi h1 {
+    text-align: center;
+    padding-right: 25px;
+    margin-right: 0px;
+    margin-left: -100px;
+    margin-top: -126px;
+}
+
 
 
 }
@@ -16739,7 +17312,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 150px;
+    margin-bottom: 92px;
     margin-top: 65px;
 	}
 
@@ -16789,6 +17362,8 @@ body {
 	}
 .worldh1 {
     width: 55%;
+    text-align: center;
+    margin-left: 85px;
 }
 .sectionRight.about {
     margin-top: 0px;
@@ -16796,6 +17371,7 @@ body {
     margin-right: 0px;
     margin-left: 0px;
     padding-bottom: 10px;
+    margin-bottom: 95px;
 	}
 .kiki-gallery.reallity .lightbox .Reallity {
     margin-top: 15px;
@@ -16833,7 +17409,7 @@ body {
     margin-right: auto;
     text-align: center;
     max-height: 1400px;
-    margin-left: 8px;
+    margin-left: auto;
 	}
 
 	.asideLeft {
@@ -16847,8 +17423,8 @@ body {
 	}
 
 	.sectionRight {
-		margin-bottom: 55px;
-		margin-top: 125px;
+    margin-bottom: 65px;
+    margin-top: 125px;
 	}
 
 	.worldh1 {
@@ -16869,12 +17445,12 @@ body {
 	}
 
 	.sectionRight.about {
-		margin-top: 335px;
-		width: 100%;
-		margin-bottom: 80px;
-		margin-left: 0px;
-		margin-right: 0px;
-		font-size: small;
+    margin-top: -50px;
+    width: 100%;
+    margin-bottom: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: small;
 	}
 
 	.sectionRight.about p {
@@ -16943,6 +17519,18 @@ body {
 	.glitcoo {
 		margin-top: -330px;
 	}
+.post .contactheader {
+    text-align: center;
+    margin-top: -51px;
+    margin-bottom: -15px;
+	}
+.kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
+    margin-top: 300px;
+    margin-bottom: 0px;
+    padding-bottom: 30px;
+}
+
+
 
 }
 
@@ -16968,13 +17556,13 @@ body {
 }
 
 	.sectionRight.about {
-    margin-top: 580px;
+    margin-top: -248px;
     width: 100%;
     margin-left: 0px;
     margin-right: 0px;
     font-size: small;
-    padding-bottom: 130px;
-    margin-bottom: 150px;
+    padding-bottom: 89px;
+    margin-bottom: 80px;
 	}
 
 	.sectionRight.about p {
@@ -16992,17 +17580,6 @@ body {
 		padding-right: 0px;
 		padding-left: 321px;
 		font-size: medium;
-	}
-
-	.asideLeft.about.popravi {
-    margin-left: -120px;
-    margin-top: 95px;
-    margin-bottom: 0px;
-	}
-
-	.asideLeft.about h1 {
-		font-size: medium;
-		margin-top: -30px;
 	}
 
 	.post .asideLeft.twitter {
@@ -17040,7 +17617,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 88px;
+    margin-bottom: 65px;
     margin-top: 70px;
     width: 100%;
     margin-left: 0px;
@@ -17097,20 +17674,21 @@ body {
     margin-top: 50px;
     max-width: 80px;
     max-height: 80px;
-    margin-left: 100px;
+    margin-left: 33px;
 	}
 
 	.cameraobscuraheader {
-		text-align: center;
-		margin-top: 50px;
-		margin-right: 0px;
-		width: 80%;
-		height: 80%;
-		margin-left: 30px;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 0px;
+    width: 80%;
+    height: 80%;
+    margin-left: 33px;
 	}
 
 	.glichheader a img {
-    margin-top: 20px;
+    margin-top: 0px;
+    margin-left: 94px;
 	}
 
 	.post .contactheader {
@@ -17183,17 +17761,17 @@ body {
 	}
 
 	.cameraobscurah1 {
-		font-family: alfa-slab-one;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 1.8em;
-		text-align: center;
-		line-height: 1em;
-		height: 1em;
-		color: #FFFFFF;
-		text-shadow: 4px 5px 17px #000000;
-		margin-top: 0px;
-		padding-top: 30px;
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.8em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: 0px;
+    padding-top: 30px;
 	}
 
 	.glitchh1 {
@@ -17294,18 +17872,24 @@ body {
 	}
 
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1195px;
-		margin-left: 15px;
-		padding-top: 0px;
+    margin-top: 70px;
+    text-align: center;
+    max-height: 1195px;
+    padding-top: 0px;
 	}
 .kiki-gallery.reallity .elfsight-app-684432ab-c425-4274-a63b-ad2ecc4d8af9 {
     margin-top: 500px;
     margin-bottom: 0px;
     padding-bottom: 30px;
 }
+.asideLeft.about.popravi h1 {
+    text-align: center;
+    padding-right: 25px;
+    margin-right: 0px;
+    margin-left: -355px;
+    margin-top: -313px;
+}
+
 
 
 
@@ -17334,7 +17918,7 @@ body {
     text-align: center;
     max-height: 1450px;
     padding-top: 0px;
-    margin-left: -5px;
+    margin-left: 12px;
     margin-right: auto;
 	}
 
@@ -17349,7 +17933,7 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 106px;
+    margin-bottom: 95px;
     margin-top: 65px;
     width: 100%;
     margin-left: 0px;
@@ -17387,7 +17971,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 555px;
+    margin-top: 160px;
     width: 100%;
     margin-bottom: 70px;
     margin-left: 0px;
@@ -17475,7 +18059,8 @@ body {
 	}
 
 	.cameraobscuraheader {
-		text-align: center;
+    text-align: center;
+    margin-left: 32px;
 	}
 
 	.asideLeft.thankyou {
@@ -17495,6 +18080,19 @@ body {
 		margin-bottom: 0px;
 		margin-left: 0px;
 	}
+.glichheader a img {
+    margin-top: 0px;
+    margin-left: 90px;
+	}
+.glichheader {
+    text-align: center;
+    margin-top: 50px;
+    max-width: 80px;
+    max-height: 80px;
+    margin-left: 30px;
+	}
+
+
 
 }
 
@@ -17512,7 +18110,7 @@ body {
     text-align: center;
     max-height: 1616px;
     padding-top: 0px;
-    margin-left: -5px;
+    margin-left: 12px;
     margin-right: auto;
 	}
 
@@ -17565,7 +18163,7 @@ body {
 	}
 
 	.sectionRight.about {
-    margin-top: 555px;
+    margin-top: 190px;
     width: 100%;
     margin-bottom: 70px;
     margin-left: 0px;
@@ -17685,16 +18283,16 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1615px;
-		margin-left: -5px;
-		padding-top: 0px;
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1615px;
+    margin-left: 11px;
+    padding-top: 0px;
 	}
 
 	.sectionRight.about {
-    margin-top: 555px;
+    margin-top: 188px;
     width: 100%;
     margin-bottom: 68px;
     margin-left: 0px;
@@ -17779,12 +18377,12 @@ body {
 
 }
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1580px;
-		margin-left: -5px;
-		padding-top: 0px;
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1580px;
+    margin-left: 12px;
+    padding-top: 0px;
 	}
 
 	.asideLeft {
@@ -17798,14 +18396,14 @@ body {
 	}
 
 	.sectionRight {
-    margin-bottom: 85px;
+    margin-bottom: 92px;
     margin-top: 65px;
     width: 100%;
     margin-left: 0px;
 	}
 
 	.sectionRight.about {
-    margin-top: 540px;
+    margin-top: 203px;
     width: 100%;
     margin-bottom: 70px;
     margin-left: 0px;
@@ -17888,41 +18486,35 @@ body {
 @media (max-width:320px) and (max-height:480px) {
 .content .baguetteBoxOne.gallery.film {
     padding-bottom: 0em;
-
-
-
-
 }
+	
+	
+}
+
+@media (max-width:320px) and (max-height:240px){.container-fluid .navbar-header .navbar-brand {
+		margin-top: -20px;
+	}
+
 	.kiki-gallery.camera.obscura {
-		margin-top: 70px;
-		margin-right: auto;
-		text-align: center;
-		max-height: 1527px;
-		margin-left: -5px;
-		padding-top: 0px;
+    margin-top: 70px;
+    margin-right: auto;
+    text-align: center;
+    max-height: 1040px;
+    margin-left: 25px;
+    padding-top: 0px;
 	}
 
-	.asideLeft {
-		width: 63%;
-		text-align: center;
-		margin-top: -10px;
-		margin-left: 18%;
-		font-size: x-small;
-		clear: none;
-		margin-right: 18%;
-	}
-
-	.sectionRight {
-    margin-bottom: 70px;
-    margin-top: 65px;
-    width: 100%;
-    margin-left: 0px;
+	.kiki-gallery.reallity .lightbox .Reallity {
+		margin-top: 20px;
+		margin-left: -15px;
+		max-width: 240px;
+		max-height: 159px;
 	}
 
 	.sectionRight.about {
-    margin-top: 470px;
+    margin-top: 250px;
     width: 100%;
-    margin-bottom: 80px;
+    margin-bottom: 89px;
     margin-left: 0px;
     margin-right: 0px;
     font-size: small;
@@ -17930,10 +18522,14 @@ body {
 
 	.sectionRight.about p {
 		font-size: small;
+		width: 91%;
+		word-spacing: 0px;
+		text-align: justify;
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: -72px;
+		margin-top: -70px;
+		width: 90%;
 	}
 
 	.asideLeft.about {
@@ -17946,19 +18542,19 @@ body {
 	}
 
 	.asideLeft.about.popravi {
-		margin-left: -55px;
-		margin-top: 40px;
+		margin-left: -80px;
+		margin-top: 0px;
 		margin-bottom: 0px;
 	}
 
 	.asideLeft.about h1 {
-		font-size: medium;
+		font-size: small;
 		margin-top: -30px;
 	}
 
 	.post .asideLeft.twitter {
 		margin-top: 27px;
-		margin-bottom: 50px;
+		margin-bottom: 25px;
 		padding-bottom: 0px;
 		padding-top: 0px;
 		width: 100%;
@@ -17967,7 +18563,7 @@ body {
 	}
 
 	.post .sectionRight.contact {
-		margin-top: 40px;
+		margin-top: 108px;
 		width: 100%;
 		margin-bottom: 0px;
 		margin-right: 0px;
@@ -17976,25 +18572,265 @@ body {
 	}
 
 	.bg-text.calendar {
-		margin-top: -40px;
+		margin-top: 80px;
 		padding-left: 0px;
 		width: 100%;
 	}
 
-	.kiki-gallery.reallity .lightbox .Reallity {
-    margin-top: 0px;
-    margin-left: -15px;
-    max-width: 320px;
-    max-height: 213px;
-	}
-
 	.kiki-gallery.reallity .Reallity {
-		margin-top: -260px;
+		margin-top: -315px;
 	}
 
 	.glitcoo {
-		margin-top: -250px;
+		margin-top: -320px;
 	}
+
+	.kiki-gallery.reallity {
+		height: 215px;
+	}
+
+	.asideLeft {
+    width: 62%;
+    text-align: center;
+    margin-top: -15px;
+    margin-left: auto;
+    font-size: xx-small;
+    margin-right: auto;
+	}
+
+	.sectionRight {
+    margin-bottom: 120px;
+    margin-top: 80px;
+    width: 100%;
+    margin-left: 0px;
+	}
+
+	.filmh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.5em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: -10px;
+		padding-top: 30px;
+	}
+
+	.btsh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.5em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: -10px;
+		padding-top: 30px;
+	}
+
+	.worldh1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.5em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: -10px;
+		padding-top: 30px;
+		margin-left: 9.3%;
+		width: 81%;
+		margin-right: 9.3%;
+	}
+
+	.fiaph1 {
+		font-family: alfa-slab-one;
+		font-style: normal;
+		font-weight: 400;
+		font-size: 1.5em;
+		text-align: center;
+		line-height: 1em;
+		height: 1em;
+		color: #FFFFFF;
+		text-shadow: 4px 5px 17px #000000;
+		margin-top: 0px;
+		padding-top: 30px;
+	}
+
+	.cameraobscurah1 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: -10px;
+    padding-top: 30px;
+	}
+
+	.glitchh1 {
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: -10px;
+    padding-top: 30px;
+    margin-bottom: 0px;
+	}
+
+	.calendarheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: 120px;
+	}
+
+	.cameraobscuraheader {
+    text-align: center;
+    margin-top: -50px;
+    margin-right: 0px;
+    width: 80%;
+    height: 80%;
+    margin-left: 25px;
+	}
+
+	.fiapheader {
+    text-align: center;
+    margin-top: -50px;
+    margin-bottom: -10px;
+	}
+.glichheader {
+    text-align: center;
+    margin-top: -50px;
+    max-width: 80px;
+    max-height: 80px;
+    margin-left: 80px;
+	}
+.glichheader a img {
+    margin-top: 0px;
+	}
+.indexheader {
+}
+
+
+	.thankyouheader {
+		text-align: center;
+		margin-top: 50px;
+		margin-bottom: 255px;
+	}
+
+	.flip .front .prvafront {
+		max-width: 215px;
+		max-height: 154px;
+		margin-left: -50px;
+	}
+
+	.flip .back .prvaback {
+		max-width: 215px;
+		max-height: 154px;
+		margin-left: -50px;
+	}
+
+	.flip .front .drugafront {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .back .drugaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .front .trecafront {
+		max-width: 215px;
+		max-height: 154px;
+		margin-left: -50px;
+	}
+
+	.flip .back .trecaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .front .cetvrtafront {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .back .cetvrtaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .front .petafront {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip .back .petaback {
+		margin-left: -50px;
+		max-width: 215px;
+		max-height: 154px;
+	}
+
+	.flip > .front,
+	.flip > .back {
+		display: block;
+		color: white;
+		background-size: cover !important;
+		background-position: center !important;
+		width: 233px;
+		height: 170px;
+		padding: 0.6em 4.2em;
+		background: #313131;
+		border-radius: 10px;
+		margin-left: -12px;
+	}
+.content .baguetteBoxOne.gallery.film {
+    padding-bottom: 202px;
+
+}
+.post .contactheader {
+    text-align: center;
+    margin-top: -140px;
+	}
+.indexheader {
+    margin-top: -50px;
+}
+.filmheader {
+    margin-top: -50px;
+}
+.btsheader {
+    margin-top: -50px;
+}
+.worldheader {
+    margin-top: -50px;
+}
+
+
+
+
+
 
 }
 
@@ -18042,9 +18878,9 @@ p {
 }
 
 	.sectionRight.about {
-    margin-top: 670px;
+    margin-top: 173px;
     width: 100%;
-    margin-bottom: 95px;
+    margin-bottom: 80px;
     margin-left: 0px;
     margin-right: 0px;
     font-size: small;
@@ -18055,7 +18891,7 @@ p {
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: -80px;
+    margin-top: -50px;
 	}
 
 	.asideLeft.about {
@@ -18113,7 +18949,7 @@ p {
 	}
 
 	.sectionRight {
-    margin-bottom: 88px;
+    margin-bottom: 92px;
     margin-top: 70px;
     width: 100%;
     margin-left: 0px;
@@ -18183,12 +19019,13 @@ p {
 	}
 
 	.glichheader a img {
-    margin-top: 20px;
+    margin-top: 0px;
+    margin-left: 0px;
 	}
 
 	.post .contactheader {
-		text-align: center;
-		margin-top: 50px;
+    text-align: center;
+    margin-top: -70px;
 	}
 
 	.thankyouheader {
@@ -18417,12 +19254,12 @@ p {
 	}
 
 	.sectionRight.about {
-		margin-top: 670px;
-		width: 100%;
-		margin-bottom: 80px;
-		margin-left: 0px;
-		margin-right: 0px;
-		font-size: small;
+    margin-top: 180px;
+    width: 100%;
+    margin-bottom: 80px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: small;
 	}
 
 	.sectionRight.about p {
@@ -18430,7 +19267,7 @@ p {
 	}
 
 	.sectionRight.about .twitter {
-		margin-top: -80px;
+    margin-top: -50px;
 	}
 
 	.asideLeft.about {
@@ -18488,7 +19325,7 @@ p {
 	}
 
 	.sectionRight {
-    margin-bottom: 110px;
+    margin-bottom: 112px;
     margin-top: 70px;
     width: 100%;
     margin-left: 0px;
@@ -18557,13 +19394,9 @@ p {
     margin-left: 28px;
 	}
 
-	.glichheader a img {
-    margin-top: 20px;
-	}
-
 	.post .contactheader {
-		text-align: center;
-		margin-top: 50px;
+    text-align: center;
+    margin-top: -77px;
 	}
 
 	.thankyouheader {
@@ -18740,9 +19573,13 @@ p {
 		background: #313131;
 		border-radius: 10px;
 	}
+.glichheader a img {
+    margin-top: 0px;
+    margin-left: 0px;
+	}
+
 
 }
-
 
 
 h4 {
@@ -18752,6 +19589,8 @@ h4 {
 p {
 	margin: 10px;
 }
+
+
 
 @media (max-width:240px) {
 	.kiki-gallery.reallity .lightbox .Reallity {
@@ -18792,7 +19631,7 @@ p {
 	}
 
 	.sectionRight.about {
-    margin-top: 270px;
+    margin-top: 250px;
     width: 100%;
     margin-bottom: 89px;
     margin-left: 0px;
@@ -18879,10 +19718,10 @@ p {
 	}
 
 	.sectionRight {
-		margin-bottom: 85px;
-		margin-top: 65px;
-		width: 100%;
-		margin-left: 0px;
+    margin-bottom: 110px;
+    margin-top: 65px;
+    width: 100%;
+    margin-left: 0px;
 	}
 
 	.filmh1 {
@@ -18945,17 +19784,17 @@ p {
 	}
 
 	.cameraobscurah1 {
-		font-family: alfa-slab-one;
-		font-style: normal;
-		font-weight: 400;
-		font-size: 1.5em;
-		text-align: center;
-		line-height: 1em;
-		height: 1em;
-		color: #FFFFFF;
-		text-shadow: 4px 5px 17px #000000;
-		margin-top: 0px;
-		padding-top: 30px;
+    font-family: alfa-slab-one;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.5em;
+    text-align: center;
+    line-height: 1em;
+    height: 1em;
+    color: #FFFFFF;
+    text-shadow: 4px 5px 17px #000000;
+    margin-top: -10px;
+    padding-top: 30px;
 	}
 
 	.glitchh1 {
@@ -18968,7 +19807,7 @@ p {
     height: 1em;
     color: #FFFFFF;
     text-shadow: 4px 5px 17px #000000;
-    margin-top: 10px;
+    margin-top: -10px;
     padding-top: 30px;
     margin-bottom: 0px;
 	}
@@ -19001,7 +19840,7 @@ p {
     margin-left: 80px;
 	}
 .glichheader a img {
-    margin-top: 20px;
+    margin-top: 0px;
 	}
 
 	.thankyouheader {
@@ -19087,6 +19926,9 @@ p {
     padding-bottom: 202px;
 
 }
+.post .contactheader {
+    text-align: center;
+    margin-top: -140px;
+	}
+
 }
-
-
