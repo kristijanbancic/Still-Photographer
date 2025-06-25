@@ -2897,7 +2897,7 @@ body {
     margin-top: 50px;
     margin-right: auto;
     text-align: center;
-    max-height: 1150px;
+    max-height: 948px;
 	}
 
 	.bg-text.calendar {
@@ -2911,9 +2911,9 @@ body {
 	}
 
 	.sectionRight {
-    margin-top: 25px;
+    margin-top: 33px;
     padding-top: 10px;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
 	}
 
 	.asideLeft.about.popravi {
@@ -2924,7 +2924,6 @@ body {
 	.sectionRight.about {
     margin-top: 15px;
     width: 40%;
-    margin-bottom: 150px;
 	}
 
 	.sectionRight.about .twitter {
@@ -2933,13 +2932,13 @@ body {
 	}
 
 	.post .asideLeft.twitter {
-    margin-top: 15px;
+    margin-top: 50px;
     width: 22%;
 	}
 
 	.post .sectionRight.contact {
-    margin-top: 15px;
-    width: 22%;
+    margin-top: 50px;
+    width: 25%;
 	}
 
 	.asideLeft.thankyou {
