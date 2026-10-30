@@ -154,6 +154,26 @@
 			<br>
 			<input name="email" type="email" required class="formStyle" id="email" form="form1">
 			<br>
+            
+               <label for="subject"><strong>Message category:</strong></label><br>
+		   <select name="subject" id="subject" class="formStyle" required form="form1" onchange="toggleCustomSubject()">
+  <option value="">-- Select a category --</option>
+  <option value="Upit">General query</option>
+  <option value="Film">Film Stills collaboration</option>
+  <option value="Video">BTS videography collaboration</option>
+<option value="Special">Special Shoot - photography collaboration</option>
+  <option value="Tehnička podrška">Technical support - Camera and Electrical Department</option>
+  
+  <option value="custom">Enter custom name of your own topic</option>
+</select>
+              <br>
+              <!-- Hidden input field appears when "custom" is selected -->
+<div id="customSubjectContainer" style="display: none;">
+  <label for="customSubject"><strong>Enter the name of your topic:</strong></label><br>
+  <input type="text" name="customSubject" id="customSubject" class="formStyle" placeholder="Enter the name of your topic:">
+</div>
+
+            
 			<label for="comments">Your Message:</label>
 			<br>
 			<textarea name="comments" cols="5" required class="formStyle" id="comments" form="form1"></textarea>
@@ -168,6 +188,24 @@
 		<a class="twitter-timeline" data-width="100%" data-height="515px" data-theme="light" href="https://twitter.com/KristijanStill?ref_src=twsrc%5Etfw">Tweets by KristijanStill</a>
 		
 	</aside>
+    
+    <script>
+function toggleCustomSubject() {
+  const select = document.getElementById("subject");
+  const customContainer = document.getElementById("customSubjectContainer");
+  const customInput = document.getElementById("customSubject");
+
+  if (select.value === "custom") {
+    customContainer.style.display = "block";
+    customInput.required = true; // make it required when visible
+  } else {
+    customContainer.style.display = "none";
+    customInput.required = false;
+    customInput.value = ""; // clear previous input
+  }
+}
+</script>
+    
 	<footer>© 2020 - Kristijan Bančić</footer>
 	<script src="js/jquery-1.11.3.min.js"></script>
 	<script src="js/bootstrap.js"></script>
